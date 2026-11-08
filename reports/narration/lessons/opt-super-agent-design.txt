@@ -1,0 +1,25 @@
+Super-agent design, in plain words
+
+DeepSeek’s writeup is about an always-on system that routes work to specialists instead of trapping every task in a separate chat. It is architecture, not a marketing channel.
+
+Takeaway: Isolated chats do not scale past a handful of jobs. A router plus specialists is closer to how a small team already works.
+
+DeepSeek’s harness team published a long piece (original in Chinese, with a translation in this corpus) about “super-agent” design. They say it is architectural thinking, not a tour of existing product features.
+
+The problem they name: today’s agents usually live in isolated sessions. If you run several jobs, you switch between chats by hand and remember what each one contains. In their experience a person can follow about three to five active sessions. That ceiling is familiar if you have ever lost a thought in a pile of assistant tabs.
+
+As models get better at using tools with less step-by-step help, the human role moves up to decisions and sign-off. Personal agents that watch mail and calendars are one example of always-on, event-driven work. The same pattern, they write, matters in commercial work such as software.
+
+A super-agent, in their sketch, is closer to a dispatcher: it notices incoming work, sends it to specialist workers, and keeps you at the layer where judgment lives. That pairs with Hunt’s “one bot that reads the others” and with charters that forbid sending or paying.
+
+You do not need this architecture to market a first product. It is here so the adjacent systems writing in the corpus is not silently dropped.
+
+What to do
+
+Under 2 minutes. Name two jobs that should not share a chat.
+
+Optional, about 6 minutes. Sketch a router and three specialists, including forbidden actions.
+
+You're done when
+
+You can explain the session-isolation problem in ordinary words.

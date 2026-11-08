@@ -1,0 +1,1801 @@
+{
+  "generatedAt": "2026-11-08T18:54:26.426Z",
+  "inclusionPolicy": {
+    "rawSource": "Raw-source counts measure committed source files as written, including frontmatter and markdown markup for lesson/template files.",
+    "narration": "Narration-ready counts include title, summary, lesson body text with markdown/URLs stripped, module overview teaching text, and visual explainer text where that explainer adds new teaching copy. They exclude credits panels, source-library entries, navigation labels, timers, and repeated chrome."
+  },
+  "summary": {
+    "rawSource": {
+      "coreLessons": {
+        "words": 31232,
+        "characters": 189788
+      },
+      "optionalLessons": {
+        "words": 12341,
+        "characters": 77055
+      },
+      "templates": {
+        "words": 1071,
+        "characters": 6421
+      },
+      "lessonAndTemplateTotal": {
+        "words": 44644,
+        "characters": 273264
+      },
+      "fullCourseFiles": {
+        "words": 74723,
+        "characters": 584379,
+        "files": 61
+      }
+    },
+    "narrationReady": {
+      "moduleOverviews": {
+        "words": 870,
+        "characters": 5683
+      },
+      "coreLessons": {
+        "words": 23869,
+        "characters": 137274
+      },
+      "optionalLessons": {
+        "words": 7820,
+        "characters": 45340
+      },
+      "templates": {
+        "words": 1032,
+        "characters": 6144
+      },
+      "total": {
+        "words": 33591,
+        "characters": 194441
+      }
+    }
+  },
+  "entries": {
+    "modules": [
+      {
+        "id": "start",
+        "slug": "start-here",
+        "title": "Start here",
+        "narrationPath": "reports/narration/modules/start-here.txt",
+        "narration": {
+          "words": 106,
+          "characters": 657
+        }
+      },
+      {
+        "id": "I",
+        "slug": "see-clearly",
+        "title": "See clearly",
+        "narrationPath": "reports/narration/modules/see-clearly.txt",
+        "narration": {
+          "words": 115,
+          "characters": 756
+        }
+      },
+      {
+        "id": "II",
+        "slug": "make-the-thing-make-sense",
+        "title": "Make the thing make sense",
+        "narrationPath": "reports/narration/modules/make-the-thing-make-sense.txt",
+        "narration": {
+          "words": 112,
+          "characters": 731
+        }
+      },
+      {
+        "id": "III",
+        "slug": "get-found-by-people",
+        "title": "Get found by people",
+        "narrationPath": "reports/narration/modules/get-found-by-people.txt",
+        "narration": {
+          "words": 109,
+          "characters": 665
+        }
+      },
+      {
+        "id": "IV",
+        "slug": "be-findable",
+        "title": "Be findable",
+        "narrationPath": "reports/narration/modules/be-findable.txt",
+        "narration": {
+          "words": 99,
+          "characters": 722
+        }
+      },
+      {
+        "id": "V",
+        "slug": "learn-what-worked",
+        "title": "Learn what worked",
+        "narrationPath": "reports/narration/modules/learn-what-worked.txt",
+        "narration": {
+          "words": 101,
+          "characters": 636
+        }
+      },
+      {
+        "id": "VI",
+        "slug": "work-with-agents",
+        "title": "Work with agents without giving up judgment",
+        "narrationPath": "reports/narration/modules/work-with-agents.txt",
+        "narration": {
+          "words": 108,
+          "characters": 736
+        }
+      },
+      {
+        "id": "optional",
+        "slug": "optional-depth",
+        "title": "Optional depth",
+        "narrationPath": "reports/narration/modules/optional-depth.txt",
+        "narration": {
+          "words": 120,
+          "characters": 780
+        }
+      }
+    ],
+    "lessons": [
+      {
+        "id": "00-start-here",
+        "title": "Start here",
+        "slug": "start-here",
+        "optional": false,
+        "sourcePath": "course/content/00-start-here.md",
+        "narrationPath": "reports/narration/lessons/00-start-here.txt",
+        "rawSource": {
+          "words": 633,
+          "characters": 3823
+        },
+        "narration": {
+          "words": 452,
+          "characters": 2604
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "00-start-here-i01",
+          "00-start-here-i02"
+        ],
+        "sourceIds": [
+          "firstparty-course-design"
+        ]
+      },
+      {
+        "id": "01-what-marketing-is",
+        "title": "What marketing is",
+        "slug": "what-marketing-is",
+        "optional": false,
+        "sourcePath": "course/content/lessons/01-what-marketing-is.md",
+        "narrationPath": "reports/narration/lessons/01-what-marketing-is.txt",
+        "rawSource": {
+          "words": 1068,
+          "characters": 6355
+        },
+        "narration": {
+          "words": 950,
+          "characters": 5426
+        },
+        "visualKind": "four-steps",
+        "creditItemIds": [
+          "01-what-marketing-is-i01",
+          "01-what-marketing-is-i02",
+          "01-what-marketing-is-i03"
+        ],
+        "sourceIds": [
+          "web-40c650dd4068",
+          "web-e45aef7612b2",
+          "web-060dddd60072"
+        ]
+      },
+      {
+        "id": "02-go-one-circle-in",
+        "title": "Go one circle in",
+        "slug": "go-one-circle-in",
+        "optional": false,
+        "sourcePath": "course/content/lessons/02-go-one-circle-in.md",
+        "narrationPath": "reports/narration/lessons/02-go-one-circle-in.txt",
+        "rawSource": {
+          "words": 886,
+          "characters": 5361
+        },
+        "narration": {
+          "words": 815,
+          "characters": 4751
+        },
+        "visualKind": "circles",
+        "creditItemIds": [
+          "02-go-one-circle-in-i01",
+          "02-go-one-circle-in-i02",
+          "02-go-one-circle-in-i03"
+        ],
+        "sourceIds": [
+          "web-d758d244c7f5",
+          "x-1844394615954370936"
+        ]
+      },
+      {
+        "id": "03-process-before-tactics",
+        "title": "Process before tactics",
+        "slug": "process-before-tactics",
+        "optional": false,
+        "sourcePath": "course/content/lessons/03-process-before-tactics.md",
+        "narrationPath": "reports/narration/lessons/03-process-before-tactics.txt",
+        "rawSource": {
+          "words": 1256,
+          "characters": 7908
+        },
+        "narration": {
+          "words": 868,
+          "characters": 4974
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "03-process-before-tactics-i01",
+          "03-process-before-tactics-i02",
+          "03-process-before-tactics-i03",
+          "03-process-before-tactics-i04",
+          "03-process-before-tactics-i05",
+          "03-process-before-tactics-i06"
+        ],
+        "sourceIds": [
+          "web-a9fdfd6339f6",
+          "x-2042133476259070417",
+          "x-2041932600298614896",
+          "x-2042111501608391080",
+          "web-2d989761cf0d",
+          "web-85126f33fa41",
+          "web-64a42f70c24b"
+        ]
+      },
+      {
+        "id": "04-one-channel-first",
+        "title": "One channel first",
+        "slug": "one-channel-first",
+        "optional": false,
+        "sourcePath": "course/content/lessons/04-one-channel-first.md",
+        "narrationPath": "reports/narration/lessons/04-one-channel-first.txt",
+        "rawSource": {
+          "words": 1214,
+          "characters": 7404
+        },
+        "narration": {
+          "words": 972,
+          "characters": 5659
+        },
+        "visualKind": "channel-choice",
+        "creditItemIds": [
+          "04-one-channel-first-i01",
+          "04-one-channel-first-i02",
+          "04-one-channel-first-i03",
+          "04-one-channel-first-i04",
+          "04-one-channel-first-i05"
+        ],
+        "sourceIds": [
+          "web-da4ef02f3ddf"
+        ]
+      },
+      {
+        "id": "05-talk-to-people",
+        "title": "Talk to people who already have the problem",
+        "slug": "talk-to-people",
+        "optional": false,
+        "sourcePath": "course/content/lessons/05-talk-to-people.md",
+        "narrationPath": "reports/narration/lessons/05-talk-to-people.txt",
+        "rawSource": {
+          "words": 1083,
+          "characters": 6674
+        },
+        "narration": {
+          "words": 768,
+          "characters": 4447
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "05-talk-to-people-i01",
+          "05-talk-to-people-i02",
+          "05-talk-to-people-i03",
+          "05-talk-to-people-i04"
+        ],
+        "sourceIds": [
+          "x-2118657239217041552",
+          "x-2069756425468056032",
+          "x-1985573315830772193",
+          "web-2c5d6a6c14aa"
+        ]
+      },
+      {
+        "id": "06-gather-raw-material",
+        "title": "Gather raw material before you ask an assistant",
+        "slug": "gather-raw-material",
+        "optional": false,
+        "sourcePath": "course/content/lessons/06-gather-raw-material.md",
+        "narrationPath": "reports/narration/lessons/06-gather-raw-material.txt",
+        "rawSource": {
+          "words": 1146,
+          "characters": 7158
+        },
+        "narration": {
+          "words": 811,
+          "characters": 4739
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "06-gather-raw-material-i01",
+          "06-gather-raw-material-i02",
+          "06-gather-raw-material-i03",
+          "06-gather-raw-material-i04"
+        ],
+        "sourceIds": [
+          "x-2118657239217041552",
+          "x-2119091729181880583",
+          "x-2118984119988236662",
+          "x-1697157685941326148"
+        ]
+      },
+      {
+        "id": "07-make-the-difference-obvious",
+        "title": "Make the difference obvious",
+        "slug": "make-the-difference-obvious",
+        "optional": false,
+        "sourcePath": "course/content/lessons/07-make-the-difference-obvious.md",
+        "narrationPath": "reports/narration/lessons/07-make-the-difference-obvious.txt",
+        "rawSource": {
+          "words": 1554,
+          "characters": 9619
+        },
+        "narration": {
+          "words": 1261,
+          "characters": 7393
+        },
+        "visualKind": "positioning-frame",
+        "creditItemIds": [
+          "07-make-the-difference-obvious-i01",
+          "07-make-the-difference-obvious-i02",
+          "07-make-the-difference-obvious-i03",
+          "07-make-the-difference-obvious-i04",
+          "07-make-the-difference-obvious-i05",
+          "07-make-the-difference-obvious-i06"
+        ],
+        "sourceIds": [
+          "web-2c5d6a6c14aa",
+          "x-2090754751977898456",
+          "x-2090754749297819741",
+          "x-2042111501608391080",
+          "x-1709147454606565816",
+          "x-1685889949449523201"
+        ]
+      },
+      {
+        "id": "08-start-with-the-enemy",
+        "title": "Start with the enemy, not with yourself",
+        "slug": "start-with-the-enemy",
+        "optional": false,
+        "sourcePath": "course/content/lessons/08-start-with-the-enemy.md",
+        "narrationPath": "reports/narration/lessons/08-start-with-the-enemy.txt",
+        "rawSource": {
+          "words": 1599,
+          "characters": 9829
+        },
+        "narration": {
+          "words": 1164,
+          "characters": 6798
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "08-start-with-the-enemy-i01",
+          "08-start-with-the-enemy-i02",
+          "08-start-with-the-enemy-i03",
+          "08-start-with-the-enemy-i04",
+          "08-start-with-the-enemy-i05",
+          "08-start-with-the-enemy-i06"
+        ],
+        "sourceIds": [
+          "web-b970bd340905",
+          "x-2069756425468056032",
+          "x-2117351855856779486",
+          "x-2111080389565640897",
+          "web-94968f7e7047"
+        ]
+      },
+      {
+        "id": "09-one-page-and-gacc",
+        "title": "Fit the plan on one page",
+        "slug": "one-page-and-gacc",
+        "optional": false,
+        "sourcePath": "course/content/lessons/09-one-page-and-gacc.md",
+        "narrationPath": "reports/narration/lessons/09-one-page-and-gacc.txt",
+        "rawSource": {
+          "words": 1231,
+          "characters": 7495
+        },
+        "narration": {
+          "words": 846,
+          "characters": 4819
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "09-one-page-and-gacc-i01",
+          "09-one-page-and-gacc-i02",
+          "09-one-page-and-gacc-i03",
+          "09-one-page-and-gacc-i04",
+          "09-one-page-and-gacc-i05"
+        ],
+        "sourceIds": [
+          "web-8f01c0edd455",
+          "x-1832046081703584110",
+          "x-1992900998051106889",
+          "web-kunal-onepage-template",
+          "x-1988488479764877432",
+          "x-1992944068419293355",
+          "x-2119288111020519508",
+          "web-a2d9ccaad477"
+        ]
+      },
+      {
+        "id": "10-common-missteps",
+        "title": "Eleven missteps worth checking against",
+        "slug": "common-missteps",
+        "optional": false,
+        "sourcePath": "course/content/lessons/10-common-missteps.md",
+        "narrationPath": "reports/narration/lessons/10-common-missteps.txt",
+        "rawSource": {
+          "words": 1310,
+          "characters": 8088
+        },
+        "narration": {
+          "words": 1032,
+          "characters": 5904
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "10-common-missteps-i01",
+          "10-common-missteps-i02",
+          "10-common-missteps-i03"
+        ],
+        "sourceIds": [
+          "x-1685889947461402624",
+          "x-1685889949449523201",
+          "x-1685889951311765504",
+          "x-1685889953169866752",
+          "x-1685889954960777216",
+          "x-1685889956936364032",
+          "x-1685889958777614336",
+          "x-1685889960677687297",
+          "x-1685889962544189441",
+          "x-1685889964586786816",
+          "x-1685889966520365058",
+          "x-1685889968466538496",
+          "x-1685889970626531328"
+        ]
+      },
+      {
+        "id": "11-homepage-that-makes-sense",
+        "title": "A homepage that makes sense",
+        "slug": "homepage-that-makes-sense",
+        "optional": false,
+        "sourcePath": "course/content/lessons/11-homepage-that-makes-sense.md",
+        "narrationPath": "reports/narration/lessons/11-homepage-that-makes-sense.txt",
+        "rawSource": {
+          "words": 1313,
+          "characters": 7736
+        },
+        "narration": {
+          "words": 1105,
+          "characters": 6364
+        },
+        "visualKind": "homepage-frame",
+        "creditItemIds": [
+          "11-homepage-that-makes-sense-i01",
+          "11-homepage-that-makes-sense-i02",
+          "11-homepage-that-makes-sense-i03"
+        ],
+        "sourceIds": [
+          "web-ac9c80b54e73"
+        ]
+      },
+      {
+        "id": "12-the-whole-journey",
+        "title": "Think in the whole journey",
+        "slug": "the-whole-journey",
+        "optional": false,
+        "sourcePath": "course/content/lessons/12-the-whole-journey.md",
+        "narrationPath": "reports/narration/lessons/12-the-whole-journey.txt",
+        "rawSource": {
+          "words": 1071,
+          "characters": 6929
+        },
+        "narration": {
+          "words": 869,
+          "characters": 5246
+        },
+        "visualKind": "journey-stack",
+        "creditItemIds": [
+          "12-the-whole-journey-i01",
+          "12-the-whole-journey-i02",
+          "12-the-whole-journey-i03",
+          "12-the-whole-journey-i04"
+        ],
+        "sourceIds": [
+          "x-1951276376251617737",
+          "x-1685889954960777216",
+          "x-1697157671567470819",
+          "x-1697157673576542375",
+          "x-1697157675510010357",
+          "x-1697157690076877066",
+          "x-2069756425468056032",
+          "x-1985573315830772193"
+        ]
+      },
+      {
+        "id": "13-show-proof-when-you-launch",
+        "title": "Show proof when you launch",
+        "slug": "show-proof-when-you-launch",
+        "optional": false,
+        "sourcePath": "course/content/lessons/13-show-proof-when-you-launch.md",
+        "narrationPath": "reports/narration/lessons/13-show-proof-when-you-launch.txt",
+        "rawSource": {
+          "words": 1575,
+          "characters": 9378
+        },
+        "narration": {
+          "words": 1246,
+          "characters": 7088
+        },
+        "visualKind": "proof-ladder",
+        "creditItemIds": [
+          "13-show-proof-when-you-launch-i01",
+          "13-show-proof-when-you-launch-i02",
+          "13-show-proof-when-you-launch-i03",
+          "13-show-proof-when-you-launch-i04",
+          "13-show-proof-when-you-launch-i05",
+          "13-show-proof-when-you-launch-i06"
+        ],
+        "sourceIds": [
+          "x-1685889964586786816",
+          "x-1697157688143303119",
+          "x-2117351855856779486",
+          "web-b970bd340905",
+          "x-2114746175026798821"
+        ]
+      },
+      {
+        "id": "14-pick-a-vehicle",
+        "title": "Pick a vehicle for the story",
+        "slug": "pick-a-vehicle",
+        "optional": false,
+        "sourcePath": "course/content/lessons/14-pick-a-vehicle.md",
+        "narrationPath": "reports/narration/lessons/14-pick-a-vehicle.txt",
+        "rawSource": {
+          "words": 1140,
+          "characters": 6858
+        },
+        "narration": {
+          "words": 858,
+          "characters": 4925
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "14-pick-a-vehicle-i01",
+          "14-pick-a-vehicle-i02",
+          "14-pick-a-vehicle-i03"
+        ],
+        "sourceIds": [
+          "x-2111080389565640897",
+          "web-da4ef02f3ddf"
+        ]
+      },
+      {
+        "id": "15-write-one-idea",
+        "title": "Write one idea people can finish",
+        "slug": "write-one-idea",
+        "optional": false,
+        "sourcePath": "course/content/lessons/15-write-one-idea.md",
+        "narrationPath": "reports/narration/lessons/15-write-one-idea.txt",
+        "rawSource": {
+          "words": 1529,
+          "characters": 9269
+        },
+        "narration": {
+          "words": 1057,
+          "characters": 6025
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "15-write-one-idea-i01",
+          "15-write-one-idea-i02",
+          "15-write-one-idea-i03",
+          "15-write-one-idea-i04",
+          "15-write-one-idea-i05",
+          "15-write-one-idea-i06"
+        ],
+        "sourceIds": [
+          "x-2118723940638138486",
+          "x-2119241264843358402",
+          "x-1697157677531668673",
+          "x-1696130516045471844"
+        ]
+      },
+      {
+        "id": "16-be-findable",
+        "title": "Make the site possible to find",
+        "slug": "be-findable",
+        "optional": false,
+        "sourcePath": "course/content/lessons/16-be-findable.md",
+        "narrationPath": "reports/narration/lessons/16-be-findable.txt",
+        "rawSource": {
+          "words": 1055,
+          "characters": 6231
+        },
+        "narration": {
+          "words": 814,
+          "characters": 4532
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "16-be-findable-i01",
+          "16-be-findable-i02"
+        ],
+        "sourceIds": [
+          "x-2116062550416871512",
+          "x-1697157681549897945"
+        ]
+      },
+      {
+        "id": "17-improve-what-already-ranks",
+        "title": "Improve what already almost ranks",
+        "slug": "improve-what-already-ranks",
+        "optional": false,
+        "sourcePath": "course/content/lessons/17-improve-what-already-ranks.md",
+        "narrationPath": "reports/narration/lessons/17-improve-what-already-ranks.txt",
+        "rawSource": {
+          "words": 1696,
+          "characters": 10177
+        },
+        "narration": {
+          "words": 1218,
+          "characters": 6864
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "17-improve-what-already-ranks-i01",
+          "17-improve-what-already-ranks-i02",
+          "17-improve-what-already-ranks-i03",
+          "17-improve-what-already-ranks-i04",
+          "17-improve-what-already-ranks-i05",
+          "17-improve-what-already-ranks-i06"
+        ],
+        "sourceIds": [
+          "x-2119171723849245031",
+          "x-2118851191538946188",
+          "x-2119227612258054502",
+          "x-2115050945746739607"
+        ]
+      },
+      {
+        "id": "18-show-up-in-ai-answers",
+        "title": "Show up when people ask an assistant",
+        "slug": "show-up-in-ai-answers",
+        "optional": false,
+        "sourcePath": "course/content/lessons/18-show-up-in-ai-answers.md",
+        "narrationPath": "reports/narration/lessons/18-show-up-in-ai-answers.txt",
+        "rawSource": {
+          "words": 1653,
+          "characters": 10399
+        },
+        "narration": {
+          "words": 1261,
+          "characters": 7541
+        },
+        "visualKind": "ai-citation",
+        "creditItemIds": [
+          "18-show-up-in-ai-answers-i01",
+          "18-show-up-in-ai-answers-i02",
+          "18-show-up-in-ai-answers-i03",
+          "18-show-up-in-ai-answers-i04",
+          "18-show-up-in-ai-answers-i05",
+          "18-show-up-in-ai-answers-i06",
+          "18-show-up-in-ai-answers-i07"
+        ],
+        "sourceIds": [
+          "x-2115568290307469548",
+          "x-2117333079106932897",
+          "vendor-profound-discovered-labs",
+          "x-2118984117756756224"
+        ]
+      },
+      {
+        "id": "19-be-listed-where-buyers-look",
+        "title": "Be listed where buyers already look",
+        "slug": "be-listed-where-buyers-look",
+        "optional": false,
+        "sourcePath": "course/content/lessons/19-be-listed-where-buyers-look.md",
+        "narrationPath": "reports/narration/lessons/19-be-listed-where-buyers-look.txt",
+        "rawSource": {
+          "words": 1394,
+          "characters": 8757
+        },
+        "narration": {
+          "words": 973,
+          "characters": 5709
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "19-be-listed-where-buyers-look-i01",
+          "19-be-listed-where-buyers-look-i02",
+          "19-be-listed-where-buyers-look-i03",
+          "19-be-listed-where-buyers-look-i04",
+          "19-be-listed-where-buyers-look-i05",
+          "19-be-listed-where-buyers-look-i06"
+        ],
+        "sourceIds": [
+          "x-2119247229601062993",
+          "x-2117540123294171201",
+          "x-2119140218028900809",
+          "x-2118344835497169143",
+          "x-2118714992119759236",
+          "x-2119079928901890194",
+          "x-2119165493470974378"
+        ]
+      },
+      {
+        "id": "20-trust-what-you-measure",
+        "title": "Trust what you measure",
+        "slug": "trust-what-you-measure",
+        "optional": false,
+        "sourcePath": "course/content/lessons/20-trust-what-you-measure.md",
+        "narrationPath": "reports/narration/lessons/20-trust-what-you-measure.txt",
+        "rawSource": {
+          "words": 1298,
+          "characters": 7946
+        },
+        "narration": {
+          "words": 1002,
+          "characters": 5738
+        },
+        "visualKind": "test-loop",
+        "creditItemIds": [
+          "20-trust-what-you-measure-i01",
+          "20-trust-what-you-measure-i02",
+          "20-trust-what-you-measure-i03",
+          "20-trust-what-you-measure-i04",
+          "20-trust-what-you-measure-i05",
+          "20-trust-what-you-measure-i06"
+        ],
+        "sourceIds": [
+          "web-a9fdfd6339f6",
+          "web-a2d9ccaad477",
+          "web-8f01c0edd455",
+          "x-2118851191538946188",
+          "x-2118984128687124762",
+          "x-2118984126568993159",
+          "x-2118984124354511076",
+          "x-2118984130847285364",
+          "x-1697157679553359887"
+        ]
+      },
+      {
+        "id": "21-give-a-bot-one-job",
+        "title": "Give a bot one job",
+        "slug": "give-a-bot-one-job",
+        "optional": false,
+        "sourcePath": "course/content/lessons/21-give-a-bot-one-job.md",
+        "narrationPath": "reports/narration/lessons/21-give-a-bot-one-job.txt",
+        "rawSource": {
+          "words": 1824,
+          "characters": 10331
+        },
+        "narration": {
+          "words": 1390,
+          "characters": 7554
+        },
+        "visualKind": "agent-charter",
+        "creditItemIds": [
+          "21-give-a-bot-one-job-i01",
+          "21-give-a-bot-one-job-i02",
+          "21-give-a-bot-one-job-i03",
+          "21-give-a-bot-one-job-i04",
+          "21-give-a-bot-one-job-i05",
+          "21-give-a-bot-one-job-i06",
+          "21-give-a-bot-one-job-i07"
+        ],
+        "sourceIds": [
+          "x-2118086670918750341",
+          "x-2105275395901726845"
+        ]
+      },
+      {
+        "id": "22-keep-ownership",
+        "title": "Keep ownership of the answer",
+        "slug": "keep-ownership",
+        "optional": false,
+        "sourcePath": "course/content/lessons/22-keep-ownership.md",
+        "narrationPath": "reports/narration/lessons/22-keep-ownership.txt",
+        "rawSource": {
+          "words": 1259,
+          "characters": 7406
+        },
+        "narration": {
+          "words": 1085,
+          "characters": 6120
+        },
+        "visualKind": "ownership-boundary",
+        "creditItemIds": [
+          "22-keep-ownership-i01",
+          "22-keep-ownership-i02",
+          "22-keep-ownership-i03"
+        ],
+        "sourceIds": [
+          "x-2117512471930167377"
+        ]
+      },
+      {
+        "id": "23-write-down-what-you-learned",
+        "title": "Write down what you learned, not everything that happened",
+        "slug": "write-down-what-you-learned",
+        "optional": false,
+        "sourcePath": "course/content/lessons/23-write-down-what-you-learned.md",
+        "narrationPath": "reports/narration/lessons/23-write-down-what-you-learned.txt",
+        "rawSource": {
+          "words": 1445,
+          "characters": 8657
+        },
+        "narration": {
+          "words": 1052,
+          "characters": 6054
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "23-write-down-what-you-learned-i01",
+          "23-write-down-what-you-learned-i02",
+          "23-write-down-what-you-learned-i03",
+          "23-write-down-what-you-learned-i04"
+        ],
+        "sourceIds": [
+          "web-anthropic-agent-memory",
+          "firstparty-course-design"
+        ]
+      },
+      {
+        "id": "opt-how-x-ranks",
+        "title": "How X decides who sees a post",
+        "slug": "how-x-ranks",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-how-x-ranks.md",
+        "narrationPath": "reports/narration/lessons/opt-how-x-ranks.txt",
+        "rawSource": {
+          "words": 1025,
+          "characters": 6277
+        },
+        "narration": {
+          "words": 711,
+          "characters": 4127
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-how-x-ranks-i01",
+          "opt-how-x-ranks-i02",
+          "opt-how-x-ranks-i03"
+        ],
+        "sourceIds": [
+          "x-2117633599608631361",
+          "x-2117351855856779486",
+          "x-2117684231983800732"
+        ]
+      },
+      {
+        "id": "opt-paid-listicles",
+        "title": "Paid listicles and other sharp link tactics",
+        "slug": "paid-listicles",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-paid-listicles.md",
+        "narrationPath": "reports/narration/lessons/opt-paid-listicles.txt",
+        "rawSource": {
+          "words": 1183,
+          "characters": 7434
+        },
+        "narration": {
+          "words": 818,
+          "characters": 4854
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-paid-listicles-i01",
+          "opt-paid-listicles-i02",
+          "opt-paid-listicles-i03",
+          "opt-paid-listicles-i04"
+        ],
+        "sourceIds": [
+          "x-2118950207237013676",
+          "x-2118958665411792966",
+          "x-2119364302385860979",
+          "x-2119368837208686724",
+          "x-2116164330014007296",
+          "x-2115050945746739607",
+          "x-2116177204061388838"
+        ]
+      },
+      {
+        "id": "opt-exact-match-domains",
+        "title": "Exact-match domains",
+        "slug": "exact-match-domains",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-exact-match-domains.md",
+        "narrationPath": "reports/narration/lessons/opt-exact-match-domains.txt",
+        "rawSource": {
+          "words": 935,
+          "characters": 5890
+        },
+        "narration": {
+          "words": 618,
+          "characters": 3652
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-exact-match-domains-i01",
+          "opt-exact-match-domains-i02",
+          "opt-exact-match-domains-i03"
+        ],
+        "sourceIds": [
+          "x-2119089991217262884",
+          "x-2119126406613610758",
+          "x-2119362694713078139"
+        ]
+      },
+      {
+        "id": "opt-cold-email-diagnostics",
+        "title": "How to read a cold-email report without sending one",
+        "slug": "cold-email-diagnostics",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-cold-email-diagnostics.md",
+        "narrationPath": "reports/narration/lessons/opt-cold-email-diagnostics.txt",
+        "rawSource": {
+          "words": 878,
+          "characters": 5406
+        },
+        "narration": {
+          "words": 552,
+          "characters": 3167
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-cold-email-diagnostics-i01",
+          "opt-cold-email-diagnostics-i02",
+          "opt-cold-email-diagnostics-i03"
+        ],
+        "sourceIds": [
+          "x-2119415642202034427"
+        ]
+      },
+      {
+        "id": "opt-competitor-ads",
+        "title": "Read competitor ads as research",
+        "slug": "competitor-ads",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-competitor-ads.md",
+        "narrationPath": "reports/narration/lessons/opt-competitor-ads.txt",
+        "rawSource": {
+          "words": 876,
+          "characters": 5413
+        },
+        "narration": {
+          "words": 567,
+          "characters": 3228
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-competitor-ads-i01",
+          "opt-competitor-ads-i02",
+          "opt-competitor-ads-i03"
+        ],
+        "sourceIds": [
+          "x-2119077318769385871",
+          "x-2118984115533795406"
+        ]
+      },
+      {
+        "id": "opt-video-restraint",
+        "title": "Make video look expensive by showing less",
+        "slug": "video-restraint",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-video-restraint.md",
+        "narrationPath": "reports/narration/lessons/opt-video-restraint.txt",
+        "rawSource": {
+          "words": 772,
+          "characters": 4832
+        },
+        "narration": {
+          "words": 507,
+          "characters": 2962
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-video-restraint-i01",
+          "opt-video-restraint-i02",
+          "opt-video-restraint-i03"
+        ],
+        "sourceIds": [
+          "x-2098032450731720823",
+          "x-2103529310208606701",
+          "x-2118317430665613741"
+        ]
+      },
+      {
+        "id": "opt-founder-presence",
+        "title": "Founder presence without becoming an influencer",
+        "slug": "founder-presence",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-founder-presence.md",
+        "narrationPath": "reports/narration/lessons/opt-founder-presence.txt",
+        "rawSource": {
+          "words": 598,
+          "characters": 3797
+        },
+        "narration": {
+          "words": 359,
+          "characters": 2010
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-founder-presence-i01",
+          "opt-founder-presence-i02",
+          "opt-founder-presence-i03"
+        ],
+        "sourceIds": [
+          "x-1685889956936364032",
+          "x-1985573315830772193",
+          "x-1697157683537924249",
+          "x-2111080389565640897",
+          "x-2117664712532123680"
+        ]
+      },
+      {
+        "id": "opt-five-ai-skills",
+        "title": "Five AI skills KV would learn first",
+        "slug": "five-ai-skills",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-five-ai-skills.md",
+        "narrationPath": "reports/narration/lessons/opt-five-ai-skills.txt",
+        "rawSource": {
+          "words": 782,
+          "characters": 4755
+        },
+        "narration": {
+          "words": 481,
+          "characters": 2657
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-five-ai-skills-i01",
+          "opt-five-ai-skills-i02",
+          "opt-five-ai-skills-i03",
+          "opt-five-ai-skills-i04"
+        ],
+        "sourceIds": [
+          "x-2115810173830750575",
+          "x-2116886564802576703"
+        ]
+      },
+      {
+        "id": "opt-one-person-creative-team",
+        "title": "The one-person creative team path",
+        "slug": "one-person-creative-team",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-one-person-creative-team.md",
+        "narrationPath": "reports/narration/lessons/opt-one-person-creative-team.txt",
+        "rawSource": {
+          "words": 718,
+          "characters": 4473
+        },
+        "narration": {
+          "words": 429,
+          "characters": 2473
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-one-person-creative-team-i01",
+          "opt-one-person-creative-team-i02",
+          "opt-one-person-creative-team-i03"
+        ],
+        "sourceIds": [
+          "x-2117664712532123680",
+          "x-2118351989511749841"
+        ]
+      },
+      {
+        "id": "opt-local-seo",
+        "title": "A local-search plan, without the bankruptcy story",
+        "slug": "local-seo",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-local-seo.md",
+        "narrationPath": "reports/narration/lessons/opt-local-seo.txt",
+        "rawSource": {
+          "words": 568,
+          "characters": 3449
+        },
+        "narration": {
+          "words": 360,
+          "characters": 2046
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-local-seo-i01",
+          "opt-local-seo-i02"
+        ],
+        "sourceIds": [
+          "x-2088983373859725755",
+          "x-2116062550416871512",
+          "x-2118851191538946188"
+        ]
+      },
+      {
+        "id": "opt-social-research-bots",
+        "title": "Research bots for short video, not autoposters",
+        "slug": "social-research-bots",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-social-research-bots.md",
+        "narrationPath": "reports/narration/lessons/opt-social-research-bots.txt",
+        "rawSource": {
+          "words": 513,
+          "characters": 3164
+        },
+        "narration": {
+          "words": 292,
+          "characters": 1653
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-social-research-bots-i01"
+        ],
+        "sourceIds": [
+          "x-2118735216990695727",
+          "x-2119160045263077664",
+          "x-2118086670918750341"
+        ]
+      },
+      {
+        "id": "opt-marketing-engineering",
+        "title": "Marketing engineering as a stack, not a personality",
+        "slug": "marketing-engineering",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-marketing-engineering.md",
+        "narrationPath": "reports/narration/lessons/opt-marketing-engineering.txt",
+        "rawSource": {
+          "words": 738,
+          "characters": 4876
+        },
+        "narration": {
+          "words": 434,
+          "characters": 2613
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-marketing-engineering-i01",
+          "opt-marketing-engineering-i02"
+        ],
+        "sourceIds": [
+          "x-2118984106335756532",
+          "x-2118984108810379489",
+          "x-2118984111029186749",
+          "x-2118984113323491681",
+          "x-2118984115533795406",
+          "x-2118984117756756224",
+          "x-2118984119988236662",
+          "x-2118984122152440281",
+          "x-2118984124354511076",
+          "x-2118984126568993159",
+          "x-2118984128687124762",
+          "x-2118984130847285364",
+          "x-2119173056673309041",
+          "x-2119188168494752020",
+          "x-2119203278420402624",
+          "x-2119218412370993164",
+          "x-2119429831163027708",
+          "x-2118867930113057131"
+        ]
+      },
+      {
+        "id": "opt-super-agent-design",
+        "title": "Super-agent design, in plain words",
+        "slug": "super-agent-design",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-super-agent-design.md",
+        "narrationPath": "reports/narration/lessons/opt-super-agent-design.txt",
+        "rawSource": {
+          "words": 503,
+          "characters": 3141
+        },
+        "narration": {
+          "words": 315,
+          "characters": 1846
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-super-agent-design-i01"
+        ],
+        "sourceIds": [
+          "x-2116857257245987236",
+          "web-5bd78febd4a5",
+          "x-2118086670918750341"
+        ]
+      },
+      {
+        "id": "opt-fomo-tech-appendix",
+        "title": "A technical FOMO list, translated",
+        "slug": "fomo-tech-appendix",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-fomo-tech-appendix.md",
+        "narrationPath": "reports/narration/lessons/opt-fomo-tech-appendix.txt",
+        "rawSource": {
+          "words": 523,
+          "characters": 3303
+        },
+        "narration": {
+          "words": 352,
+          "characters": 2082
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-fomo-tech-appendix-i01"
+        ],
+        "sourceIds": [
+          "x-2118682313479573689",
+          "web-5bd78febd4a5"
+        ]
+      },
+      {
+        "id": "opt-first-month-hire",
+        "title": "Your first month if you join a growth role",
+        "slug": "first-month-hire",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-first-month-hire.md",
+        "narrationPath": "reports/narration/lessons/opt-first-month-hire.txt",
+        "rawSource": {
+          "words": 606,
+          "characters": 3783
+        },
+        "narration": {
+          "words": 371,
+          "characters": 2143
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-first-month-hire-i01",
+          "opt-first-month-hire-i02"
+        ],
+        "sourceIds": [
+          "web-d2ec49449a34",
+          "web-2d989761cf0d",
+          "web-a9fdfd6339f6"
+        ]
+      },
+      {
+        "id": "opt-77-brands",
+        "title": "Seventy-seven brands, used as inspiration",
+        "slug": "seventy-seven-brands",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-77-brands.md",
+        "narrationPath": "reports/narration/lessons/opt-77-brands.txt",
+        "rawSource": {
+          "words": 530,
+          "characters": 3304
+        },
+        "narration": {
+          "words": 352,
+          "characters": 2103
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-77-brands-i01"
+        ],
+        "sourceIds": [
+          "web-9effd2cad39a",
+          "web-a9fdfd6339f6",
+          "web-da4ef02f3ddf"
+        ]
+      },
+      {
+        "id": "opt-posting-without-a-streak",
+        "title": "Frequency notes, without a streak",
+        "slug": "posting-without-a-streak",
+        "optional": true,
+        "sourcePath": "course/content/optional/opt-posting-without-a-streak.md",
+        "narrationPath": "reports/narration/lessons/opt-posting-without-a-streak.txt",
+        "rawSource": {
+          "words": 593,
+          "characters": 3758
+        },
+        "narration": {
+          "words": 302,
+          "characters": 1724
+        },
+        "visualKind": null,
+        "creditItemIds": [
+          "opt-posting-without-a-streak-i01",
+          "opt-posting-without-a-streak-i02",
+          "opt-posting-without-a-streak-i03"
+        ],
+        "sourceIds": [
+          "x-2119431609472397409",
+          "x-2118723940638138486",
+          "x-2119097657658597491"
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "id": "aeo-prompt-tracker",
+        "title": "AEO prompt tracker",
+        "sourcePath": "course/content/templates/aeo-prompt-tracker.md",
+        "narrationPath": "reports/narration/templates/aeo-prompt-tracker.txt",
+        "rawSource": {
+          "words": 68,
+          "characters": 416
+        },
+        "narration": {
+          "words": 68,
+          "characters": 413
+        }
+      },
+      {
+        "id": "bot-charter",
+        "title": "Bot charter",
+        "sourcePath": "course/content/templates/bot-charter.md",
+        "narrationPath": "reports/narration/templates/bot-charter.txt",
+        "rawSource": {
+          "words": 213,
+          "characters": 1215
+        },
+        "narration": {
+          "words": 213,
+          "characters": 1216
+        }
+      },
+      {
+        "id": "content-brief",
+        "title": "Content brief",
+        "sourcePath": "course/content/templates/content-brief.md",
+        "narrationPath": "reports/narration/templates/content-brief.txt",
+        "rawSource": {
+          "words": 74,
+          "characters": 438
+        },
+        "narration": {
+          "words": 74,
+          "characters": 435
+        }
+      },
+      {
+        "id": "directory-tracker",
+        "title": "Directory tracker",
+        "sourcePath": "course/content/templates/directory-tracker.md",
+        "narrationPath": "reports/narration/templates/directory-tracker.txt",
+        "rawSource": {
+          "words": 54,
+          "characters": 424
+        },
+        "narration": {
+          "words": 46,
+          "characters": 288
+        }
+      },
+      {
+        "id": "gacc-card",
+        "title": "GACC card",
+        "sourcePath": "course/content/templates/gacc-card.md",
+        "narrationPath": "reports/narration/templates/gacc-card.txt",
+        "rawSource": {
+          "words": 86,
+          "characters": 511
+        },
+        "narration": {
+          "words": 86,
+          "characters": 492
+        }
+      },
+      {
+        "id": "launch-checklist",
+        "title": "Launch checklist",
+        "sourcePath": "course/content/templates/launch-checklist.md",
+        "narrationPath": "reports/narration/templates/launch-checklist.txt",
+        "rawSource": {
+          "words": 121,
+          "characters": 771
+        },
+        "narration": {
+          "words": 112,
+          "characters": 728
+        }
+      },
+      {
+        "id": "messaging-guide",
+        "title": "Messaging guide (one page)",
+        "sourcePath": "course/content/templates/messaging-guide.md",
+        "narrationPath": "reports/narration/templates/messaging-guide.txt",
+        "rawSource": {
+          "words": 69,
+          "characters": 435
+        },
+        "narration": {
+          "words": 66,
+          "characters": 429
+        }
+      },
+      {
+        "id": "one-page-strategy",
+        "title": "One-page strategy",
+        "sourcePath": "course/content/templates/one-page-strategy.md",
+        "narrationPath": "reports/narration/templates/one-page-strategy.txt",
+        "rawSource": {
+          "words": 50,
+          "characters": 291
+        },
+        "narration": {
+          "words": 50,
+          "characters": 288
+        }
+      },
+      {
+        "id": "positioning-worksheet",
+        "title": "Positioning worksheet",
+        "sourcePath": "course/content/templates/positioning-worksheet.md",
+        "narrationPath": "reports/narration/templates/positioning-worksheet.txt",
+        "rawSource": {
+          "words": 139,
+          "characters": 795
+        },
+        "narration": {
+          "words": 128,
+          "characters": 765
+        }
+      },
+      {
+        "id": "research-sheet",
+        "title": "Research sheet",
+        "sourcePath": "course/content/templates/research-sheet.md",
+        "narrationPath": "reports/narration/templates/research-sheet.txt",
+        "rawSource": {
+          "words": 75,
+          "characters": 458
+        },
+        "narration": {
+          "words": 67,
+          "characters": 429
+        }
+      },
+      {
+        "id": "test-card",
+        "title": "Test card",
+        "sourcePath": "course/content/templates/test-card.md",
+        "narrationPath": "reports/narration/templates/test-card.txt",
+        "rawSource": {
+          "words": 75,
+          "characters": 419
+        },
+        "narration": {
+          "words": 75,
+          "characters": 416
+        }
+      },
+      {
+        "id": "weekly-report",
+        "title": "Weekly report",
+        "sourcePath": "course/content/templates/weekly-report.md",
+        "narrationPath": "reports/narration/templates/weekly-report.txt",
+        "rawSource": {
+          "words": 47,
+          "characters": 248
+        },
+        "narration": {
+          "words": 47,
+          "characters": 245
+        }
+      }
+    ],
+    "courseFiles": [
+      {
+        "path": "course/README.md",
+        "words": 387,
+        "characters": 2575
+      },
+      {
+        "path": "course/SCHEMA.md",
+        "words": 208,
+        "characters": 1540
+      },
+      {
+        "path": "course/content/00-start-here.md",
+        "words": 633,
+        "characters": 3823
+      },
+      {
+        "path": "course/content/lessons/01-what-marketing-is.md",
+        "words": 1068,
+        "characters": 6355
+      },
+      {
+        "path": "course/content/lessons/02-go-one-circle-in.md",
+        "words": 886,
+        "characters": 5361
+      },
+      {
+        "path": "course/content/lessons/03-process-before-tactics.md",
+        "words": 1256,
+        "characters": 7908
+      },
+      {
+        "path": "course/content/lessons/04-one-channel-first.md",
+        "words": 1214,
+        "characters": 7404
+      },
+      {
+        "path": "course/content/lessons/05-talk-to-people.md",
+        "words": 1083,
+        "characters": 6674
+      },
+      {
+        "path": "course/content/lessons/06-gather-raw-material.md",
+        "words": 1146,
+        "characters": 7158
+      },
+      {
+        "path": "course/content/lessons/07-make-the-difference-obvious.md",
+        "words": 1554,
+        "characters": 9619
+      },
+      {
+        "path": "course/content/lessons/08-start-with-the-enemy.md",
+        "words": 1599,
+        "characters": 9829
+      },
+      {
+        "path": "course/content/lessons/09-one-page-and-gacc.md",
+        "words": 1231,
+        "characters": 7495
+      },
+      {
+        "path": "course/content/lessons/10-common-missteps.md",
+        "words": 1310,
+        "characters": 8088
+      },
+      {
+        "path": "course/content/lessons/11-homepage-that-makes-sense.md",
+        "words": 1313,
+        "characters": 7736
+      },
+      {
+        "path": "course/content/lessons/12-the-whole-journey.md",
+        "words": 1071,
+        "characters": 6929
+      },
+      {
+        "path": "course/content/lessons/13-show-proof-when-you-launch.md",
+        "words": 1575,
+        "characters": 9378
+      },
+      {
+        "path": "course/content/lessons/14-pick-a-vehicle.md",
+        "words": 1140,
+        "characters": 6858
+      },
+      {
+        "path": "course/content/lessons/15-write-one-idea.md",
+        "words": 1529,
+        "characters": 9269
+      },
+      {
+        "path": "course/content/lessons/16-be-findable.md",
+        "words": 1055,
+        "characters": 6231
+      },
+      {
+        "path": "course/content/lessons/17-improve-what-already-ranks.md",
+        "words": 1696,
+        "characters": 10177
+      },
+      {
+        "path": "course/content/lessons/18-show-up-in-ai-answers.md",
+        "words": 1653,
+        "characters": 10399
+      },
+      {
+        "path": "course/content/lessons/19-be-listed-where-buyers-look.md",
+        "words": 1394,
+        "characters": 8757
+      },
+      {
+        "path": "course/content/lessons/20-trust-what-you-measure.md",
+        "words": 1298,
+        "characters": 7946
+      },
+      {
+        "path": "course/content/lessons/21-give-a-bot-one-job.md",
+        "words": 1824,
+        "characters": 10331
+      },
+      {
+        "path": "course/content/lessons/22-keep-ownership.md",
+        "words": 1259,
+        "characters": 7406
+      },
+      {
+        "path": "course/content/lessons/23-write-down-what-you-learned.md",
+        "words": 1445,
+        "characters": 8657
+      },
+      {
+        "path": "course/content/optional/opt-77-brands.md",
+        "words": 530,
+        "characters": 3304
+      },
+      {
+        "path": "course/content/optional/opt-cold-email-diagnostics.md",
+        "words": 878,
+        "characters": 5406
+      },
+      {
+        "path": "course/content/optional/opt-competitor-ads.md",
+        "words": 876,
+        "characters": 5413
+      },
+      {
+        "path": "course/content/optional/opt-exact-match-domains.md",
+        "words": 935,
+        "characters": 5890
+      },
+      {
+        "path": "course/content/optional/opt-first-month-hire.md",
+        "words": 606,
+        "characters": 3783
+      },
+      {
+        "path": "course/content/optional/opt-five-ai-skills.md",
+        "words": 782,
+        "characters": 4755
+      },
+      {
+        "path": "course/content/optional/opt-fomo-tech-appendix.md",
+        "words": 523,
+        "characters": 3303
+      },
+      {
+        "path": "course/content/optional/opt-founder-presence.md",
+        "words": 598,
+        "characters": 3797
+      },
+      {
+        "path": "course/content/optional/opt-how-x-ranks.md",
+        "words": 1025,
+        "characters": 6277
+      },
+      {
+        "path": "course/content/optional/opt-local-seo.md",
+        "words": 568,
+        "characters": 3449
+      },
+      {
+        "path": "course/content/optional/opt-marketing-engineering.md",
+        "words": 738,
+        "characters": 4876
+      },
+      {
+        "path": "course/content/optional/opt-one-person-creative-team.md",
+        "words": 718,
+        "characters": 4473
+      },
+      {
+        "path": "course/content/optional/opt-paid-listicles.md",
+        "words": 1183,
+        "characters": 7434
+      },
+      {
+        "path": "course/content/optional/opt-posting-without-a-streak.md",
+        "words": 593,
+        "characters": 3758
+      },
+      {
+        "path": "course/content/optional/opt-social-research-bots.md",
+        "words": 513,
+        "characters": 3164
+      },
+      {
+        "path": "course/content/optional/opt-super-agent-design.md",
+        "words": 503,
+        "characters": 3141
+      },
+      {
+        "path": "course/content/optional/opt-video-restraint.md",
+        "words": 772,
+        "characters": 4832
+      },
+      {
+        "path": "course/content/templates/aeo-prompt-tracker.md",
+        "words": 68,
+        "characters": 416
+      },
+      {
+        "path": "course/content/templates/bot-charter.md",
+        "words": 213,
+        "characters": 1215
+      },
+      {
+        "path": "course/content/templates/content-brief.md",
+        "words": 74,
+        "characters": 438
+      },
+      {
+        "path": "course/content/templates/directory-tracker.md",
+        "words": 54,
+        "characters": 424
+      },
+      {
+        "path": "course/content/templates/gacc-card.md",
+        "words": 86,
+        "characters": 511
+      },
+      {
+        "path": "course/content/templates/launch-checklist.md",
+        "words": 121,
+        "characters": 771
+      },
+      {
+        "path": "course/content/templates/messaging-guide.md",
+        "words": 69,
+        "characters": 435
+      },
+      {
+        "path": "course/content/templates/one-page-strategy.md",
+        "words": 50,
+        "characters": 291
+      },
+      {
+        "path": "course/content/templates/positioning-worksheet.md",
+        "words": 139,
+        "characters": 795
+      },
+      {
+        "path": "course/content/templates/research-sheet.md",
+        "words": 75,
+        "characters": 458
+      },
+      {
+        "path": "course/content/templates/test-card.md",
+        "words": 75,
+        "characters": 419
+      },
+      {
+        "path": "course/content/templates/weekly-report.md",
+        "words": 47,
+        "characters": 248
+      },
+      {
+        "path": "course/data/COURSE.json",
+        "words": 4617,
+        "characters": 38438
+      },
+      {
+        "path": "course/data/item-credits.json",
+        "words": 14849,
+        "characters": 166119
+      },
+      {
+        "path": "course/data/progress.schema.json",
+        "words": 66,
+        "characters": 825
+      },
+      {
+        "path": "course/data/sources.json",
+        "words": 6722,
+        "characters": 74977
+      },
+      {
+        "path": "course/reports/coverage.md",
+        "words": 3140,
+        "characters": 25999
+      },
+      {
+        "path": "course/reports/validation.md",
+        "words": 90,
+        "characters": 642
+      }
+    ]
+  }
+}

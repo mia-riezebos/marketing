@@ -1,0 +1,68 @@
+How X decides who sees a post
+
+Ryan’s unofficial reading of X’s ranking code describes three scouts, a scoring judge, and heavy weights on shares and replies. The weights he lists are dated 30 October 2026 and can change without notice.
+
+Takeaway: Likes are a weak positive signal in this reading. Posts people share, reply to, or quote are what the system is trying to find.
+
+This lesson is optional. You can skip it and still finish the core path.
+
+Ryan wrote a long unofficial guide to how X ranks posts. He says the material comes from open-source code plus his own experience, and he states plainly that he is not on the X algorithm team. Treat the weights as his reading of production defaults as of 30 October 2026. He also notes that weights change without announcement (he says the like weight moved from 0.5 in August to 0.66 “now”).
+
+Matt Epstein describes the same three retrieval sources in his launch essay. Ryan’s article is the fuller decode. Grant Miller later highlighted Ryan’s related copywriting work; this algorithm piece is Ryan’s own.
+
+Three scouts, then a judge
+
+When someone opens the For You feed, Ryan writes, scouting systems fetch candidates, a judge scores them, and a final filter (he calls it the bouncer) drops some of the highest-scoring posts.
+
+Thunder fetches recent posts from accounts the viewer already follows. This is why an existing audience still matters, and why Epstein said a founder with a large following is more likely to get a large launch.
+
+Phoenix tries to predict what the viewer will want even if they do not follow the author. Ryan calls this the main source of virality beyond your circle.
+
+SimClusters groups accounts by who engages with what, then surfaces posts that are doing well with people like the viewer. A post can “go viral” inside a niche without taking over the whole platform.
+
+There is also, he says, a smaller source of already-popular recent posts.
+
+The judge then predicts, for each remaining post and each viewer, what that person might do: like, reply, share, read, follow, scroll past, mute, and so on. Those predictions are multiplied by weights. Rare, valuable actions get larger weights.
+
+The 30 October 2026 table
+
+Ryan’s listed positive defaults include:
+
+- Share via copy link: 20.0
+- Reply: 5.0
+- Quote: 5.0
+- Share via DM: 5.0
+- Follow the author: 4.0
+- Share: 2.0
+- Repost: 1.0
+- Like: 0.66
+- Click into the post: 0.3
+- Open a link: 0.2
+- Dwell (time spent): 0.05
+- Expand a photo: 0.05
+- Profile click: 0.0
+- Video quality view: 0.0
+
+Negative actions in the same table include a small penalty for scrolling past, and very large penalties for block, “not interested,” mute, and report (he lists report at -234).
+
+He also writes that replies and quotes are weighted about 7.5 times a like, that shares are “king,” and that a myth about profile clicks being huge is outdated in this table (the weight is 0). Another myth he busts: likes are not what matter most.
+
+Because this is unofficial and dated, do not memorize the numbers as eternal law. Memorize the shape: conversation and passing-on beat polite approval, and making people mute or report you is catastrophic compared with failing to get a like.
+
+What to do with that
+
+His practical advice matches the copy lesson. Make things people actually want to share. Make it easy to scan. Spark replies. Do not chase empty likes.
+
+A launch post that only says “we shipped” invites a like from friends. A post that shows a messy starting state and a result invites quotes, disagreements, and “I tried this with a different spreadsheet.”
+
+None of this is a reason to bait outrage so people report you. The negative weights are enormous. A fight you cannot answer with evidence is not a ranking strategy.
+
+What to do
+
+Under 2 minutes. Rewrite one line so a stranger has something to reply to or pass on.
+
+Optional, about 8 minutes. Mark which actions an unpublished practice post invites, and rewrite the close toward a reply or a share. Do not publish it for the exercise.
+
+You're done when
+
+You can name the three scouts, and you know the weight table is unofficial and dated 30 October 2026.

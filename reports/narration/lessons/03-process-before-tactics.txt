@@ -1,0 +1,62 @@
+Process before tactics
+
+Growth usually comes from many small learned tests, not one secret move. Borrow other people’s tactics as inspiration, not as a prescription.
+
+Takeaway: If you chase a new hack every week, you will scratch many surfaces and never learn what works for your product.
+
+A tactic is a concrete move, such as “start a newsletter” or “list the product on a directory.” A process is how you decide which move to try, how you judge it, and what you do with the result.
+
+Brian Balfour says the first question he used to get was “What tactic should I use to grow?” He stopped answering it. He had just met the person. He did not know their customers. The question was usually a search for a secret.
+
+His later answer is “I have no idea. Stop looking for tactics first, and start focusing on a growth process.”
+
+Why process has to come first
+
+Balfour gives four reasons. They are worth keeping even if you never build a formal “growth team.”
+
+Growth is the sum of many small parts. The internet loves the chart that suddenly goes up, and then hunts for the one move that happened right before the spike. The more useful questions are what they did before, what they did after, and how they found those things. You will get outlier tests. Most outliers come from earlier learning, not from a first lucky swing.
+
+Tactics expire. Channels change quickly. What worked on a platform three months ago may not work now. If your only skill is a tactic, a platform shift wipes you out. A process can generate the next test.
+
+What works for someone else will not automatically work for you. Your audience, product, customer lifecycle, and business model are different. Balfour’s line is easy to remember: take what you read as inspiration, not prescription.
+
+You need a machine that keeps producing tests, not a single winning trick. Success is not “we found the hack.” Success is “we can keep finding the next honest test.”
+
+The saved Balfour essay points at a longer “Building A Growth Machine” series for a six-element worksheet. That worksheet is not fully in this corpus. Do not invent its six boxes. The four reasons above are.
+
+Nearby voices that say the same thing
+
+Matias Honorato argues that all growth is not created equal. He quotes Brian Rothenberg: there is no one-size-fits-all advice, and your strategy should fit where you are right now. Honorato wants people to reverse-engineer growth down to basic building blocks instead of importing someone else’s stack. The saved file is a partial extract. We stop where it stops.
+
+Nikolas Vogt writes that many people treat “growth hacking” as secret shortcuts. He says the useful meaning is a structured approach to winning and keeping customers, and that it has to live in the culture, not in a weekend of tricks. His later lessons were not in the saved file.
+
+Shane Parrish’s explainer of first-principles thinking is the general version of Honorato’s point: strip a problem down to what you actually know, then rebuild, instead of reasoning only by analogy (“company X did TikTok, so we should too”).
+
+A later pair of posts about a coming shift in crypto marketing makes the same shape of argument. An unnamed writer said internships-as-marketing and empty posting get old, and that substance and narrative would matter more. Kunal’s reply was advice for surviving that kind of shift: learn the domain deeply enough that you do not sound lost, use the product yourself, be able to do more than one marketing job when the team is small, and nail positioning before the busywork. He added that he does not mean “play by the rules,” but that there should be some method inside the chaos. The scene is specific. The transferable line is the same as Balfour’s: a method beats a mood.
+
+A concrete example
+
+You read that a note-taking app grew by giving students a campus ambassador program. Copying that program is a tactic. Asking “who already gathers where our buyers gather, and what would make them look silly if they recommended us?” is process. The ambassador idea might survive that question. A paid campus program for a tool used by night-shift nurses would not.
+
+Hypothetical Maal example
+
+This example is invented for teaching.
+
+Copying “post three recipe videos a day” because a food creator said so is tactic-first. A process would ask what you are trying to learn this month (for example, whether people who already know they have ADHD recognize themselves on a page), pick one test, and write what success would look like before you make anything public.
+
+What to do
+
+Under 2 minutes. Write the last tactic you copied and one reason it might not fit your audience.
+
+Optional, about 10 minutes. Write a four-line loop you could repeat monthly:
+
+- Generate ideas
+- Pick one test
+- Write a success line
+- Write what you learned
+
+Leave the actual tactic blank on purpose.
+
+You're done when
+
+You can explain why process comes first, and you have a loop written down that does not depend on a secret channel.

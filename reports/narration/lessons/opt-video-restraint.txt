@@ -1,0 +1,44 @@
+Make video look expensive by showing less
+
+Leo’s Apple breakdown is about restraint one idea per shot, controlled color, brand type. Eian’s film workflow locks story and stills before anyone generates motion.
+
+Takeaway: An expensive-looking video is usually a sequence of clear stills, not a pile of effects.
+
+Leo breaks down why Apple product films look costly. He has produced many product videos himself; that volume is his claim. The method is what we can reuse without a studio.
+
+Eian (EianLu) published a long workflow for turning an idea into a finished film with writing tools and a video model (Seedance). The tools will change. The gates will not: do not jump to motion before the story and the stills are locked.
+
+Restraint on camera
+
+Leo’s composition note: Apple does not try to show everything. One shot equals one idea. Every scene has space to breathe. Most brands stack glow, extra objects, and several effects in one frame. The empty space is what reads as expensive.
+
+On type: a couple of brand typefaces, used consistently for titles, interface, and even disclaimers. People remember that sameness.
+
+On color: it is not “use few colors” as a slogan. It is control. The object in the middle can go loud (blue, pink, copper). The room stays quiet. They almost never put bright color on bright color. If the phone is copper, the void is black. Contrast does the work. One loud thing, quiet everything else.
+
+In a later post he tells people to give themselves real rules: three colors for a series, the same kinds of backgrounds, similar music for a kind of project. Rules make separate clips feel like one body of work.
+
+Story, then stills, then motion
+
+Eian’s sequence, shortened:
+
+- Lock the story. Write one sentence for what it expresses. If you cannot, the story is not ready.
+- Storyboard camera, composition, and color. A good story with lazy shots still looks flat. Movement should mean something; stillness should too.
+- Every second should look good as a still. He even names a placement habit: heads or eyes around 38 percent or 62 percent from the left, not dead center.
+- Lock art style and draw design sheets before you generate a pile of clips.
+- Produce first and last frames for each shot.
+- Write prompts carefully (prefer saying what should be there; “don’t do X” often fails), then generate, then assemble.
+
+He also lists failure modes (mouths that move on their own, music that sneaks in) that belong to a specific model version. The durable habit is: when something fails, inspect the prompt and the stills before you blame the generator.
+
+You do not need those paid tools to practice. Three described stills on paper teach the same gates.
+
+What to do
+
+Under 2 minutes. Write one product moment and the one object that may carry color.
+
+Optional, about 10 minutes. Describe three stills for a short moment. Do not generate or publish a video.
+
+You're done when
+
+You can explain the gates, and you have a three-still sketch.

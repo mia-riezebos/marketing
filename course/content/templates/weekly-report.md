@@ -1,0 +1,15 @@
+# Weekly report
+
+Use after lesson 20. There is no streak. A quiet week can be written down honestly.
+
+Week of:
+
+What I tried:
+
+What I thought would happen:
+
+What happened:
+
+What I will try next, or what I will stop:
+
+What I did not do, on purpose:

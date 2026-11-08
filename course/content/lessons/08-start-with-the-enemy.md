@@ -1,0 +1,135 @@
+---
+id: 08-start-with-the-enemy
+slug: start-with-the-enemy
+part: I
+part_title: See clearly
+order: 8
+title: Start with the enemy, not with yourself
+summary: A useful story names the struggle first, then shows a change someone can believe. It does not open with your team, your features, or your excitement.
+read_min: 11
+action_min: 12
+takeaway: If you start by talking about yourself, most people never reach the part where your product might matter to them.
+min_action: Write one sentence that names the obstacle getting in the way of your customer’s day, without naming your product.
+min_action_output: One enemy sentence.
+exercise: Answer Matt Epstein’s six narrative questions on paper. Then write one piece of evidence you could show later, without publishing anything.
+exercise_min: 12
+exercise_output: Six short answers and one evidence note.
+stop_when: You can name the enemy, and you know the difference between a claim and a piece of evidence.
+optional: false
+items:
+  - id: 08-start-with-the-enemy-i01
+    kind: method
+    statement: Never start a pitch by talking about yourself, your team, your product, or your market size. Name the thing getting in the way of the customer’s happiness.
+    attribution: source-method
+    source_ids: [web-b970bd340905]
+    informed_by: []
+    notes: Raskin’s saved essay is partial. Steps 2 through 4 after “name the enemy” are truncated. Step 5, present evidence, is present.
+  - id: 08-start-with-the-enemy-i02
+    kind: method
+    statement: Give evidence that the future you described is attainable. Live demos and early customer results beat hypothetical testimonials.
+    attribution: source-method
+    source_ids: [web-b970bd340905]
+    informed_by: []
+  - id: 08-start-with-the-enemy-i03
+    kind: method
+    statement: Understand who or what the enemy of the product is, then build messaging and distribution around that. Storytelling works when you offer a real change and show it through a protagonist’s point of view.
+    attribution: source-method
+    source_ids: [x-2069756425468056032]
+    informed_by: [web-b970bd340905]
+  - id: 08-start-with-the-enemy-i04
+    kind: method
+    statement: Before writing launch copy, answer what the market already loves and hates, who the enemy is, the highest-status outcome, the exact words customers use, and the most polarizing true thing you can say.
+    attribution: source-method
+    source_ids: [x-2117351855856779486]
+    informed_by: []
+  - id: 08-start-with-the-enemy-i05
+    kind: method
+    statement: Distribution is a series of chapters in a larger story. Good chapters make people feel something, teach something, and make them want the next one.
+    attribution: source-method
+    source_ids: [x-2111080389565640897]
+    informed_by: []
+  - id: 08-start-with-the-enemy-i06
+    kind: method
+    statement: Odinsky describes cult brands as driving a wedge with an enemy and radical differences. The middle of that essay is truncated in the archive.
+    attribution: source-method
+    source_ids: [web-94968f7e7047]
+    informed_by: [web-b970bd340905]
+    notes: Teach only the surviving points. This course does not ask anyone to build a manipulative following.
+---
+
+# Start with the enemy, not with yourself
+
+About 11 minutes to read. Optional exercise about 12 minutes. These are estimates.
+
+An enemy, here, is not a person you attack online. It is the obstacle standing between your customer and a better day: a slow process, a broken default, a fear, a boring alternative. If you cannot name that obstacle, you will start every page with “we.”
+
+## Name the struggle first
+
+Andy Raskin uses Elon Musk’s Tesla Powerwall launch as a teaching tape. Musk, he writes, does not open by talking about himself, his team, the product, or the size of the market. He names fossil fuels as the villain and paints the struggle in a way people can feel.
+
+Raskin’s rule: never start a pitch by talking about yourself. Start by naming the thing that gets in the way of your customer’s happiness. Show how they are struggling, what is to blame, and why that matters.
+
+The saved copy of Raskin’s essay is partial. After “name the enemy,” the next headings are cut off. We do not invent those missing steps. What survives later is step 5: present evidence that you are not just talking.
+
+Kunal Gandhi gives the same instruction in operator language. If you lack conviction, the first battle is understanding who or what the enemy of the product is. Define that, define the messaging around it, then build distribution. He also says storytelling advice gets pretentious. It works when you are offering a real change, and when you show that change through a protagonist’s point of view. Your job is to find the focal point of the transformation.
+
+## Then earn belief
+
+Raskin’s surviving last step is evidence. Audiences are skeptical. Musk’s proof, in Raskin’s telling, was that Powerwall batteries were already running the room, and a meter showed zero power from the grid.
+
+For early products, Raskin says a demo can serve as evidence. Results from early or beta customers are more compelling. Least persuasive, but better than nothing, are comments from people who would buy, explaining why.
+
+Matt Epstein later makes the demo even more extreme. A narrative gets someone to stop. The demo decides whether they believe you. He asks two questions: what is the most extreme thing your product can actually do, and how do you make people believe it happened? Then show those moments. He uses a Tesla Roadster stunt as an example and names this “MrBeast logic”: jumping one car is interesting, jumping a row of them is what people forward. You do not need rockets. You do need proof that is hard to dismiss as a mockup.
+
+Epstein also reports launch-view numbers and client results (including a hospital-software launch he says reached about 1.5 million views, and another he says booked 600 demos). Those are his claims. They are not your homework.
+
+## Six questions before any launch sentence
+
+Epstein’s team refuses to start from the product roadmap and then hunt for an announcement. They start from the conversation already happening, and look for where the product belongs in it.
+
+Before writing a line, they want six answers:
+
+1. What does the market already love?
+2. What does the market already hate?
+3. Who is the enemy?
+4. What is the highest-status outcome?
+5. What exact words do customers use?
+6. What is the most polarizing thing you can say that is still true?
+
+His rule: your claim has to be bigger than your product. Attach it to something people already feel. Write something a non-expert finds interesting, that an expert finds even more interesting. The reverse, writing only for specialists, loses everyone else.
+
+He also lists phrases that make people keep scrolling, including “we’re excited to announce,” a logo animation, a niche category launch, and a founder talking for many seconds before anything happens. Those are his “why do I care” filter. A later lesson on launches will come back to demos and to the difference between followers and connections. This lesson only needs the filter: the viewer owes you nothing.
+
+## Chapters, not one speech
+
+Ryan’s distribution guide (he authored it; Grant Miller later shared his related copywriting piece) treats a brand as a series of chapters in a larger story. Every piece of organic content is one more step. Good storytelling, he writes, makes people feel something, teaches them something, and makes them want more.
+
+Start from the end state you want people to buy into. Then reverse-engineer the chapters that would make that end state believable. Tesla’s published “Secret Master Plan,” in his telling, named the end goal and the chapters up front. For a personal brand, the development itself can be the story. Voice is how you say it, and he advises sounding like yourself rather than borrowing a tone that is not yours.
+
+You will pick vehicles for those chapters in a later lesson. For now, notice that a story is not a single launch post.
+
+## A note on “cult brands”
+
+Jordan Odinsky writes about brands that create an enemy and drive a wedge between ways of seeing the world. The section titled “Create An Enemy” is cut off in the saved file. What remains includes the idea that lasting “cult” brands stay intentional, stay true to radical differences, and that some are associated with a visible leader.
+
+We do not invent the missing middle of that essay. We also do not treat “build a cult” as an assignment. Polarizing language can help the right people recognize themselves. It can also become manipulation. Keep the enemy aimed at a problem or a default, not at a group of humans you want to dehumanize.
+
+## A concrete example
+
+A password manager that opens with “bank-grade encryption, built by experts” is talking about itself. The enemy might be the quiet habit of reusing one password, and the fear of being the person who got the family into trouble. Evidence is not a padlock icon. Evidence is importing 200 logins in front of someone and recovering an account without a panic.
+
+## Hypothetical Maal example
+
+This example is invented for teaching.
+
+The enemy is not “other meal apps.” The enemy is the 17:40 freeze in front of the fridge. A protagonist version is a tired person who does not want another plan to maintain. Evidence would be a decided dinner appearing without a planning session, not a claim about artificial intelligence.
+
+## What to do
+
+**Under 2 minutes.** Write one sentence that names the obstacle, without naming your product.
+
+**Optional, about 12 minutes.** Answer Epstein’s six questions on paper. Add one note about evidence you could show later. Do not publish the answers and do not ask anyone to share a launch.
+
+## You're done when
+
+You can name the enemy, and you can tell a claim apart from a piece of evidence.

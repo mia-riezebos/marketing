@@ -1,0 +1,29 @@
+Research bots for short video, not autoposters
+
+jaffa describes ten bots that watch a large video database and turn what they find into a weekly plan. The useful idea is research and a human who still chooses what to film.
+
+Takeaway: A bot that finds outlier openings and competitor ads is a research assistant. A bot that posts without you is a different, riskier product.
+
+jaffa published a guide to ten Grok Bots that watch a live database of more than 21 million viral videos and help run marketing across short-video platforms. A later post shared the same guide. The workflow asks you to connect a named database (Virlo) with an API key. That signup is not part of this course.
+
+What transfers without the vendor stack is the job split:
+
+- Scan a niche for unusual openings and formats
+- Send a short list of ideas, each tied to a real example
+- Track what competitors posted, what took off, and which ads they keep paying for
+- Turn a voice note into a few scripts you could film
+- Have one “head of social” read the rest and produce a weekly plan
+
+Build them once, jaffa writes, and they keep going in the background. Then you pick what to film.
+
+That last sentence is the charter lesson again. Research can run on a schedule after clean trials. Publishing should stay a draft you send yourself. A database of other people’s videos is also not yours to copy shot-for-shot; use it to notice formats, then make your own proof.
+
+What to do
+
+Under 2 minutes. Write one Monday research question.
+
+Optional, about 8 minutes. Mark five research jobs as unattended or draft-only.
+
+You're done when
+
+You can separate research automation from autoposting.

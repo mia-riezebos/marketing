@@ -1,0 +1,89 @@
+---
+id: opt-exact-match-domains
+slug: exact-match-domains
+part: optional
+part_title: Optional depth
+order: 103
+title: Exact-match domains
+summary: An exact-match domain uses the search phrase as the web address. Margatix describes buying those domains, publishing tightly matched content, and later receiving a seven-figure offer to buy the assets. That figure is an offer, not reported customer revenue.
+read_min: 8
+action_min: 8
+takeaway: A domain that matches a valuable search can help you show up. It does not make a thin comparison page honest, and an acquisition offer is not the same as money collected from customers.
+min_action: Write one search phrase in your category and the domain that would match it exactly. Then write one reason a buyer might distrust a site with that name.
+min_action_output: A phrase, a domain, and a distrust reason.
+exercise: On paper, list costs (buying many domains, writing real content, entity consistency), conditions (high-intent niche, urgent high-ticket searches), and risks (misleading “best of” branding, trademarks, search-quality filters). Do not register a domain for the exercise.
+exercise_min: 8
+exercise_output: A cost-condition-risk note.
+stop_when: You can explain the tactic and can state clearly that Margatix’s seven-figure number is described as an acquisition offer.
+optional: true
+items:
+  - id: opt-exact-match-domains-i01
+    kind: method
+    statement: Buy domains that match high-intent search phrases one-to-one, publish content tightly aligned to those phrases, and keep entity signals consistent so search engines and assistants associate the site with the query.
+    attribution: source-method
+    source_ids: [x-2119089991217262884, x-2119126406613610758]
+    informed_by: []
+  - id: opt-exact-match-domains-i02
+    kind: claim
+    statement: Margatix writes that they ranked number one for those queries and later received offers to rent the domains and a seven-figure offer to acquire the assets. The opening line frames this as going from zero to seven figures in ten days.
+    attribution: source-claim
+    source_ids: [x-2119089991217262884, x-2119126406613610758]
+    informed_by: []
+    notes: Teach the seven-figure figure as an acquisition offer, not as realized customer revenue.
+  - id: opt-exact-match-domains-i03
+    kind: method
+    statement: Andrew Rosener pointed at exact-match domains making a comeback and treated Margatix’s post as a receipt. Margatix authored the method.
+    attribution: source-method
+    source_ids: [x-2119362694713078139]
+    informed_by: [x-2119089991217262884]
+---
+
+# Exact-match domains
+
+About 8 minutes to read. Optional exercise about 8 minutes. These are estimates.
+
+An exact-match domain, often shortened to EMD, is a web address that is the search phrase itself, such as bestdatalabs.com for people typing “best data labs.”
+
+Margatix describes using that pattern in a hot niche (companies that buy and sell training data). They list phrases such as “best data labelling platform” and “best data brokers.” Andrew Rosener later pointed at the post as a receipt that exact-match domains were making a comeback. Jesper Nissen also shared it, framing it as a way to show up in Google AI overviews. Margatix authored the method. Andrew and Jesper shared it.
+
+## What they say they did
+
+Their steps:
+
+1. Secure domains that match the search intent one-to-one.
+2. Publish carefully built content meant to sit close, in language, to those phrases, so search engines and assistants treat the information as rich and relevant.
+3. Keep entity mapping clean: the same company, consistently tied to those keywords.
+4. Wait (they say ten days) and then observe rankings.
+
+They argue the niche was a good fit because money was already flowing, buyers and sellers struggled to find each other, deals were urgent, and average tickets were high. One relevant lead, they were later told, could more than pay for the positioning.
+
+## The seven-figure number is an offer
+
+The opening line says they went from zero to seven figures in ten days. Later in the same post they write that they received offers from neolabs to rent space on the domains, and a seven-figure offer to acquire the assets outright.
+
+Teach that second description. A seven-figure acquisition offer is someone offering to buy the domains and the positioning. It is not the same thing as seven figures of customer revenue collected in ten days. We do not have an independent audit of either reading.
+
+## Costs, conditions, and risks
+
+Costs: many domains in a competitive category are not cheap. The content still has to be written and maintained. Entity consistency (same names, same company, same claims) is ongoing work.
+
+Conditions: this is a high-intent, high-ticket niche play in their telling. A low-price consumer app may not justify a portfolio of “best X” domains.
+
+Risks:
+
+- A site named “best [your category]” that is secretly your comparison page can mislead buyers. Consumer-protection and advertising rules care about that.
+- Trademarks and competing brand names in a domain can create legal trouble.
+- Search engines have spent years reducing the old magic of keyword domains. Thin pages on clever URLs can be filtered rather than rewarded.
+- Ranking for “best X” while selling X, without a clear editorial standard, is a trust problem even if it works for a while.
+
+You can study the tactic without buying a domain. If you ever use it, say who you are, how you rank options, and whether you get paid when someone clicks.
+
+## What to do
+
+**Under 2 minutes.** Write one phrase, the matching domain, and one reason a buyer might distrust that name.
+
+**Optional, about 8 minutes.** List costs, conditions, and risks on paper. Do not register a domain.
+
+## You're done when
+
+You can explain the tactic, and you can say out loud that the seven-figure figure in this source is described as an acquisition offer.
