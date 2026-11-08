@@ -1,0 +1,4294 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "00-start-here-i01",
+      "lesson_id": "00-start-here",
+      "lesson_path": "content/00-start-here.md",
+      "kind": "synthesis",
+      "statement": "One lesson is a complete unit. There is no streak and no daily quota.",
+      "attribution": "synthesis",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "firstparty-course-design",
+          "creator": "Course author",
+          "url": null,
+          "credit_role": "synthesis",
+          "quoted_source_ids": [],
+          "retrieval_status": "n/a",
+          "archive_status": "n/a"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "00-start-here-i02",
+      "lesson_id": "00-start-here",
+      "lesson_path": "content/00-start-here.md",
+      "kind": "synthesis",
+      "statement": "Methods, claims, findings, and our synthesis must stay visually distinct.",
+      "attribution": "synthesis",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "firstparty-course-design",
+          "creator": "Course author",
+          "url": null,
+          "credit_role": "synthesis",
+          "quoted_source_ids": [],
+          "retrieval_status": "n/a",
+          "archive_status": "n/a"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "01-what-marketing-is-i01",
+      "lesson_id": "01-what-marketing-is",
+      "lesson_path": "content/lessons/01-what-marketing-is.md",
+      "kind": "principle",
+      "statement": "Marketing has four steps invent a thing worth making, build it so people benefit, tell the right people in the right way, and show up consistently for years.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-40c650dd4068",
+          "creator": "Seth Godin",
+          "url": "https://seths.blog/2016/08/marketing-in-four-steps/",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "01-what-marketing-is-i02",
+      "lesson_id": "01-what-marketing-is",
+      "lesson_path": "content/lessons/01-what-marketing-is.md",
+      "kind": "principle",
+      "statement": "The purpose of marketing is to turn people into customers. Proxies like traffic only matter if they feed that.",
+      "attribution": "source-method",
+      "notes": "Saved archive is a partial Medium extract. Only this functional purpose, which appears in the saved text, is taught.",
+      "sources": [
+        {
+          "source_id": "web-e45aef7612b2",
+          "creator": "Aneel",
+          "url": "https://medium.com/hackernoon/marketing-101-for-engineers-ee9e7fcb1a51",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "01-what-marketing-is-i03",
+      "lesson_id": "01-what-marketing-is",
+      "lesson_path": "content/lessons/01-what-marketing-is.md",
+      "kind": "synthesis",
+      "statement": "Shouting is not the whole job, and a better mousetrap does not sell itself.",
+      "attribution": "synthesis",
+      "notes": "Gourville’s HBR essay is paywalled. We only use the public preview idea that a better product does not automatically draw a path to your door.",
+      "sources": [],
+      "informed_by": [
+        {
+          "source_id": "web-40c650dd4068",
+          "creator": "Seth Godin",
+          "url": "https://seths.blog/2016/08/marketing-in-four-steps/"
+        },
+        {
+          "source_id": "web-e45aef7612b2",
+          "creator": "Aneel",
+          "url": "https://medium.com/hackernoon/marketing-101-for-engineers-ee9e7fcb1a51"
+        },
+        {
+          "source_id": "web-060dddd60072",
+          "creator": "John T. Gourville",
+          "url": "https://hbr.org/2006/06/eager-sellers-and-stony-buyers-understanding-the-psychology-of-new-product-adoption"
+        }
+      ]
+    },
+    {
+      "id": "02-go-one-circle-in-i01",
+      "lesson_id": "02-go-one-circle-in",
+      "lesson_path": "content/lessons/02-go-one-circle-in.md",
+      "kind": "principle",
+      "statement": "Marketing has nested circles, from advertising, to a story that fits a tribe, to the experience around the product, to a product worth talking about.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-d758d244c7f5",
+          "creator": "Seth Godin",
+          "url": "https://seths.blog/2012/07/the-circles-of-marketing/",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "02-go-one-circle-in-i02",
+      "lesson_id": "02-go-one-circle-in",
+      "lesson_path": "content/lessons/02-go-one-circle-in.md",
+      "kind": "principle",
+      "statement": "When you are stuck, go one circle in.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-d758d244c7f5",
+          "creator": "Seth Godin",
+          "url": "https://seths.blog/2012/07/the-circles-of-marketing/",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "02-go-one-circle-in-i03",
+      "lesson_id": "02-go-one-circle-in",
+      "lesson_path": "content/lessons/02-go-one-circle-in.md",
+      "kind": "principle",
+      "statement": "Kunal pointed at Seth Godin’s circle as a simple blueprint. Seth authored the idea; Kunal shared it.",
+      "attribution": "source-method",
+      "notes": "Kunal is the curator of the image post. Seth authored the essay.",
+      "sources": [
+        {
+          "source_id": "x-1844394615954370936",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1844394615954370936",
+          "credit_role": "curator",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "web-d758d244c7f5",
+          "creator": "Seth Godin",
+          "url": "https://seths.blog/2012/07/the-circles-of-marketing/",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "03-process-before-tactics-i01",
+      "lesson_id": "03-process-before-tactics",
+      "lesson_path": "content/lessons/03-process-before-tactics.md",
+      "kind": "principle",
+      "statement": "Stop looking for tactics first. Establish a growth process that generates ideas, tests them, learns, and adapts.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2042133476259070417",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2042133476259070417",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2041932600298614896",
+          "creator": "Unknown (not guessed)",
+          "url": "https://x.com/i/status/2041932600298614896",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2042111501608391080",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2042111501608391080",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2041932600298614896"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "03-process-before-tactics-i02",
+      "lesson_id": "03-process-before-tactics",
+      "lesson_path": "content/lessons/03-process-before-tactics.md",
+      "kind": "principle",
+      "statement": "There is no silver bullet. Outliers usually come from combined learnings of earlier experiments.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2042133476259070417",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2042133476259070417",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2041932600298614896",
+          "creator": "Unknown (not guessed)",
+          "url": "https://x.com/i/status/2041932600298614896",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2042111501608391080",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2042111501608391080",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2041932600298614896"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "03-process-before-tactics-i03",
+      "lesson_id": "03-process-before-tactics",
+      "lesson_path": "content/lessons/03-process-before-tactics.md",
+      "kind": "principle",
+      "statement": "Take what others did as inspiration, not prescription, because your audience, product, lifecycle, and model are different.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "03-process-before-tactics-i04",
+      "lesson_id": "03-process-before-tactics",
+      "lesson_path": "content/lessons/03-process-before-tactics.md",
+      "kind": "principle",
+      "statement": "Growth strategy should fit your current stage. All growth is not created equal.",
+      "attribution": "source-method",
+      "notes": "Partial Medium archive. Includes Honorato’s framing and a Brian Rothenberg quotation that appears in that archive.",
+      "sources": [
+        {
+          "source_id": "web-2d989761cf0d",
+          "creator": "Matias Honorato",
+          "url": "https://medium.com/@Mati_Honorato/a-first-principles-approach-to-growth-d9529e462b1",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "03-process-before-tactics-i05",
+      "lesson_id": "03-process-before-tactics",
+      "lesson_path": "content/lessons/03-process-before-tactics.md",
+      "kind": "principle",
+      "statement": "Growth hacking is a structured approach to acquisition and retention, not a bag of secret hacks.",
+      "attribution": "source-method",
+      "notes": "Partial archive. Later lessons in Vogt’s article were not in the saved file.",
+      "sources": [
+        {
+          "source_id": "web-85126f33fa41",
+          "creator": "Nikolas Vogt",
+          "url": "https://medium.com/swlh/five-powerful-growth-hacking-lessons-learned-in-silicon-valley-f435a318dcd3",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "03-process-before-tactics-i06",
+      "lesson_id": "03-process-before-tactics",
+      "lesson_path": "content/lessons/03-process-before-tactics.md",
+      "kind": "principle",
+      "statement": "First-principles thinking means breaking a problem down to basic elements instead of copying a popular stack.",
+      "attribution": "source-method",
+      "notes": "Parrish’s full essay is in the corpus as general thinking. Honorato points at it. We teach only the definition needed for growth choices.",
+      "sources": [
+        {
+          "source_id": "web-64a42f70c24b",
+          "creator": "Shane Parrish",
+          "url": "https://fs.blog/first-principles/",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-2d989761cf0d",
+          "creator": "Matias Honorato",
+          "url": "https://medium.com/@Mati_Honorato/a-first-principles-approach-to-growth-d9529e462b1"
+        }
+      ]
+    },
+    {
+      "id": "04-one-channel-first-i01",
+      "lesson_id": "04-one-channel-first",
+      "lesson_path": "content/lessons/04-one-channel-first.md",
+      "kind": "principle",
+      "statement": "Weinberg and Mares present Bullseye as a way to find the one traction channel at the center, rather than running every channel at once.",
+      "attribution": "source-method",
+      "notes": "Saved archive is partial. The named three-step inner procedure is truncated. We do not invent those missing steps.",
+      "sources": [
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "04-one-channel-first-i02",
+      "lesson_id": "04-one-channel-first",
+      "lesson_path": "content/lessons/04-one-channel-first.md",
+      "kind": "claim",
+      "statement": "Peter Thiel, quoted by Weinberg, says you probably will not have several equally good distribution strategies, most businesses get zero channels to work, and if you get one to work you have a great business.",
+      "attribution": "source-claim",
+      "notes": "Thiel did not author this source. Weinberg quotes him inside the Bullseye essay.",
+      "sources": [
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "04-one-channel-first-i03",
+      "lesson_id": "04-one-channel-first",
+      "lesson_path": "content/lessons/04-one-channel-first.md",
+      "kind": "method",
+      "statement": "Other channels can feed a dominant one, such as publicity that supports SEO, without becoming separate strategies you chase at the same time.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "04-one-channel-first-i04",
+      "lesson_id": "04-one-channel-first",
+      "lesson_path": "content/lessons/04-one-channel-first.md",
+      "kind": "method",
+      "statement": "If tests find no promising channel, repeat with what you learned. If several rounds fail, the product itself may be leaking.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "04-one-channel-first-i05",
+      "lesson_id": "04-one-channel-first",
+      "lesson_path": "content/lessons/04-one-channel-first.md",
+      "kind": "synthesis",
+      "statement": "One good week on a platform is not yet a channel. Treat a first result as a clue, not as proof you should scale.",
+      "attribution": "synthesis",
+      "notes": null,
+      "sources": [],
+      "informed_by": [
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e"
+        }
+      ]
+    },
+    {
+      "id": "05-talk-to-people-i01",
+      "lesson_id": "05-talk-to-people",
+      "lesson_path": "content/lessons/05-talk-to-people.md",
+      "kind": "method",
+      "statement": "Desk research produces a hypothesis. The real work starts when you talk to actual buyers. Customer conversations are what matter.",
+      "attribution": "source-method",
+      "notes": "Guillaume Bardet authored this method. Roman later shared it.",
+      "sources": [
+        {
+          "source_id": "x-2118657239217041552",
+          "creator": "Guillaume Bardet",
+          "url": "https://x.com/GuillaumeBardet/status/2118657239217041552",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "05-talk-to-people-i02",
+      "lesson_id": "05-talk-to-people",
+      "lesson_path": "content/lessons/05-talk-to-people.md",
+      "kind": "method",
+      "statement": "Get fanatical about who your users are. Message, call, or converse with people you believe are the customer base.",
+      "attribution": "source-method",
+      "notes": "This course’s exercise does not ask you to message strangers. Practice with someone you already know, or write a self-interview.",
+      "sources": [
+        {
+          "source_id": "x-2069756425468056032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2069756425468056032",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "05-talk-to-people-i03",
+      "lesson_id": "05-talk-to-people",
+      "lesson_path": "content/lessons/05-talk-to-people.md",
+      "kind": "method",
+      "statement": "Talk to people, not at them, and make early users feel seen.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1985573315830772193",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1985573315830772193",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "05-talk-to-people-i04",
+      "lesson_id": "05-talk-to-people",
+      "lesson_path": "content/lessons/05-talk-to-people.md",
+      "kind": "method",
+      "statement": "Ask about the last time the problem happened, what they tried, what it cost them, and what they wish existed. Do not demo while they answer.",
+      "attribution": "synthesis",
+      "notes": null,
+      "sources": [],
+      "informed_by": [
+        {
+          "source_id": "x-2118657239217041552",
+          "creator": "Guillaume Bardet",
+          "url": "https://x.com/GuillaumeBardet/status/2118657239217041552"
+        },
+        {
+          "source_id": "x-2069756425468056032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2069756425468056032"
+        },
+        {
+          "source_id": "x-1985573315830772193",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1985573315830772193"
+        },
+        {
+          "source_id": "web-2c5d6a6c14aa",
+          "creator": "April Dunford",
+          "url": "https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e"
+        }
+      ]
+    },
+    {
+      "id": "06-gather-raw-material-i01",
+      "lesson_id": "06-gather-raw-material",
+      "lesson_path": "content/lessons/06-gather-raw-material.md",
+      "kind": "method",
+      "statement": "Start go-to-market research by feeding raw material competitor sites, incumbent earnings calls, more than 100 reviews, and forum threads where people vent.",
+      "attribution": "source-method",
+      "notes": "Guillaume Bardet authored this. Roman later shared the post.",
+      "sources": [
+        {
+          "source_id": "x-2118657239217041552",
+          "creator": "Guillaume Bardet",
+          "url": "https://x.com/GuillaumeBardet/status/2118657239217041552",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119091729181880583",
+          "creator": "Romàn",
+          "url": "https://x.com/romanbuildsaas/status/2119091729181880583",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118657239217041552"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "06-gather-raw-material-i02",
+      "lesson_id": "06-gather-raw-material",
+      "lesson_path": "content/lessons/06-gather-raw-material.md",
+      "kind": "method",
+      "statement": "Ask questions that force thinking, not summarizing, including what winners know that customers would not admit, and which industry beliefs would have to be false.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118657239217041552",
+          "creator": "Guillaume Bardet",
+          "url": "https://x.com/GuillaumeBardet/status/2118657239217041552",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119091729181880583",
+          "creator": "Romàn",
+          "url": "https://x.com/romanbuildsaas/status/2119091729181880583",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118657239217041552"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "06-gather-raw-material-i03",
+      "lesson_id": "06-gather-raw-material",
+      "lesson_path": "content/lessons/06-gather-raw-material.md",
+      "kind": "method",
+      "statement": "Steelman your best angle the way a careful investor would, then show exactly where it fails. Repeat. The result is still a hypothesis.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118657239217041552",
+          "creator": "Guillaume Bardet",
+          "url": "https://x.com/GuillaumeBardet/status/2118657239217041552",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "06-gather-raw-material-i04",
+      "lesson_id": "06-gather-raw-material",
+      "lesson_path": "content/lessons/06-gather-raw-material.md",
+      "kind": "method",
+      "statement": "Customer research can also start from a large set of existing reviews when you cannot yet run interviews.",
+      "attribution": "source-method",
+      "notes": "Korzhov describes research from about 5,000 reviews as one marketing-engineering step.",
+      "sources": [
+        {
+          "source_id": "x-2118984119988236662",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984119988236662",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157685941326148",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157685941326148",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118657239217041552",
+          "creator": "Guillaume Bardet",
+          "url": "https://x.com/GuillaumeBardet/status/2118657239217041552"
+        }
+      ]
+    },
+    {
+      "id": "07-make-the-difference-obvious-i01",
+      "lesson_id": "07-make-the-difference-obvious",
+      "lesson_path": "content/lessons/07-make-the-difference-obvious.md",
+      "kind": "method",
+      "statement": "Deliberate positioning puts unique strengths at the center instead of hanging on to the market you started in.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-2c5d6a6c14aa",
+          "creator": "April Dunford",
+          "url": "https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2090754751977898456",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2090754751977898456",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2090754749297819741",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2090754749297819741",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2042111501608391080",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2042111501608391080",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2041932600298614896"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "07-make-the-difference-obvious-i02",
+      "lesson_id": "07-make-the-difference-obvious",
+      "lesson_path": "content/lessons/07-make-the-difference-obvious.md",
+      "kind": "method",
+      "statement": "Dunford’s five steps let go of the original category, isolate uniqueness, name the value of that uniqueness, find who cares a lot, and choose a market frame that makes the strength obvious.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-2c5d6a6c14aa",
+          "creator": "April Dunford",
+          "url": "https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2090754751977898456",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2090754751977898456",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2090754749297819741",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2090754749297819741",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2042111501608391080",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2042111501608391080",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2041932600298614896"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "07-make-the-difference-obvious-i03",
+      "lesson_id": "07-make-the-difference-obvious",
+      "lesson_path": "content/lessons/07-make-the-difference-obvious.md",
+      "kind": "method",
+      "statement": "A classic positioning statement is a poor tool because it assumes the answer is already in your head, produces a sentence nobody uses, and makes you feel finished.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-2c5d6a6c14aa",
+          "creator": "April Dunford",
+          "url": "https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "07-make-the-difference-obvious-i04",
+      "lesson_id": "07-make-the-difference-obvious",
+      "lesson_path": "content/lessons/07-make-the-difference-obvious.md",
+      "kind": "method",
+      "statement": "Positioning is not messaging. Positioning is an input to later copy.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-2c5d6a6c14aa",
+          "creator": "April Dunford",
+          "url": "https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "07-make-the-difference-obvious-i05",
+      "lesson_id": "07-make-the-difference-obvious",
+      "lesson_path": "content/lessons/07-make-the-difference-obvious.md",
+      "kind": "method",
+      "statement": "Kunal’s complementary worksheet asks what you do, which category you compete in, why your approach is best, what is unique, who would care most, and what people would choose if not you.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1709147454606565816",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1709147454606565816",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-2c5d6a6c14aa",
+          "creator": "April Dunford",
+          "url": "https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e"
+        }
+      ]
+    },
+    {
+      "id": "07-make-the-difference-obvious-i06",
+      "lesson_id": "07-make-the-difference-obvious",
+      "lesson_path": "content/lessons/07-make-the-difference-obvious.md",
+      "kind": "method",
+      "statement": "Undefined positioning leads to weak product-market fit and a weak go-to-market plan, because you were not obsessed enough with users or with your intended customer, channels, and how those channels would scale.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1685889949449523201",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889949449523201",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "08-start-with-the-enemy-i01",
+      "lesson_id": "08-start-with-the-enemy",
+      "lesson_path": "content/lessons/08-start-with-the-enemy.md",
+      "kind": "method",
+      "statement": "Never start a pitch by talking about yourself, your team, your product, or your market size. Name the thing getting in the way of the customer’s happiness.",
+      "attribution": "source-method",
+      "notes": "Raskin’s saved essay is partial. Steps 2 through 4 after “name the enemy” are truncated. Step 5, present evidence, is present.",
+      "sources": [
+        {
+          "source_id": "web-b970bd340905",
+          "creator": "Andy Raskin",
+          "url": "https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "08-start-with-the-enemy-i02",
+      "lesson_id": "08-start-with-the-enemy",
+      "lesson_path": "content/lessons/08-start-with-the-enemy.md",
+      "kind": "method",
+      "statement": "Give evidence that the future you described is attainable. Live demos and early customer results beat hypothetical testimonials.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-b970bd340905",
+          "creator": "Andy Raskin",
+          "url": "https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "08-start-with-the-enemy-i03",
+      "lesson_id": "08-start-with-the-enemy",
+      "lesson_path": "content/lessons/08-start-with-the-enemy.md",
+      "kind": "method",
+      "statement": "Understand who or what the enemy of the product is, then build messaging and distribution around that. Storytelling works when you offer a real change and show it through a protagonist’s point of view.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2069756425468056032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2069756425468056032",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-b970bd340905",
+          "creator": "Andy Raskin",
+          "url": "https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b"
+        }
+      ]
+    },
+    {
+      "id": "08-start-with-the-enemy-i04",
+      "lesson_id": "08-start-with-the-enemy",
+      "lesson_path": "content/lessons/08-start-with-the-enemy.md",
+      "kind": "method",
+      "statement": "Before writing launch copy, answer what the market already loves and hates, who the enemy is, the highest-status outcome, the exact words customers use, and the most polarizing true thing you can say.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "08-start-with-the-enemy-i05",
+      "lesson_id": "08-start-with-the-enemy",
+      "lesson_path": "content/lessons/08-start-with-the-enemy.md",
+      "kind": "method",
+      "statement": "Distribution is a series of chapters in a larger story. Good chapters make people feel something, teach something, and make them want the next one.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2111080389565640897",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2111080389565640897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "08-start-with-the-enemy-i06",
+      "lesson_id": "08-start-with-the-enemy",
+      "lesson_path": "content/lessons/08-start-with-the-enemy.md",
+      "kind": "method",
+      "statement": "Odinsky describes cult brands as driving a wedge with an enemy and radical differences. The middle of that essay is truncated in the archive.",
+      "attribution": "source-method",
+      "notes": "Teach only the surviving points. This course does not ask anyone to build a manipulative following.",
+      "sources": [
+        {
+          "source_id": "web-94968f7e7047",
+          "creator": "Jordan Odinsky",
+          "url": "https://medium.com/@jordanodinsky/cult-wars-the-making-of-a-cult-brand-152bce93981f",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-b970bd340905",
+          "creator": "Andy Raskin",
+          "url": "https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b"
+        }
+      ]
+    },
+    {
+      "id": "09-one-page-and-gacc-i01",
+      "lesson_id": "09-one-page-and-gacc",
+      "lesson_path": "content/lessons/09-one-page-and-gacc.md",
+      "kind": "method",
+      "statement": "GACC stands for goals, audience, creative or unique take, and channels or distribution. Write it before you make anything longer than a short post.",
+      "attribution": "source-method",
+      "notes": "The rest of Kramer’s GACC newsletter is paywalled in this corpus.",
+      "sources": [
+        {
+          "source_id": "web-8f01c0edd455",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "partial",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "09-one-page-and-gacc-i02",
+      "lesson_id": "09-one-page-and-gacc",
+      "lesson_path": "content/lessons/09-one-page-and-gacc.md",
+      "kind": "method",
+      "statement": "Everything you create should ladder up to a perception or a goal, and should add value for the specific audience instead of duplicating what already exists.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-8f01c0edd455",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "partial",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "09-one-page-and-gacc-i03",
+      "lesson_id": "09-one-page-and-gacc",
+      "lesson_path": "content/lessons/09-one-page-and-gacc.md",
+      "kind": "method",
+      "statement": "Use GACC for marketing tasks, then execute and measure.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1832046081703584110",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1832046081703584110",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-8f01c0edd455",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best"
+        }
+      ]
+    },
+    {
+      "id": "09-one-page-and-gacc-i04",
+      "lesson_id": "09-one-page-and-gacc",
+      "lesson_path": "content/lessons/09-one-page-and-gacc.md",
+      "kind": "method",
+      "statement": "Kunal’s public one-page template is organized around brand or product promise, target audience, growth strategy, and marketing initiatives. A public excerpt also names elevator pitch and vision.",
+      "attribution": "source-method",
+      "notes": "The full Notion board was only partially extracted. Do not invent unseen sections.",
+      "sources": [
+        {
+          "source_id": "x-1992900998051106889",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1992900998051106889",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "partial",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "web-kunal-onepage-template",
+          "creator": "Kunal Gandhi",
+          "url": "https://crystal-molybdenum-2f8.notion.site/One-Page-Crypto-Marketing-Strategy-Template-cbfdf184d7064b319e6ba7264eb621cf",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "partial",
+          "archive_status": "partial-text"
+        },
+        {
+          "source_id": "x-1988488479764877432",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1988488479764877432",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "partial",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1992944068419293355",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1992944068419293355",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119288111020519508",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2119288111020519508",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2118867930113057131"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-8f01c0edd455",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best"
+        }
+      ]
+    },
+    {
+      "id": "09-one-page-and-gacc-i05",
+      "lesson_id": "09-one-page-and-gacc",
+      "lesson_path": "content/lessons/09-one-page-and-gacc.md",
+      "kind": "method",
+      "statement": "SMART goals are specific, measurable, achievable, relevant, and time-bound. They are a way to write the G in GACC without hiding behind vague ambition.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-a2d9ccaad477",
+          "creator": "Jenny Romanchuk / HubSpot",
+          "url": "https://blog.hubspot.com/marketing/smart-goal-examples",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-8f01c0edd455",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best"
+        }
+      ]
+    },
+    {
+      "id": "10-common-missteps-i01",
+      "lesson_id": "10-common-missteps",
+      "lesson_path": "content/lessons/10-common-missteps.md",
+      "kind": "method",
+      "statement": "Kunal’s eleven observed missteps cover undefined positioning, weak strategy, community over product, skipping the product-marketing journey, ignoring founder presence, content mistakes, lazy influencer use, ignoring search, treating launches as announcements instead of small go-to-market moments, a too-narrow use case, and overusing tokens as a marketing trick.",
+      "attribution": "source-method",
+      "notes": "The root conceptual id is x-1685889947461402624. Continuations are archived as their own status ids.",
+      "sources": [
+        {
+          "source_id": "x-1685889947461402624",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889947461402624",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889949449523201",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889949449523201",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889951311765504",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889951311765504",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889953169866752",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889953169866752",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889954960777216",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889954960777216",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889956936364032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889956936364032",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889958777614336",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889958777614336",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889960677687297",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889960677687297",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889962544189441",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889962544189441",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889964586786816",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889964586786816",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889966520365058",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889966520365058",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889968466538496",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889968466538496",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889970626531328",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889970626531328",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "10-common-missteps-i02",
+      "lesson_id": "10-common-missteps",
+      "lesson_path": "content/lessons/10-common-missteps.md",
+      "kind": "method",
+      "statement": "Great strategy beats great execution of a mediocre plan. Execution still matters, but execution of the right strategy matters more.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1685889951311765504",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889951311765504",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "10-common-missteps-i03",
+      "lesson_id": "10-common-missteps",
+      "lesson_path": "content/lessons/10-common-missteps.md",
+      "kind": "method",
+      "statement": "A strong community is a result of a strong product, not a substitute for one.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1685889953169866752",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889953169866752",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "11-homepage-that-makes-sense-i01",
+      "lesson_id": "11-homepage-that-makes-sense",
+      "lesson_path": "content/lessons/11-homepage-that-makes-sense.md",
+      "kind": "method",
+      "statement": "Ineffective homepages fail to say what the product does, who it is for, and why someone would choose it, which wastes every visit you worked to get.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-ac9c80b54e73",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/homepage-copy",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "11-homepage-that-makes-sense-i02",
+      "lesson_id": "11-homepage-that-makes-sense",
+      "lesson_path": "content/lessons/11-homepage-that-makes-sense.md",
+      "kind": "method",
+      "statement": "Start with a short messaging guide of building blocks, then plan a simple layout, then turn those blocks into copy section by section. Messaging is intent; copy is the exact words.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-ac9c80b54e73",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/homepage-copy",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "11-homepage-that-makes-sense-i03",
+      "lesson_id": "11-homepage-that-makes-sense",
+      "lesson_path": "content/lessons/11-homepage-that-makes-sense.md",
+      "kind": "method",
+      "statement": "An early B2B homepage can follow a simple sequence navigation, hero, social proof, two or three benefits with proof, optional use cases or personas, optional how it works, and a final call to action above the footer.",
+      "attribution": "source-method",
+      "notes": "Kramer’s step 4, writing better copy, is paywalled in this corpus.",
+      "sources": [
+        {
+          "source_id": "web-ac9c80b54e73",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/homepage-copy",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "12-the-whole-journey-i01",
+      "lesson_id": "12-the-whole-journey",
+      "lesson_path": "content/lessons/12-the-whole-journey.md",
+      "kind": "method",
+      "statement": "Product marketing starts with a stack acquisition, onboarding, engagement and retention, and monetization and turns those answers into product work, not only campaigns.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1951276376251617737",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1951276376251617737",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1685889954960777216",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889954960777216",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157671567470819",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157671567470819",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157673576542375",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157673576542375",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157675510010357",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157675510010357",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157690076877066",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157690076877066",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "12-the-whole-journey-i02",
+      "lesson_id": "12-the-whole-journey",
+      "lesson_path": "content/lessons/12-the-whole-journey.md",
+      "kind": "method",
+      "statement": "Acquisition includes who the product is for, which channels you will use, content loops, partnerships, and referrals. Onboarding includes the definition of “started” and the first moment the product proves itself.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1951276376251617737",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1951276376251617737",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "12-the-whole-journey-i03",
+      "lesson_id": "12-the-whole-journey",
+      "lesson_path": "content/lessons/12-the-whole-journey.md",
+      "kind": "method",
+      "statement": "Acquisition is easier than retention. Most of a marketer’s time should go into how people stay, because product shelf life is short.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2069756425468056032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/2069756425468056032",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1951276376251617737",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1951276376251617737",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "12-the-whole-journey-i04",
+      "lesson_id": "12-the-whole-journey",
+      "lesson_path": "content/lessons/12-the-whole-journey.md",
+      "kind": "method",
+      "statement": "Understand the full user journey from the first week collaboration with the people who build the product, because marketing is not separate from the product.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1985573315830772193",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1985573315830772193",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-1951276376251617737",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1951276376251617737"
+        }
+      ]
+    },
+    {
+      "id": "13-show-proof-when-you-launch-i01",
+      "lesson_id": "13-show-proof-when-you-launch",
+      "lesson_path": "content/lessons/13-show-proof-when-you-launch.md",
+      "kind": "method",
+      "statement": "Treat a launch as a small go-to-market moment and include video when it helps people believe you.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1685889964586786816",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889964586786816",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157688143303119",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157688143303119",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "13-show-proof-when-you-launch-i02",
+      "lesson_id": "13-show-proof-when-you-launch",
+      "lesson_path": "content/lessons/13-show-proof-when-you-launch.md",
+      "kind": "method",
+      "statement": "The main launch post has to stand alone. Spreading one launch across many posts hides most of them from people who do not already follow you.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "13-show-proof-when-you-launch-i03",
+      "lesson_id": "13-show-proof-when-you-launch",
+      "lesson_path": "content/lessons/13-show-proof-when-you-launch.md",
+      "kind": "method",
+      "statement": "Push the product to a true extreme and show the moment in a way that is hard to dismiss as a mockup.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-b970bd340905",
+          "creator": "Andy Raskin",
+          "url": "https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b"
+        }
+      ]
+    },
+    {
+      "id": "13-show-proof-when-you-launch-i04",
+      "lesson_id": "13-show-proof-when-you-launch",
+      "lesson_path": "content/lessons/13-show-proof-when-you-launch.md",
+      "kind": "method",
+      "statement": "A follower can see you. A connection can put the post in front of people you cannot reach. A quote is a new post to their audience.",
+      "attribution": "source-method",
+      "notes": "Epstein describes asking connections to quote a launch. This course teaches the mechanism and does not assign outreach.",
+      "sources": [
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "13-show-proof-when-you-launch-i05",
+      "lesson_id": "13-show-proof-when-you-launch",
+      "lesson_path": "content/lessons/13-show-proof-when-you-launch.md",
+      "kind": "method",
+      "statement": "Give people a reason to quote the post, and prepare different angles founder story, implications, a recorded reaction, a defensible opinion, or an honest tension so the same launch can be talked about in more than one way.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2114746175026798821",
+          "creator": "Juan",
+          "url": "https://x.com/0xfJuan/status/2114746175026798821",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486"
+        }
+      ]
+    },
+    {
+      "id": "13-show-proof-when-you-launch-i06",
+      "lesson_id": "13-show-proof-when-you-launch",
+      "lesson_path": "content/lessons/13-show-proof-when-you-launch.md",
+      "kind": "claim",
+      "statement": "Epstein reports that many company launches on X do poorly, and reports view and demo figures from his own firm’s work.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "14-pick-a-vehicle-i01",
+      "lesson_id": "14-pick-a-vehicle",
+      "lesson_path": "content/lessons/14-pick-a-vehicle.md",
+      "kind": "method",
+      "statement": "Building a brand is telling a series of chapters that fit a larger story, and each piece of organic content is one step on that path.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2111080389565640897",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2111080389565640897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "14-pick-a-vehicle-i02",
+      "lesson_id": "14-pick-a-vehicle",
+      "lesson_path": "content/lessons/14-pick-a-vehicle.md",
+      "kind": "method",
+      "statement": "Vehicles are rented platforms you do not control, owned audiences you can reach directly, or earned attention from someone else’s audience. You eventually want all three, but you should not start everywhere.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2111080389565640897",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2111080389565640897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e"
+        }
+      ]
+    },
+    {
+      "id": "14-pick-a-vehicle-i03",
+      "lesson_id": "14-pick-a-vehicle",
+      "lesson_path": "content/lessons/14-pick-a-vehicle.md",
+      "kind": "method",
+      "statement": "Pick a first vehicle by asking where the audience already spends time, whether you write or talk more easily, and how much time you can really commit.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2111080389565640897",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2111080389565640897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "15-write-one-idea-i01",
+      "lesson_id": "15-write-one-idea",
+      "lesson_path": "content/lessons/15-write-one-idea.md",
+      "kind": "method",
+      "statement": "Good copywriting gets the right person to take the right action. Write for a specific audience, keep one idea per post, give every post a takeaway, and choose clarity over cleverness.",
+      "attribution": "source-method",
+      "notes": "Ryan authored this guide. Grant Miller later shared it.",
+      "sources": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119241264843358402",
+          "creator": "Grant Miller",
+          "url": "https://x.com/AIGuide_/status/2119241264843358402",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118723940638138486",
+            "x-2118723940638138486"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157677531668673",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157677531668673",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "15-write-one-idea-i02",
+      "lesson_id": "15-write-one-idea",
+      "lesson_path": "content/lessons/15-write-one-idea.md",
+      "kind": "method",
+      "statement": "The first line’s only job is to earn the second. Eight useful hook types are a bold claim, a callout, a curiosity gap, a clear outcome, a contrarian line, a story, a numbered list, and proof.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119241264843358402",
+          "creator": "Grant Miller",
+          "url": "https://x.com/AIGuide_/status/2119241264843358402",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118723940638138486",
+            "x-2118723940638138486"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157677531668673",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157677531668673",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "15-write-one-idea-i03",
+      "lesson_id": "15-write-one-idea",
+      "lesson_path": "content/lessons/15-write-one-idea.md",
+      "kind": "method",
+      "statement": "Write the post first and the hook last. Draft several openings, cut weak ones, and move the most interesting line to the top.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "15-write-one-idea-i04",
+      "lesson_id": "15-write-one-idea",
+      "lesson_path": "content/lessons/15-write-one-idea.md",
+      "kind": "method",
+      "statement": "People scan. Use short lines, vary sentence length, keep paragraphs to one to three lines, and make the last line tell the reader what to think or do next.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "15-write-one-idea-i05",
+      "lesson_id": "15-write-one-idea",
+      "lesson_path": "content/lessons/15-write-one-idea.md",
+      "kind": "method",
+      "statement": "Conversations as content means recording or noting a real conversation, then turning it into more than one piece a short video, a thread, a longer post, and smaller ideas rather than preaching from a blank page.",
+      "attribution": "source-method",
+      "notes": "Practice with conversations you already had permission to learn from. Do not record people without consent or message strangers for homework.",
+      "sources": [
+        {
+          "source_id": "x-1696130516045471844",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1696130516045471844",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486"
+        }
+      ]
+    },
+    {
+      "id": "15-write-one-idea-i06",
+      "lesson_id": "15-write-one-idea",
+      "lesson_path": "content/lessons/15-write-one-idea.md",
+      "kind": "claim",
+      "statement": "Ryan reports large lifetime impression totals and fast early growth on his own account. Those are his results, not a beginner target.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "16-be-findable-i01",
+      "lesson_id": "16-be-findable",
+      "lesson_path": "content/lessons/16-be-findable.md",
+      "kind": "method",
+      "statement": "A practical search checklist includes server-rendered pages, a sitemap, allowing crawlers, removing accidental noindex tags, fixing redirects and broken links, canonical URLs, unique titles and descriptions, one H1, useful schema, internal links, image text and compression, stable layout, a real author, and links from sites people trust.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2116062550416871512",
+          "creator": "Suraj Sharma",
+          "url": "https://x.com/suraj_sharma14/status/2116062550416871512",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157681549897945",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157681549897945",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "16-be-findable-i02",
+      "lesson_id": "16-be-findable",
+      "lesson_path": "content/lessons/16-be-findable.md",
+      "kind": "method",
+      "statement": "Rewrite text that sounds machine-generic, and do the last steps yourself earn trust and write as a real person.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2116062550416871512",
+          "creator": "Suraj Sharma",
+          "url": "https://x.com/suraj_sharma14/status/2116062550416871512",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157681549897945",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157681549897945",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "17-improve-what-already-ranks-i01",
+      "lesson_id": "17-improve-what-already-ranks",
+      "lesson_path": "content/lessons/17-improve-what-already-ranks.md",
+      "kind": "method",
+      "statement": "Start from pages search already rewards. Look for queries that earn impressions the page never mentions, and queries sitting around positions 10 to 30, then add the missing answers instead of writing a whole new article.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119171723849245031",
+          "creator": "andrei saioc",
+          "url": "https://x.com/asaio87/status/2119171723849245031",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "17-improve-what-already-ranks-i02",
+      "lesson_id": "17-improve-what-already-ranks",
+      "lesson_path": "content/lessons/17-improve-what-already-ranks.md",
+      "kind": "method",
+      "statement": "Answer the main question in the first two paragraphs. Place the main phrase in the title, the description, and the first paragraph. Add first-hand proof such as screenshots, and link related pages a reader would actually click.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119171723849245031",
+          "creator": "andrei saioc",
+          "url": "https://x.com/asaio87/status/2119171723849245031",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "17-improve-what-already-ranks-i03",
+      "lesson_id": "17-improve-what-already-ranks",
+      "lesson_path": "content/lessons/17-improve-what-already-ranks.md",
+      "kind": "method",
+      "statement": "An assistant should find gaps. You should fill them. Do not let it rewrite the whole article in a generic voice.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119171723849245031",
+          "creator": "andrei saioc",
+          "url": "https://x.com/asaio87/status/2119171723849245031",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "17-improve-what-already-ranks-i04",
+      "lesson_id": "17-improve-what-already-ranks",
+      "lesson_path": "content/lessons/17-improve-what-already-ranks.md",
+      "kind": "method",
+      "statement": "Title tests belong on pages already near the top that get impressions but few clicks. Write at least three titles with the searcher’s words first, a specific promise, a reason to click, under about 60 characters, and nothing the page does not deliver.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118851191538946188",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2118851191538946188",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119227612258054502",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2119227612258054502",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118851191538946188",
+            "x-2118851191538946188"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2119171723849245031",
+          "creator": "andrei saioc",
+          "url": "https://x.com/asaio87/status/2119171723849245031"
+        }
+      ]
+    },
+    {
+      "id": "17-improve-what-already-ranks-i05",
+      "lesson_id": "17-improve-what-already-ranks",
+      "lesson_path": "content/lessons/17-improve-what-already-ranks.md",
+      "kind": "finding",
+      "statement": "On Borja’s site, titles that used the words people typed got a 4.7 percent click-through rate, while titles that only named the category got under 1 percent.",
+      "attribution": "source-finding",
+      "notes": "Author’s reported split of about 90 days of click data. Not a universal law.",
+      "sources": [
+        {
+          "source_id": "x-2118851191538946188",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2118851191538946188",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "17-improve-what-already-ranks-i06",
+      "lesson_id": "17-improve-what-already-ranks",
+      "lesson_path": "content/lessons/17-improve-what-already-ranks.md",
+      "kind": "method",
+      "statement": "Judge a title test by clicks as well as click-through rate, compare similar positions, and change one thing at a time. Optional paid title tests with ads are a speed tactic, not a required exercise.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118851191538946188",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2118851191538946188",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2115050945746739607",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2115050945746739607",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i01",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "method",
+      "statement": "Start with buyer decisions rather than a keyword list, then turn those decisions into both search queries and prompts you can rerun.",
+      "attribution": "source-method",
+      "notes": "jam presents a Granola workflow. A continuation credits Discovered Labs as the vendor origin of that case. Results were not independently audited in this corpus.",
+      "sources": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i02",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "method",
+      "statement": "When you do not show up, diagnose why the page is missing, the page is weak, the page cannot be crawled, or a third party is being trusted instead. Improve a weak page before creating a duplicate.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i03",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "method",
+      "statement": "Treat important sources as own, claim, earn, or contest, and use a different action for each.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i04",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "method",
+      "statement": "Measure ordinary search and AI mentions separately. A page can rise in Google and barely move in chat answers, or the reverse.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i05",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "method",
+      "statement": "Pick a specific buying category, study what assistants already cite, write pages for distinct buyer decisions, support them with nearby questions, rerun the same prompts, and track whether citations become customers.",
+      "attribution": "source-method",
+      "notes": "jam presents a Ramp workflow. A continuation credits Profound as the vendor origin of that case.",
+      "sources": [
+        {
+          "source_id": "x-2117333079106932897",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2117333079106932897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548"
+        }
+      ]
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i06",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "claim",
+      "statement": "jam reports large AI-search gains for Granola and Ramp. Those figures come from vendor case writeups and were not independently audited here.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2117333079106932897",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2117333079106932897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "vendor-profound-discovered-labs",
+          "creator": "Profound / Discovered Labs",
+          "url": null,
+          "credit_role": "vendor-origin",
+          "quoted_source_ids": [],
+          "retrieval_status": "not-directly-retrieved",
+          "archive_status": "none"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "18-show-up-in-ai-answers-i07",
+      "lesson_id": "18-show-up-in-ai-answers",
+      "lesson_path": "content/lessons/18-show-up-in-ai-answers.md",
+      "kind": "method",
+      "statement": "You can log how ChatGPT, Claude, and Perplexity answer real buyer questions, notice which pages get cited, and rewrite your important pages to share the traits of those citations, such as a direct first-paragraph answer, original figures, and a clear author.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118984117756756224",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984117756756224",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2115568290307469548",
+          "creator": "jam",
+          "url": "https://x.com/wespreadjam/status/2115568290307469548"
+        }
+      ]
+    },
+    {
+      "id": "19-be-listed-where-buyers-look-i01",
+      "lesson_id": "19-be-listed-where-buyers-look",
+      "lesson_path": "content/lessons/19-be-listed-where-buyers-look.md",
+      "kind": "method",
+      "statement": "Treat directory and launch lists as places to investigate, not as 200 guaranteed backlinks. Some are free, some cost money, and many require a real qualifying product.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119247229601062993",
+          "creator": "Grant O",
+          "url": "https://x.com/2whazzuup/status/2119247229601062993",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "19-be-listed-where-buyers-look-i02",
+      "lesson_id": "19-be-listed-where-buyers-look",
+      "lesson_path": "content/lessons/19-be-listed-where-buyers-look.md",
+      "kind": "method",
+      "statement": "Prepare a consistent description, screenshots, categories, and a working URL, and prioritize platforms where prospective customers already look.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119247229601062993",
+          "creator": "Grant O",
+          "url": "https://x.com/2whazzuup/status/2119247229601062993",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "19-be-listed-where-buyers-look-i03",
+      "lesson_id": "19-be-listed-where-buyers-look",
+      "lesson_path": "content/lessons/19-be-listed-where-buyers-look.md",
+      "kind": "method",
+      "statement": "Sol collected more specific discovery places, including communities and launch or review sites. Use the same fit filter rather than submitting to every URL.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117540123294171201",
+          "creator": "Sol",
+          "url": "https://x.com/solyatic/status/2117540123294171201",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2119247229601062993",
+          "creator": "Grant O",
+          "url": "https://x.com/2whazzuup/status/2119247229601062993"
+        }
+      ]
+    },
+    {
+      "id": "19-be-listed-where-buyers-look-i04",
+      "lesson_id": "19-be-listed-where-buyers-look",
+      "lesson_path": "content/lessons/19-be-listed-where-buyers-look.md",
+      "kind": "method",
+      "statement": "High domain-authority submission lists are mixed. Some entries are places buyers look. Others are general profile or media hosts that will not send a choosing customer.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119140218028900809",
+          "creator": "Natia Kurdadze - SEO",
+          "url": "https://x.com/seonatia/status/2119140218028900809",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2119247229601062993",
+          "creator": "Grant O",
+          "url": "https://x.com/2whazzuup/status/2119247229601062993"
+        }
+      ]
+    },
+    {
+      "id": "19-be-listed-where-buyers-look-i05",
+      "lesson_id": "19-be-listed-where-buyers-look",
+      "lesson_path": "content/lessons/19-be-listed-where-buyers-look.md",
+      "kind": "method",
+      "statement": "Integration and agent marketplaces such as Albato, the Hermes agent catalog, and Vercel’s skills listing can create a dedicated page if you ship a real integration, not a hollow profile.",
+      "attribution": "source-method",
+      "notes": "Taras credits Aaron Delasy for finding the Hermes marketplace route.",
+      "sources": [
+        {
+          "source_id": "x-2118344835497169143",
+          "creator": "Taras",
+          "url": "https://x.com/tarasshyn/status/2118344835497169143",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2117984074505568747"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118714992119759236",
+          "creator": "Taras",
+          "url": "https://x.com/tarasshyn/status/2118714992119759236",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2118344835497169143",
+            "x-2118344835497169143"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119079928901890194",
+          "creator": "Taras",
+          "url": "https://x.com/tarasshyn/status/2119079928901890194",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2118714992119759236",
+            "x-2118714992119759236"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "19-be-listed-where-buyers-look-i06",
+      "lesson_id": "19-be-listed-where-buyers-look",
+      "lesson_path": "content/lessons/19-be-listed-where-buyers-look.md",
+      "kind": "claim",
+      "statement": "Taras writes that these integrations started sending multiple customers a day. That is his report, not a typical result.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119165493470974378",
+          "creator": "Taras",
+          "url": "https://x.com/tarasshyn/status/2119165493470974378",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2119079928901890194",
+            "x-2119079928901890194"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "20-trust-what-you-measure-i01",
+      "lesson_id": "20-trust-what-you-measure",
+      "lesson_path": "content/lessons/20-trust-what-you-measure.md",
+      "kind": "method",
+      "statement": "Establish a process that generates ideas, tests them, and records what you learned, instead of hunting for a permanent tactic.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "20-trust-what-you-measure-i02",
+      "lesson_id": "20-trust-what-you-measure",
+      "lesson_path": "content/lessons/20-trust-what-you-measure.md",
+      "kind": "method",
+      "statement": "Write goals that are specific, measurable, achievable, relevant, and time-bound, so the G in GACC is not a vague wish.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-a2d9ccaad477",
+          "creator": "Jenny Romanchuk / HubSpot",
+          "url": "https://blog.hubspot.com/marketing/smart-goal-examples",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-8f01c0edd455",
+          "creator": "Emily Kramer / MKT1",
+          "url": "https://newsletter.mkt1.co/p/the-gacc-marketing-brief-the-best"
+        }
+      ]
+    },
+    {
+      "id": "20-trust-what-you-measure-i03",
+      "lesson_id": "20-trust-what-you-measure",
+      "lesson_path": "content/lessons/20-trust-what-you-measure.md",
+      "kind": "method",
+      "statement": "Change one thing at a time, write the starting numbers down, and compare similar conditions so a rank change cannot masquerade as a title win.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118851191538946188",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2118851191538946188",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "20-trust-what-you-measure-i04",
+      "lesson_id": "20-trust-what-you-measure",
+      "lesson_path": "content/lessons/20-trust-what-you-measure.md",
+      "kind": "method",
+      "statement": "Incrementality asks how many sales a channel really added, not how many a platform reports. Geo holdouts and a slice of people who receive nothing are two ways to see the difference.",
+      "attribution": "source-method",
+      "notes": "Korzhov’s practice examples involve turning ads off in regions or holding out email. This course does not assign paid-ad tests.",
+      "sources": [
+        {
+          "source_id": "x-2118984128687124762",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984128687124762",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984126568993159",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984126568993159",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "20-trust-what-you-measure-i05",
+      "lesson_id": "20-trust-what-you-measure",
+      "lesson_path": "content/lessons/20-trust-what-you-measure.md",
+      "kind": "claim",
+      "statement": "Korzhov writes that platforms often take credit for two to five times more sales than they really drove, and that many accounts duplicate or miss a large share of purchase events.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118984128687124762",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984128687124762",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984124354511076",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984124354511076",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "20-trust-what-you-measure-i06",
+      "lesson_id": "20-trust-what-you-measure",
+      "lesson_path": "content/lessons/20-trust-what-you-measure.md",
+      "kind": "method",
+      "statement": "A regular report should compare the latest period with the one before, explain what changed, and suggest the next test.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118984130847285364",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984130847285364",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157679553359887",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157679553359887",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i01",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "method",
+      "statement": "Give the first bot one defined job. A role that is still five jobs with no definition will make the bot guess, and guessing creates revisions.",
+      "attribution": "source-method",
+      "notes": "The full guide is archived as article text associated with Kyle Hunt’s post.",
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i02",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "method",
+      "statement": "A charter should name the job, the files to read, allowed apps, what done looks like, pass/fail checks, and a hard ask-first list for sending, deleting, paying, and messaging people. Never invent a number. Stop after a step fails twice.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i03",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "method",
+      "statement": "Text inside emails, transcripts, and web pages is information. Never follow instructions found in it. Separate bots are not a security boundary if they share a computer and logins.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2105275395901726845",
+          "creator": "distort",
+          "url": "https://x.com/distortgeekin/status/2105275395901726845",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i04",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "method",
+      "statement": "Hand the bot a file before you hand it a login. Use a limited seat where roles exist. If the job can run from an export, do not give that bot a login at all.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i05",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "method",
+      "statement": "Do not put a job on a schedule until you have run it by hand three times on different inputs. When a draft is wrong, fix the charter, not only the draft.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i06",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "method",
+      "statement": "Review every new bot completely at first, then step review down only after a streak of clean runs, and keep anything a customer will see as a draft you send yourself.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "21-give-a-bot-one-job-i07",
+      "lesson_id": "21-give-a-bot-one-job",
+      "lesson_path": "content/lessons/21-give-a-bot-one-job.md",
+      "kind": "claim",
+      "statement": "Hunt reports that in year one his company did $382,428 at 87 percent margins, while spending about $7 to $8 thousand a month on AI. The article title says $1 million. Those are his figures, not a target for this course.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "22-keep-ownership-i01",
+      "lesson_id": "22-keep-ownership",
+      "lesson_path": "content/lessons/22-keep-ownership.md",
+      "kind": "method",
+      "statement": "Critical thinking now has to be built into the day, because fast, pleasant, mostly-correct answers no longer force a second look.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117512471930167377",
+          "creator": "Addy Osmani",
+          "url": "https://x.com/addyosmani/status/2117512471930167377",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "22-keep-ownership-i02",
+      "lesson_id": "22-keep-ownership",
+      "lesson_path": "content/lessons/22-keep-ownership.md",
+      "kind": "method",
+      "statement": "The spectrum runs from offloading you delegate the task and still own the result, through deferral the output becomes your new input and stops being a hypothesis, to surrender the output quietly becomes your own and you feel no need to check it.",
+      "attribution": "source-method",
+      "notes": "Addy notes that “cognitive surrender” is a term coined by Steven Shaw and Gideon Nave at Wharton.",
+      "sources": [
+        {
+          "source_id": "x-2117512471930167377",
+          "creator": "Addy Osmani",
+          "url": "https://x.com/addyosmani/status/2117512471930167377",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "22-keep-ownership-i03",
+      "lesson_id": "22-keep-ownership",
+      "lesson_path": "content/lessons/22-keep-ownership.md",
+      "kind": "method",
+      "statement": "Take the handoff where being wrong is cheap. Keep the reasoning where other people will have to live with the consequences.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117512471930167377",
+          "creator": "Addy Osmani",
+          "url": "https://x.com/addyosmani/status/2117512471930167377",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "23-write-down-what-you-learned-i01",
+      "lesson_id": "23-write-down-what-you-learned",
+      "lesson_path": "content/lessons/23-write-down-what-you-learned.md",
+      "kind": "finding",
+      "statement": "Memory that stores tested rules and current goals beat memory that archived every changing detail. In a Pokémon evaluation, a model that wrote hundreds of files progressed less than a model that kept a small set of plans and learned rules.",
+      "attribution": "source-finding",
+      "notes": "Anthropic evaluation, described by Lance Martin with editorial guidance. Game progress is the study’s measure, not a marketing metric.",
+      "sources": [
+        {
+          "source_id": "web-anthropic-agent-memory",
+          "creator": "Lance Martin / Anthropic; editorial guidance credited in original",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "23-write-down-what-you-learned-i02",
+      "lesson_id": "23-write-down-what-you-learned",
+      "lesson_path": "content/lessons/23-write-down-what-you-learned.md",
+      "kind": "finding",
+      "statement": "Writing down a verified fact is a prediction that a future session will want to rely on it. Stronger memory notes included the rule and how the agent knew the rule was true.",
+      "attribution": "source-finding",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-anthropic-agent-memory",
+          "creator": "Lance Martin / Anthropic; editorial guidance credited in original",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "23-write-down-what-you-learned-i03",
+      "lesson_id": "23-write-down-what-you-learned",
+      "lesson_path": "content/lessons/23-write-down-what-you-learned.md",
+      "kind": "finding",
+      "statement": "When several agents wrote a shared table of contract terms at once, 41 of 57 graded facts survived. When one agent per contract wrote its own page and quoted terms word for word, 57 of 57 survived.",
+      "attribution": "source-finding",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-anthropic-agent-memory",
+          "creator": "Lance Martin / Anthropic; editorial guidance credited in original",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "23-write-down-what-you-learned-i04",
+      "lesson_id": "23-write-down-what-you-learned",
+      "lesson_path": "content/lessons/23-write-down-what-you-learned.md",
+      "kind": "method",
+      "statement": "Quote exact promises, banned phrases, and other contract-like facts instead of summarizing them into a shared table that many writers can overwrite.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-anthropic-agent-memory",
+          "creator": "Lance Martin / Anthropic; editorial guidance credited in original",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "firstparty-course-design",
+          "creator": "Course author",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": "opt-77-brands-i01",
+      "lesson_id": "opt-77-brands",
+      "lesson_path": "content/optional/opt-77-brands.md",
+      "kind": "method",
+      "statement": "There is no one-size-fits-all model for getting first customers. Robbie’s catalog of 77 companies is offered as inspiration for demand generation, not as a single formula.",
+      "attribution": "source-method",
+      "notes": "We do not reproduce the individual case studies.",
+      "sources": [
+        {
+          "source_id": "web-9effd2cad39a",
+          "creator": "Robbie Richards",
+          "url": "https://www.robbierichards.com/growth/growth-hacking-strategies/",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second"
+        },
+        {
+          "source_id": "web-da4ef02f3ddf",
+          "creator": "Gabriel Weinberg and Justin Mares",
+          "url": "https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e"
+        }
+      ]
+    },
+    {
+      "id": "opt-cold-email-diagnostics-i01",
+      "lesson_id": "opt-cold-email-diagnostics",
+      "lesson_path": "content/optional/opt-cold-email-diagnostics.md",
+      "kind": "method",
+      "statement": "Christian’s cheat sheet maps outcomes to causes no replies and no bounces suggests the mail never landed, replies without interest suggest the offer, bounces over about 2 percent suggest the list, and open rate is a tracking pixel that can hurt inbox placement.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119415642202034427",
+          "creator": "Christian",
+          "url": "https://x.com/coldemailchris/status/2119415642202034427",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-cold-email-diagnostics-i02",
+      "lesson_id": "opt-cold-email-diagnostics",
+      "lesson_path": "content/optional/opt-cold-email-diagnostics.md",
+      "kind": "claim",
+      "statement": "He reports rough benchmarks such as one lead per 300 contacts as a great campaign, one per 500 as still solid, Google-hosted prospects replying much more than Microsoft-hosted ones, very short copy for Microsoft prospects, and near-zero replies for generic AI first lines.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119415642202034427",
+          "creator": "Christian",
+          "url": "https://x.com/coldemailchris/status/2119415642202034427",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-cold-email-diagnostics-i03",
+      "lesson_id": "opt-cold-email-diagnostics",
+      "lesson_path": "content/optional/opt-cold-email-diagnostics.md",
+      "kind": "method",
+      "statement": "Replacing an unsubscribe link with a coded reply such as “reply banana” is presented as a tactic and carries legal and trust risk wherever permission and opt-out rules apply.",
+      "attribution": "source-method",
+      "notes": "Teach the tactic and the risk. Do not assign sending.",
+      "sources": [
+        {
+          "source_id": "x-2119415642202034427",
+          "creator": "Christian",
+          "url": "https://x.com/coldemailchris/status/2119415642202034427",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-competitor-ads-i01",
+      "lesson_id": "opt-competitor-ads",
+      "lesson_path": "content/optional/opt-competitor-ads.md",
+      "kind": "method",
+      "statement": "LinkedIn’s ad library lets anyone inspect ads a company ran. Look at the problem the ad opens with, what it offers, and what proof it uses. Those paid lines are candidates for later messaging tests.",
+      "attribution": "source-method",
+      "notes": "Korzhov’s marketing-engineering list also includes rebuilding competitor winners. Teach inspection, not copying claims you cannot support.",
+      "sources": [
+        {
+          "source_id": "x-2119077318769385871",
+          "creator": "Din",
+          "url": "https://x.com/DinScales26/status/2119077318769385871",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118984115533795406",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984115533795406"
+        }
+      ]
+    },
+    {
+      "id": "opt-competitor-ads-i02",
+      "lesson_id": "opt-competitor-ads",
+      "lesson_path": "content/optional/opt-competitor-ads.md",
+      "kind": "method",
+      "statement": "Din describes turning those ads into cold LinkedIn messages, sending them at volume, and charging for booked calls, including a $500 test of 1,000 messages.",
+      "attribution": "source-method",
+      "notes": "This course does not assign DMs, client pitching, or spending. The $20k/month framing is an author claim about a hypothetical agency.",
+      "sources": [
+        {
+          "source_id": "x-2119077318769385871",
+          "creator": "Din",
+          "url": "https://x.com/DinScales26/status/2119077318769385871",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-competitor-ads-i03",
+      "lesson_id": "opt-competitor-ads",
+      "lesson_path": "content/optional/opt-competitor-ads.md",
+      "kind": "claim",
+      "statement": "Din’s post frames this as a path to about $20,000 a month. That is a pitch, not evidence from this corpus.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119077318769385871",
+          "creator": "Din",
+          "url": "https://x.com/DinScales26/status/2119077318769385871",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-exact-match-domains-i01",
+      "lesson_id": "opt-exact-match-domains",
+      "lesson_path": "content/optional/opt-exact-match-domains.md",
+      "kind": "method",
+      "statement": "Buy domains that match high-intent search phrases one-to-one, publish content tightly aligned to those phrases, and keep entity signals consistent so search engines and assistants associate the site with the query.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119089991217262884",
+          "creator": "Margatix",
+          "url": "https://x.com/margatix/status/2119089991217262884",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119126406613610758",
+          "creator": "Jesper Nissen",
+          "url": "https://x.com/JespernissenSEO/status/2119126406613610758",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2119089991217262884"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-exact-match-domains-i02",
+      "lesson_id": "opt-exact-match-domains",
+      "lesson_path": "content/optional/opt-exact-match-domains.md",
+      "kind": "claim",
+      "statement": "Margatix writes that they ranked number one for those queries and later received offers to rent the domains and a seven-figure offer to acquire the assets. The opening line frames this as going from zero to seven figures in ten days.",
+      "attribution": "source-claim",
+      "notes": "Teach the seven-figure figure as an acquisition offer, not as realized customer revenue.",
+      "sources": [
+        {
+          "source_id": "x-2119089991217262884",
+          "creator": "Margatix",
+          "url": "https://x.com/margatix/status/2119089991217262884",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119126406613610758",
+          "creator": "Jesper Nissen",
+          "url": "https://x.com/JespernissenSEO/status/2119126406613610758",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2119089991217262884"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-exact-match-domains-i03",
+      "lesson_id": "opt-exact-match-domains",
+      "lesson_path": "content/optional/opt-exact-match-domains.md",
+      "kind": "method",
+      "statement": "Andrew Rosener pointed at exact-match domains making a comeback and treated Margatix’s post as a receipt. Margatix authored the method.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119362694713078139",
+          "creator": "Andrew Rosener 🛒 🔁",
+          "url": "https://x.com/andrewrosener/status/2119362694713078139",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2119089991217262884"
+          ],
+          "retrieval_status": "partial",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2119089991217262884",
+          "creator": "Margatix",
+          "url": "https://x.com/margatix/status/2119089991217262884"
+        }
+      ]
+    },
+    {
+      "id": "opt-first-month-hire-i01",
+      "lesson_id": "opt-first-month-hire",
+      "lesson_path": "content/optional/opt-first-month-hire.md",
+      "kind": "method",
+      "statement": "Before or during the first days, study team, company, and a possible first win so you understand structure, model, current strategy, competitors’ channels, and where a quick learning might sit.",
+      "attribution": "source-method",
+      "notes": "Later weekly schedule detail is truncated in the saved file.",
+      "sources": [
+        {
+          "source_id": "web-d2ec49449a34",
+          "creator": "Matias Honorato",
+          "url": "https://medium.com/tradecraft-traction/succeed-as-a-growth-marketing-hire-c1bc44f295e0",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-2d989761cf0d",
+          "creator": "Matias Honorato",
+          "url": "https://medium.com/@Mati_Honorato/a-first-principles-approach-to-growth-d9529e462b1"
+        },
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second"
+        }
+      ]
+    },
+    {
+      "id": "opt-first-month-hire-i02",
+      "lesson_id": "opt-first-month-hire",
+      "lesson_path": "content/optional/opt-first-month-hire.md",
+      "kind": "method",
+      "statement": "Foundations are built on principles, not tactics. The first month should reinforce process and learning, quoting Balfour’s line that Honorato repeats.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "web-d2ec49449a34",
+          "creator": "Matias Honorato",
+          "url": "https://medium.com/tradecraft-traction/succeed-as-a-growth-marketing-hire-c1bc44f295e0",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "partial-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-a9fdfd6339f6",
+          "creator": "Brian Balfour",
+          "url": "https://brianbalfour.com/essays/growth-process-first-tactics-second"
+        }
+      ]
+    },
+    {
+      "id": "opt-five-ai-skills-i01",
+      "lesson_id": "opt-five-ai-skills",
+      "lesson_path": "content/optional/opt-five-ai-skills.md",
+      "kind": "method",
+      "statement": "KV’s five skills are AI workflow design, context engineering, automation and agents, AI-assisted development, and content plus distribution. Pick one or two, not all five at once.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115810173830750575",
+          "creator": "KV",
+          "url": "https://x.com/notkvtwts/status/2115810173830750575",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2116886564802576703",
+          "creator": "KV",
+          "url": "https://x.com/notkvtwts/status/2116886564802576703",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2115810173830750575"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-five-ai-skills-i02",
+      "lesson_id": "opt-five-ai-skills",
+      "lesson_path": "content/optional/opt-five-ai-skills.md",
+      "kind": "method",
+      "statement": "Workflow design means splitting your existing work into what an assistant can do alone, what it drafts for you to fix, and what it cannot help with yet, then timing the difference.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115810173830750575",
+          "creator": "KV",
+          "url": "https://x.com/notkvtwts/status/2115810173830750575",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-five-ai-skills-i03",
+      "lesson_id": "opt-five-ai-skills",
+      "lesson_path": "content/optional/opt-five-ai-skills.md",
+      "kind": "method",
+      "statement": "Context engineering means setting up an assistant once so it already knows your work, and adding a rule every time you correct it.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115810173830750575",
+          "creator": "KV",
+          "url": "https://x.com/notkvtwts/status/2115810173830750575",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-five-ai-skills-i04",
+      "lesson_id": "opt-five-ai-skills",
+      "lesson_path": "content/optional/opt-five-ai-skills.md",
+      "kind": "claim",
+      "statement": "KV cites studies about faster writing, quality gains, and a pay premium for jobs that ask for AI skills. Those cited figures are not independently re-checked in this corpus.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2115810173830750575",
+          "creator": "KV",
+          "url": "https://x.com/notkvtwts/status/2115810173830750575",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-fomo-tech-appendix-i01",
+      "lesson_id": "opt-fomo-tech-appendix",
+      "lesson_path": "content/optional/opt-fomo-tech-appendix.md",
+      "kind": "method",
+      "statement": "Suraj’s 2027 list includes computer-use agents, generative UI, a cheap/fast router for easy requests, durable workflows that can resume, an MCP server so other agents can call your product, constrained outputs, graders, injection proxies, privacy unmasking, cost kill-switches, and related serving tricks.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118682313479573689",
+          "creator": "Suraj Sharma",
+          "url": "https://x.com/suraj_sharma14/status/2118682313479573689",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "web-5bd78febd4a5",
+          "creator": "DeepSeek Harness team",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+        }
+      ]
+    },
+    {
+      "id": "opt-founder-presence-i01",
+      "lesson_id": "opt-founder-presence",
+      "lesson_path": "content/optional/opt-founder-presence.md",
+      "kind": "method",
+      "statement": "Ignoring founder presence is a common misstep. A founder’s participation can fuel the project, especially where the audience already gathers.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-1685889956936364032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889956936364032",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1985573315830772193",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1985573315830772193",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-1697157683537924249",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1697157683537924249",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-founder-presence-i02",
+      "lesson_id": "opt-founder-presence",
+      "lesson_path": "content/optional/opt-founder-presence.md",
+      "kind": "method",
+      "statement": "Founder-led content works when the person is living the next chapter of the story, not when they post announcements.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2111080389565640897",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2111080389565640897",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-1685889956936364032",
+          "creator": "Kunal Gandhi",
+          "url": "https://x.com/kunalvg/status/1685889956936364032"
+        }
+      ]
+    },
+    {
+      "id": "opt-founder-presence-i03",
+      "lesson_id": "opt-founder-presence",
+      "lesson_path": "content/optional/opt-founder-presence.md",
+      "kind": "method",
+      "statement": "Capturing attention is valuable, and “founder-led marketing” often just means the founder posts. Most founders, Dan Koe writes, are bad at it.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117664712532123680",
+          "creator": "DAN KOE",
+          "url": "https://x.com/thedankoe/status/2117664712532123680",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-how-x-ranks-i01",
+      "lesson_id": "opt-how-x-ranks",
+      "lesson_path": "content/optional/opt-how-x-ranks.md",
+      "kind": "method",
+      "statement": "X pulls candidate posts from Thunder (accounts you follow), Phoenix (posts that match your interests even if you do not follow the author), and SimClusters (posts popular with people like you).",
+      "attribution": "source-method",
+      "notes": "Epstein describes the same three retrieval sources. Ryan’s long guide is the fuller unofficial decode.",
+      "sources": [
+        {
+          "source_id": "x-2117633599608631361",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2117633599608631361",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2117351855856779486",
+          "creator": "Matt Epstein",
+          "url": "https://x.com/mattepstein/status/2117351855856779486",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2117684231983800732",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2117684231983800732",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2117633599608631361"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-how-x-ranks-i02",
+      "lesson_id": "opt-how-x-ranks",
+      "lesson_path": "content/optional/opt-how-x-ranks.md",
+      "kind": "method",
+      "statement": "A ranking model then predicts what a viewer will do and scores the post. In Ryan’s 30 October 2026 table, copy-link shares weight 20, replies and quotes 5, follows 4, likes 0.66, and profile clicks 0. Reports and mutes are large negatives.",
+      "attribution": "source-method",
+      "notes": "Unofficial interpretation of open-source code plus experience. Ryan states he is not on the X algorithm team. Weights change.",
+      "sources": [
+        {
+          "source_id": "x-2117633599608631361",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2117633599608631361",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-how-x-ranks-i03",
+      "lesson_id": "opt-how-x-ranks",
+      "lesson_path": "content/optional/opt-how-x-ranks.md",
+      "kind": "claim",
+      "statement": "Ryan reports very large lifetime impressions and fast recent growth on his own account. Those are his results.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117633599608631361",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2117633599608631361",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-local-seo-i01",
+      "lesson_id": "opt-local-seo",
+      "lesson_path": "content/optional/opt-local-seo.md",
+      "kind": "method",
+      "statement": "A rebuild-from-zero local plan focuses on pages and profiles that match how nearby buyers search for a service in a place.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2088983373859725755",
+          "creator": "Sarvesh Shrivastava",
+          "url": "https://x.com/bloggersarvesh/status/2088983373859725755",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2116062550416871512",
+          "creator": "Suraj Sharma",
+          "url": "https://x.com/suraj_sharma14/status/2116062550416871512"
+        },
+        {
+          "source_id": "x-2118851191538946188",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2118851191538946188"
+        }
+      ]
+    },
+    {
+      "id": "opt-local-seo-i02",
+      "lesson_id": "opt-local-seo",
+      "lesson_path": "content/optional/opt-local-seo.md",
+      "kind": "claim",
+      "statement": "Sarvesh frames the plan as a way he would get to $100,000 a month if he woke up bankrupt. That income target is his claim.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2088983373859725755",
+          "creator": "Sarvesh Shrivastava",
+          "url": "https://x.com/bloggersarvesh/status/2088983373859725755",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-marketing-engineering-i01",
+      "lesson_id": "opt-marketing-engineering",
+      "lesson_path": "content/optional/opt-marketing-engineering.md",
+      "kind": "method",
+      "statement": "Korzhov’s eleven steps cover an ads agent with caps, programmatic SEO, AI video ads, rebuilding competitor winners, getting cited by assistants, large-scale review research, matching ads to landing pages, trustworthy conversion tracking, behavior-triggered messages with holdouts, incrementality, and a weekly report.",
+      "attribution": "source-method",
+      "notes": "Promotional thread with a repo. Ads-agent and spend details stay optional and are not exercises.",
+      "sources": [
+        {
+          "source_id": "x-2118984106335756532",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984106335756532",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2118867930113057131",
+            "x-2118867930113057131"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984108810379489",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984108810379489",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984111029186749",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984111029186749",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984113323491681",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984113323491681",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984115533795406",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984115533795406",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984117756756224",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984117756756224",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984119988236662",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984119988236662",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984122152440281",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984122152440281",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984124354511076",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984124354511076",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984126568993159",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984126568993159",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984128687124762",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984128687124762",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118984130847285364",
+          "creator": "Dmitry Korzhov",
+          "url": "https://x.com/korzhov_dm/status/2118984130847285364",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-marketing-engineering-i02",
+      "lesson_id": "opt-marketing-engineering",
+      "lesson_path": "content/optional/opt-marketing-engineering.md",
+      "kind": "claim",
+      "statement": "Cody writes that the 100x marketer is now higher leverage than the 100x engineer, and promotes Graphed as a way to deploy marketing agents. Those are positioning claims and product promotions.",
+      "attribution": "source-claim",
+      "notes": "Greg Isenberg’s nearby post about cracked marketers being in demand is a market opinion, not a method.",
+      "sources": [
+        {
+          "source_id": "x-2119173056673309041",
+          "creator": "Cody Schneider",
+          "url": "https://x.com/codyschneider/status/2119173056673309041",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119188168494752020",
+          "creator": "Cody Schneider",
+          "url": "https://x.com/codyschneider/status/2119188168494752020",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119203278420402624",
+          "creator": "Cody Schneider",
+          "url": "https://x.com/codyschneider/status/2119203278420402624",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119218412370993164",
+          "creator": "Cody Schneider",
+          "url": "https://x.com/codyschneider/status/2119218412370993164",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119429831163027708",
+          "creator": "Cody Schneider",
+          "url": "https://x.com/codyschneider/status/2119429831163027708",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118867930113057131",
+          "creator": "GREG ISENBERG",
+          "url": "https://x.com/gregisenberg/status/2118867930113057131"
+        }
+      ]
+    },
+    {
+      "id": "opt-one-person-creative-team-i01",
+      "lesson_id": "opt-one-person-creative-team",
+      "lesson_path": "content/optional/opt-one-person-creative-team.md",
+      "kind": "method",
+      "statement": "Whatever you build, capturing attention and acquiring customers sit near the center of whether it works. Other people will also pay for that skill.",
+      "attribution": "source-method",
+      "notes": "Dan Koe authored this. Mogul later shared a condensed version.",
+      "sources": [
+        {
+          "source_id": "x-2117664712532123680",
+          "creator": "DAN KOE",
+          "url": "https://x.com/thedankoe/status/2117664712532123680",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-one-person-creative-team-i02",
+      "lesson_id": "opt-one-person-creative-team",
+      "lesson_path": "content/optional/opt-one-person-creative-team.md",
+      "kind": "method",
+      "statement": "A one-person creative team combines brand strategy (positioning and what you will not chase), content strategy (what is working and what to make next), and drafting or publishing.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117664712532123680",
+          "creator": "DAN KOE",
+          "url": "https://x.com/thedankoe/status/2117664712532123680",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-one-person-creative-team-i03",
+      "lesson_id": "opt-one-person-creative-team",
+      "lesson_path": "content/optional/opt-one-person-creative-team.md",
+      "kind": "claim",
+      "statement": "Koe writes that $10 to $75 thousand a month for one to three clients is not far out of reach for someone good at this, and cites large creator-economy figures. Those are his claims and citations.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2117664712532123680",
+          "creator": "DAN KOE",
+          "url": "https://x.com/thedankoe/status/2117664712532123680",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118351989511749841",
+          "creator": "Founder Thoughts & Strategies",
+          "url": "https://x.com/mogulinfluence/status/2118351989511749841",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2117664712532123680"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-paid-listicles-i01",
+      "lesson_id": "opt-paid-listicles",
+      "lesson_path": "content/optional/opt-paid-listicles.md",
+      "kind": "claim",
+      "statement": "Simon writes that most of what people call organic marketing is paid, with word of mouth and product-led growth as exceptions.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118950207237013676",
+          "creator": "Simon Høiberg",
+          "url": "https://x.com/SimonHoiberg/status/2118950207237013676",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2118596616072687772",
+            "x-2118596616072687772"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2118958665411792966",
+          "creator": "Vik",
+          "url": "https://x.com/onlinedopamine/status/2118958665411792966",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118950207237013676",
+            "x-2118950207237013676",
+            "x-2118950207237013676"
+          ],
+          "retrieval_status": "partial",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119364302385860979",
+          "creator": "Vik",
+          "url": "https://x.com/onlinedopamine/status/2119364302385860979",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118958665411792966",
+            "x-2118958665411792966"
+          ],
+          "retrieval_status": "partial",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-paid-listicles-i02",
+      "lesson_id": "opt-paid-listicles",
+      "lesson_path": "content/optional/opt-paid-listicles.md",
+      "kind": "method",
+      "statement": "Search for a query you want to be recommended on, open the listicles that Google and assistants already cite, find who runs them, and offer to pay to be included. Skip fake flattery.",
+      "attribution": "source-method",
+      "notes": "Vik and others amplified Simon’s point. Teach the method and do not assign outreach.",
+      "sources": [
+        {
+          "source_id": "x-2119368837208686724",
+          "creator": "Simon Høiberg",
+          "url": "https://x.com/SimonHoiberg/status/2119368837208686724",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2119364302385860979"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118950207237013676",
+          "creator": "Simon Høiberg",
+          "url": "https://x.com/SimonHoiberg/status/2118950207237013676"
+        }
+      ]
+    },
+    {
+      "id": "opt-paid-listicles-i03",
+      "lesson_id": "opt-paid-listicles",
+      "lesson_path": "content/optional/opt-paid-listicles.md",
+      "kind": "method",
+      "statement": "Borja’s high-ranked backlink menu includes getting into lists buyers read, publishing citable statistics, answering journalist requests, and also exchanging editorial links.",
+      "attribution": "source-method",
+      "notes": "Link exchanges can be treated as a link scheme under Google’s spam policies. Teach the tactic and the platform risk together.",
+      "sources": [
+        {
+          "source_id": "x-2116164330014007296",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2116164330014007296",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2115050945746739607",
+            "x-2115050945746739607"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2115050945746739607",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2115050945746739607",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2116177204061388838",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2116177204061388838",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2119368837208686724",
+          "creator": "Simon Høiberg",
+          "url": "https://x.com/SimonHoiberg/status/2119368837208686724"
+        }
+      ]
+    },
+    {
+      "id": "opt-paid-listicles-i04",
+      "lesson_id": "opt-paid-listicles",
+      "lesson_path": "content/optional/opt-paid-listicles.md",
+      "kind": "claim",
+      "statement": "Borja ties the menu to a large AI-mention total for his own site. That figure is his claim.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2116164330014007296",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2116164330014007296",
+          "credit_role": "author",
+          "quoted_source_ids": [
+            "x-2115050945746739607",
+            "x-2115050945746739607"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2115050945746739607",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2115050945746739607",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2116177204061388838",
+          "creator": "borja",
+          "url": "https://x.com/borjafat/status/2116177204061388838",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-posting-without-a-streak-i01",
+      "lesson_id": "opt-posting-without-a-streak",
+      "lesson_path": "content/optional/opt-posting-without-a-streak.md",
+      "kind": "method",
+      "statement": "Nicholas describes choosing one topic, building in public, leading with proof, publishing long articles, writing for bookmarks, keeping links out of posts, quoting his own pieces, and doubling down on winners.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119431609472397409",
+          "creator": "Nicholas Dulait",
+          "url": "https://x.com/NicholasDulait/status/2119431609472397409",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118723940638138486",
+          "creator": "Ryan",
+          "url": "https://x.com/ryangrowthh/status/2118723940638138486"
+        }
+      ]
+    },
+    {
+      "id": "opt-posting-without-a-streak-i02",
+      "lesson_id": "opt-posting-without-a-streak",
+      "lesson_path": "content/optional/opt-posting-without-a-streak.md",
+      "kind": "claim",
+      "statement": "He reports crossing 5,000 followers in five months while posting every day and two or three times a day. Those volume habits and that result are his report, not a course quota.",
+      "attribution": "source-claim",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2119431609472397409",
+          "creator": "Nicholas Dulait",
+          "url": "https://x.com/NicholasDulait/status/2119431609472397409",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-posting-without-a-streak-i03",
+      "lesson_id": "opt-posting-without-a-streak",
+      "lesson_path": "content/optional/opt-posting-without-a-streak.md",
+      "kind": "method",
+      "statement": "Tuan’s public agenda includes copying formats that already work, treating raw originality as a possible obstacle, and distinguishing no views from no saves from no shares. The video itself was not watched in this corpus.",
+      "attribution": "source-method",
+      "notes": "Only titles and timestamps are available. We do not invent unseen explanations.",
+      "sources": [
+        {
+          "source_id": "x-2119097657658597491",
+          "creator": "Tuan Le",
+          "url": "https://x.com/tuanle/status/2119097657658597491",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "partial",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-social-research-bots-i01",
+      "lesson_id": "opt-social-research-bots",
+      "lesson_path": "content/optional/opt-social-research-bots.md",
+      "kind": "method",
+      "statement": "jaffa’s ten-bot setup scans a large viral-video database for outlier openings and formats, proposes ideas, tracks competitor posts and ads, turns voice notes into scripts, and has one bot assemble a weekly plan.",
+      "attribution": "source-method",
+      "notes": "The second post is jaffa sharing the guide. The workflow depends on a named database and API key; this course does not require that signup.",
+      "sources": [
+        {
+          "source_id": "x-2118735216990695727",
+          "creator": "jaffa",
+          "url": "https://x.com/dsqjaffa/status/2118735216990695727",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2119160045263077664",
+          "creator": "jaffa",
+          "url": "https://x.com/dsqjaffa/status/2119160045263077664",
+          "credit_role": "curator",
+          "quoted_source_ids": [
+            "x-2118735216990695727",
+            "x-2118735216990695727"
+          ],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341"
+        }
+      ]
+    },
+    {
+      "id": "opt-super-agent-design-i01",
+      "lesson_id": "opt-super-agent-design",
+      "lesson_path": "content/optional/opt-super-agent-design.md",
+      "kind": "method",
+      "statement": "Mainstream agents still treat a single isolated session as the unit of work, and a person can usually follow only a few active sessions. A super-agent design routes incoming work to specialist workers and keeps the human at higher-level decisions.",
+      "attribution": "source-method",
+      "notes": "The article discusses architectural ideas and is not an introduction to shipping DeepSeek product features.",
+      "sources": [
+        {
+          "source_id": "x-2116857257245987236",
+          "creator": "DeepSeek Harness",
+          "url": "https://x.com/DeepSeekHarness/status/2116857257245987236",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "web-5bd78febd4a5",
+          "creator": "DeepSeek Harness team",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2118086670918750341",
+          "creator": "Kyle Hunt",
+          "url": "https://x.com/huntkyle/status/2118086670918750341"
+        }
+      ]
+    },
+    {
+      "id": "opt-video-restraint-i01",
+      "lesson_id": "opt-video-restraint",
+      "lesson_path": "content/optional/opt-video-restraint.md",
+      "kind": "method",
+      "statement": "Apple-style product video uses simple composition (one idea per shot), a tight type system, and controlled color one loud object, a quiet room, rarely bright on bright.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2098032450731720823",
+          "creator": "leo",
+          "url": "https://x.com/leomeethewoo/status/2098032450731720823",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        },
+        {
+          "source_id": "x-2103529310208606701",
+          "creator": "leo",
+          "url": "https://x.com/leomeethewoo/status/2103529310208606701",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": []
+    },
+    {
+      "id": "opt-video-restraint-i02",
+      "lesson_id": "opt-video-restraint",
+      "lesson_path": "content/optional/opt-video-restraint.md",
+      "kind": "method",
+      "statement": "Give yourself rules such as three colors, similar backgrounds, and consistent music for a series, so the work looks like it came from one place.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2103529310208606701",
+          "creator": "leo",
+          "url": "https://x.com/leomeethewoo/status/2103529310208606701",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2098032450731720823",
+          "creator": "leo",
+          "url": "https://x.com/leomeethewoo/status/2098032450731720823"
+        }
+      ]
+    },
+    {
+      "id": "opt-video-restraint-i03",
+      "lesson_id": "opt-video-restraint",
+      "lesson_path": "content/optional/opt-video-restraint.md",
+      "kind": "method",
+      "statement": "Eian’s workflow locks the story, then the storyboard, then style sheets, then first and last frames, then prompts, then motion. Every second should look good as a still.",
+      "attribution": "source-method",
+      "notes": null,
+      "sources": [
+        {
+          "source_id": "x-2118317430665613741",
+          "creator": "Eian",
+          "url": "https://x.com/EianLu/status/2118317430665613741",
+          "credit_role": "author",
+          "quoted_source_ids": [],
+          "retrieval_status": "full",
+          "archive_status": "full-text"
+        }
+      ],
+      "informed_by": [
+        {
+          "source_id": "x-2098032450731720823",
+          "creator": "leo",
+          "url": "https://x.com/leomeethewoo/status/2098032450731720823"
+        }
+      ]
+    }
+  ]
+}

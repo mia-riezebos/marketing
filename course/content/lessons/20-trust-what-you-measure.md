@@ -1,0 +1,128 @@
+---
+id: 20-trust-what-you-measure
+slug: trust-what-you-measure
+part: V
+part_title: Learn what worked
+order: 20
+title: Trust what you measure
+summary: A test is a written guess with a success line, one change, and a fair comparison. Platforms often take credit for more than they added.
+read_min: 10
+action_min: 12
+takeaway: If you cannot say what would count as success before you start, you are not running a test. You are hoping.
+min_action: Write one sentence that starts with “This will have worked if…” and names something you could observe without a paid dashboard.
+min_action_output: One success line.
+exercise: Fill a test card name of the change, what stays the same, the success line, how long you will wait, and what would make you stop. Use a change you will not spend money on.
+exercise_min: 12
+exercise_output: One completed test card.
+stop_when: You can explain incrementality in plain words, and you have a success line written before any change.
+optional: false
+items:
+  - id: 20-trust-what-you-measure-i01
+    kind: method
+    statement: Establish a process that generates ideas, tests them, and records what you learned, instead of hunting for a permanent tactic.
+    attribution: source-method
+    source_ids: [web-a9fdfd6339f6]
+    informed_by: []
+  - id: 20-trust-what-you-measure-i02
+    kind: method
+    statement: Write goals that are specific, measurable, achievable, relevant, and time-bound, so the G in GACC is not a vague wish.
+    attribution: source-method
+    source_ids: [web-a2d9ccaad477]
+    informed_by: [web-8f01c0edd455]
+  - id: 20-trust-what-you-measure-i03
+    kind: method
+    statement: Change one thing at a time, write the starting numbers down, and compare similar conditions so a rank change cannot masquerade as a title win.
+    attribution: source-method
+    source_ids: [x-2118851191538946188]
+    informed_by: []
+  - id: 20-trust-what-you-measure-i04
+    kind: method
+    statement: Incrementality asks how many sales a channel really added, not how many a platform reports. Geo holdouts and a slice of people who receive nothing are two ways to see the difference.
+    attribution: source-method
+    source_ids: [x-2118984128687124762, x-2118984126568993159]
+    informed_by: []
+    notes: Korzhov’s practice examples involve turning ads off in regions or holding out email. This course does not assign paid-ad tests.
+  - id: 20-trust-what-you-measure-i05
+    kind: claim
+    statement: Korzhov writes that platforms often take credit for two to five times more sales than they really drove, and that many accounts duplicate or miss a large share of purchase events.
+    attribution: source-claim
+    source_ids: [x-2118984128687124762, x-2118984124354511076]
+    informed_by: []
+  - id: 20-trust-what-you-measure-i06
+    kind: method
+    statement: A regular report should compare the latest period with the one before, explain what changed, and suggest the next test.
+    attribution: source-method
+    source_ids: [x-2118984130847285364, x-1697157679553359887]
+    informed_by: []
+---
+
+# Trust what you measure
+
+About 10 minutes to read. Optional exercise about 12 minutes. These are estimates.
+
+A metric is a number you chose to watch. A test is a change you made on purpose, with a guess about what should happen. If you skip the guess, every number can be read as good news.
+
+This sits on top of Brian Balfour’s process: generate ideas, pick one, define success, write down what you learned. Jenny Romanchuk’s SMART goals (specific, measurable, achievable, relevant, time-bound) are a way to write that success line without hiding behind “more awareness.”
+
+Aneel’s earlier reminder still applies. The purpose of marketing is to turn people into customers. Traffic, likes, and mentions only matter if they feed that.
+
+## Write the finish line first
+
+Before you change a title, a page, or an onboarding step, write: “This will have worked if…”
+
+Good finish lines are observable without a fantasy dashboard. “Three people I already know can explain who this is for after reading the hero” is a finish line. “Go viral” is not.
+
+Name how long you will wait, and what would make you stop even if the number looks exciting (for example, the page started promising something it does not do).
+
+## Change one thing, compare fairly
+
+Borja’s title-testing rules are a model for other tests too.
+
+Change one thing at a time. Write down the starting numbers and the date. Compare similar conditions. If a page jumps from position 6 to position 3, its click-through rate will move even if your new title did nothing. Judge with the number that matches the job: clicks as well as rates, customers as well as visits.
+
+If you do not have Search Console or an ads account, you can still run paper tests: show two homepage heroes to people you already know, one at a time, and write down what they say you do.
+
+## What a platform reports is not what it added
+
+Incrementality is a long word for a simple question: how many extra customers did this channel actually create, compared with what would have happened anyway?
+
+Dmitry Korzhov teaches this in an ads setting. He describes turning ads off in some matched regions and comparing the sales drop with what the ad platform said it was driving. He claims platforms often take credit for two to five times more sales than they really added. That multiple is his claim. The question is still the right one, even if you never run ads.
+
+He uses the same idea in email and messages that fire when someone does something (viewed, added, bought, went quiet). He recommends a holdout: a slice of people, he says about 10 percent, who get nothing, so you can see what the messages added. The portable lesson is not “build five Klaviyo flows this week.” It is: if everyone receives the message, you cannot see what the message did.
+
+He also warns that tracking itself can lie. If the same purchase is counted twice, or a quarter of purchases are missed, later decisions are built on fiction. His practice details involve specific ad-tech tools. The beginner version is: know what event you are counting, and do not celebrate a number you cannot explain.
+
+This course will not ask you to turn ads off or to spend on platforms. If you later run paid tests, learn incrementality before you trust a platform dashboard.
+
+## A report that leads to the next test
+
+Korzhov’s reporting step is a weekly note that compares the latest week with the week before, explains what changed, and suggests the next test. Kunal, years earlier, told teams to report consistently. You do not need a polished dashboard. You need a dated paragraph you will actually read.
+
+A useful beginner report has four lines:
+
+- What we tried
+- What we thought would happen
+- What happened
+- What we will try next, or what we will stop
+
+No streak. If a week goes by without a test, the report can say so without shame.
+
+## A concrete example
+
+You change the heading on a repair-shop page from “Quality furniture services” to “Same-week chair repair before a landlord inspection.” Success might be: five people you already know, shown only the heading, mention deposits or inspections without being prompted. If they mention “luxury restoration” instead, the heading did not do the job, even if a friend liked the post.
+
+## Hypothetical Maal example
+
+This example is invented for teaching.
+
+A test of “dinner, decided” versus “AI meal planning” might ask two people you know which sentence they would trust at 17:40, and why. Success is not a like count. Success is whether they hear a decision-remover.
+
+## What to do
+
+**Under 2 minutes.** Write one “This will have worked if…” sentence.
+
+**Optional, about 12 minutes.** Fill a test card: the change, what stays the same, the success line, how long you will wait, and what would make you stop. Do not spend money on the test.
+
+## You're done when
+
+You can explain incrementality in ordinary words, and you have a success line written before any change.

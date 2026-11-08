@@ -1,0 +1,118 @@
+---
+id: 04-one-channel-first
+slug: one-channel-first
+part: I
+part_title: See clearly
+order: 4
+title: One channel first
+summary: Most early products do not need many channels. They need one that can actually reach the people who care, then later a backup so you are not hostage to it.
+read_min: 8
+action_min: 10
+takeaway: Adding a second channel before the first one works is usually a way to avoid learning.
+min_action: Write down the one place your intended customers already gather, even if you do not yet post there.
+min_action_output: One gathering place named in plain words.
+exercise: List three possible channels. For each, write who is already there, what you would have to make, and why it might fail. Circle only one to try first. Do not start the channel.
+exercise_min: 10
+exercise_output: A three-row channel comparison with one circled.
+stop_when: You can explain why one working channel beats three half-used ones, and you have circled a first channel without launching it.
+optional: false
+items:
+  - id: 04-one-channel-first-i01
+    kind: principle
+    statement: Weinberg and Mares present Bullseye as a way to find the one traction channel at the center, rather than running every channel at once.
+    attribution: source-method
+    source_ids: [web-da4ef02f3ddf]
+    informed_by: []
+    notes: Saved archive is partial. The named three-step inner procedure is truncated. We do not invent those missing steps.
+  - id: 04-one-channel-first-i02
+    kind: claim
+    statement: Peter Thiel, quoted by Weinberg, says you probably will not have several equally good distribution strategies, most businesses get zero channels to work, and if you get one to work you have a great business.
+    attribution: source-claim
+    source_ids: [web-da4ef02f3ddf]
+    informed_by: []
+    notes: Thiel did not author this source. Weinberg quotes him inside the Bullseye essay.
+  - id: 04-one-channel-first-i03
+    kind: method
+    statement: Other channels can feed a dominant one, such as publicity that supports SEO, without becoming separate strategies you chase at the same time.
+    attribution: source-method
+    source_ids: [web-da4ef02f3ddf]
+    informed_by: []
+  - id: 04-one-channel-first-i04
+    kind: method
+    statement: If tests find no promising channel, repeat with what you learned. If several rounds fail, the product itself may be leaking.
+    attribution: source-method
+    source_ids: [web-da4ef02f3ddf]
+    informed_by: []
+  - id: 04-one-channel-first-i05
+    kind: synthesis
+    statement: One good week on a platform is not yet a channel. Treat a first result as a clue, not as proof you should scale.
+    attribution: synthesis
+    source_ids: []
+    informed_by: [web-da4ef02f3ddf]
+---
+
+# One channel first
+
+About 8 minutes to read. Optional exercise about 10 minutes. These are estimates.
+
+A channel is a repeatable way people find you. Search, a newsletter, a community, partnerships, a store, an ad platform, and word of mouth are all channels. A post on one platform is not a channel. A system that keeps bringing the right people from that platform can be.
+
+Gabriel Weinberg and Justin Mares describe a focusing method they call Bullseye. They wrote it because founders face many possible traction channels (they name nineteen) and need a way to aim at one. The saved copy of their essay is a partial excerpt from their book *Traction*. The named three-step inner procedure is cut off in that archive, so this lesson does not invent those missing steps.
+
+Inside that essay they quote Peter Thiel. Thiel’s point, as they present it, is that you probably will not have several equally good distribution strategies. Engineers, he says, often try sales, partnerships, ads, and viral loops at once because they have not thought about distribution. That, he argues, is a bad idea. Most businesses get zero channels to work. Poor distribution, not product, is a common cause of failure. If you get even one channel to work, you have a real business. If you try for several and nail none, you are finished.
+
+Weinberg and Mares authored the essay. Thiel authored the quoted warning.
+
+## Why “more channels” feels productive
+
+Opening a second and third channel looks like progress. You get new logos on a slide. You get the feeling of coverage. What you often get instead is three half-learned systems and no honest signal.
+
+Each channel has its own language, timing, and proof. Doing them all at once hides which one actually moved anyone.
+
+## What we can and cannot teach from Bullseye
+
+The saved excerpt still teaches a few useful mechanics.
+
+One channel can stay dominant while others feed it. Weinberg’s examples: search ranking often needs links, and publicity is one way to get links; a “viral” loop often rides on email or an existing platform. Those supporting moves are not the same as launching three unrelated strategies at once.
+
+If tests find nothing promising, they say to repeat the process with the new data. Look at the messages you used, and at the point each channel failed. If you go through several rounds and still have nothing, the product itself may be too leaky to hold the people you attract.
+
+What we cannot teach from this archive is the missing inner checklist of Bullseye. Do not pretend this lesson handed you those boxed steps.
+
+One good week on a platform is also not yet a channel. Treat a first result as a clue. Look for a repeat before you pour more time into scaling it.
+
+## How to choose without building everything
+
+Ask three questions of each candidate.
+
+Who already gathers there? If your intended customers are not present, the channel is a wish.
+
+What would you have to make every week for that place to keep working? If the answer is a kind of work you will despise, you will abandon it.
+
+What would make it fail even if you showed up? Some channels need a large existing audience. Some need paid spend. Some need a sales team. Write that down before you fall in love with the channel.
+
+Then circle one. Leave the others written, not running.
+
+A later backup channel is wise so you are not hostage to one platform’s rules. The backup comes after the first channel is actually working, not as a way to avoid picking.
+
+## A concrete example
+
+A furniture repair shop might imagine Instagram, Google search, flyers, and a partnership with local movers. Students moving out of dorms already search “same-week furniture repair near me” and ask movers for a name. That is a gathering place. Daily lifestyle photography might be fun and still reach the wrong people.
+
+Circling search plus a mover partnership is one strategy with two related paths. Opening four accounts on day one is not.
+
+## Hypothetical Maal example
+
+This example is invented for teaching.
+
+Possible channels might include search for “ADHD dinner,” writing in ADHD communities (with their rules, never as spam), and short videos. Circling “write where people already talk about dinner-time shutdown” is a first-channel choice. Opening five social accounts the same week is not.
+
+## What to do
+
+**Under 2 minutes.** Name one place your intended customers already gather.
+
+**Optional, about 10 minutes.** List three channels. For each write who is there, what you would have to make, and why it might fail. Circle one. Do not start it yet.
+
+## You're done when
+
+You can explain why one working channel beats three half-used ones, and you have circled a first channel on paper.

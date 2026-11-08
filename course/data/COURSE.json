@@ -1,0 +1,866 @@
+{
+  "schema_version": 1,
+  "id": "marketing-launch-operator-course",
+  "title": "Marketing, launch, and operator course",
+  "written": "2026-11-08",
+  "timezone_label": "Europe/Amsterdam",
+  "description": "A modular beginner course in original prose. Progress can live in the browser with no account.",
+  "progress_schema": "data/progress.schema.json",
+  "sources": "data/sources.json",
+  "item_credits": "data/item-credits.json",
+  "modules": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "00-start-here",
+          "slug": "start-here",
+          "title": "Start here",
+          "path": "content/00-start-here.md",
+          "order": 0,
+          "summary": "How to use this course, how credit works, and why you can stop after any lesson.",
+          "read_min": 6,
+          "action_min": 2,
+          "takeaway": "Do one lesson, stop at a clear done line, and come back later. Nothing here requires a daily streak.",
+          "optional": false,
+          "item_ids": [
+            "00-start-here-i01",
+            "00-start-here-i02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "title": "See clearly",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "01-what-marketing-is",
+          "slug": "what-marketing-is",
+          "title": "What marketing is",
+          "path": "content/lessons/01-what-marketing-is.md",
+          "order": 1,
+          "summary": "Marketing is inventing something worth talking about, building it so people benefit, telling the right people, and showing up for a long time. Its job is to turn people into customers.",
+          "read_min": 8,
+          "action_min": 8,
+          "takeaway": "If you only shout about what you already made, you are living in the smallest part of marketing.",
+          "optional": false,
+          "item_ids": [
+            "01-what-marketing-is-i01",
+            "01-what-marketing-is-i02",
+            "01-what-marketing-is-i03"
+          ]
+        },
+        {
+          "id": "02-go-one-circle-in",
+          "slug": "go-one-circle-in",
+          "title": "Go one circle in",
+          "path": "content/lessons/02-go-one-circle-in.md",
+          "order": 2,
+          "summary": "The outer circle of marketing is shouting about whatever you already made. Inner circles are a story for a tribe, the experience around the product, and the product itself.",
+          "read_min": 7,
+          "action_min": 8,
+          "takeaway": "When marketing feels like yelling, move one circle inward instead of buying a louder megaphone.",
+          "optional": false,
+          "item_ids": [
+            "02-go-one-circle-in-i01",
+            "02-go-one-circle-in-i02",
+            "02-go-one-circle-in-i03"
+          ]
+        },
+        {
+          "id": "03-process-before-tactics",
+          "slug": "process-before-tactics",
+          "title": "Process before tactics",
+          "path": "content/lessons/03-process-before-tactics.md",
+          "order": 3,
+          "summary": "Growth usually comes from many small learned tests, not one secret move. Borrow other people’s tactics as inspiration, not as a prescription.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "If you chase a new hack every week, you will scratch many surfaces and never learn what works for your product.",
+          "optional": false,
+          "item_ids": [
+            "03-process-before-tactics-i01",
+            "03-process-before-tactics-i02",
+            "03-process-before-tactics-i03",
+            "03-process-before-tactics-i04",
+            "03-process-before-tactics-i05",
+            "03-process-before-tactics-i06"
+          ]
+        },
+        {
+          "id": "04-one-channel-first",
+          "slug": "one-channel-first",
+          "title": "One channel first",
+          "path": "content/lessons/04-one-channel-first.md",
+          "order": 4,
+          "summary": "Most early products do not need many channels. They need one that can actually reach the people who care, then later a backup so you are not hostage to it.",
+          "read_min": 8,
+          "action_min": 10,
+          "takeaway": "Adding a second channel before the first one works is usually a way to avoid learning.",
+          "optional": false,
+          "item_ids": [
+            "04-one-channel-first-i01",
+            "04-one-channel-first-i02",
+            "04-one-channel-first-i03",
+            "04-one-channel-first-i04",
+            "04-one-channel-first-i05"
+          ]
+        },
+        {
+          "id": "05-talk-to-people",
+          "slug": "talk-to-people",
+          "title": "Talk to people who already have the problem",
+          "path": "content/lessons/05-talk-to-people.md",
+          "order": 5,
+          "summary": "Interviews beat guesses. Ask about the last time the problem happened, what they already tried, and what they wish existed. Do not pitch while you listen.",
+          "read_min": 10,
+          "action_min": 12,
+          "takeaway": "Your customer already has words for the problem. Borrow those words before you invent slogans.",
+          "optional": false,
+          "item_ids": [
+            "05-talk-to-people-i01",
+            "05-talk-to-people-i02",
+            "05-talk-to-people-i03",
+            "05-talk-to-people-i04"
+          ]
+        },
+        {
+          "id": "06-gather-raw-material",
+          "slug": "gather-raw-material",
+          "title": "Gather raw material before you ask an assistant",
+          "path": "content/lessons/06-gather-raw-material.md",
+          "order": 6,
+          "summary": "Fast market research is not “summarize this market.” It is collecting real pages, reviews, and complaints, then asking questions that force a challenge.",
+          "read_min": 10,
+          "action_min": 12,
+          "takeaway": "An assistant cannot invent industry scars. It can help you notice patterns in material you actually collected.",
+          "optional": false,
+          "item_ids": [
+            "06-gather-raw-material-i01",
+            "06-gather-raw-material-i02",
+            "06-gather-raw-material-i03",
+            "06-gather-raw-material-i04"
+          ]
+        },
+        {
+          "id": "07-make-the-difference-obvious",
+          "slug": "make-the-difference-obvious",
+          "title": "Make the difference obvious",
+          "path": "content/lessons/07-make-the-difference-obvious.md",
+          "order": 7,
+          "summary": "Positioning is the work of putting your real strength at the center, in a market frame that makes that strength easy to see. It is not a fill-in-the-blank slogan.",
+          "read_min": 12,
+          "action_min": 15,
+          "takeaway": "If people compare you with the wrong alternative, they will miss what you are actually good at.",
+          "optional": false,
+          "item_ids": [
+            "07-make-the-difference-obvious-i01",
+            "07-make-the-difference-obvious-i02",
+            "07-make-the-difference-obvious-i03",
+            "07-make-the-difference-obvious-i04",
+            "07-make-the-difference-obvious-i05",
+            "07-make-the-difference-obvious-i06"
+          ]
+        },
+        {
+          "id": "08-start-with-the-enemy",
+          "slug": "start-with-the-enemy",
+          "title": "Start with the enemy, not with yourself",
+          "path": "content/lessons/08-start-with-the-enemy.md",
+          "order": 8,
+          "summary": "A useful story names the struggle first, then shows a change someone can believe. It does not open with your team, your features, or your excitement.",
+          "read_min": 11,
+          "action_min": 12,
+          "takeaway": "If you start by talking about yourself, most people never reach the part where your product might matter to them.",
+          "optional": false,
+          "item_ids": [
+            "08-start-with-the-enemy-i01",
+            "08-start-with-the-enemy-i02",
+            "08-start-with-the-enemy-i03",
+            "08-start-with-the-enemy-i04",
+            "08-start-with-the-enemy-i05",
+            "08-start-with-the-enemy-i06"
+          ]
+        },
+        {
+          "id": "09-one-page-and-gacc",
+          "slug": "one-page-and-gacc",
+          "title": "Fit the plan on one page",
+          "path": "content/lessons/09-one-page-and-gacc.md",
+          "order": 9,
+          "summary": "Before you make a campaign, a page, or a post, write the goal, the audience, the unique take, and the channel. If it will not fit on one page, you are not clear yet.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "A short brief that you will actually use beats a long strategy document that nobody opens again.",
+          "optional": false,
+          "item_ids": [
+            "09-one-page-and-gacc-i01",
+            "09-one-page-and-gacc-i02",
+            "09-one-page-and-gacc-i03",
+            "09-one-page-and-gacc-i04",
+            "09-one-page-and-gacc-i05"
+          ]
+        },
+        {
+          "id": "10-common-missteps",
+          "slug": "common-missteps",
+          "title": "Eleven missteps worth checking against",
+          "path": "content/lessons/10-common-missteps.md",
+          "order": 10,
+          "summary": "Kunal Gandhi’s long thread of marketing mistakes is a useful self-audit, even if you have never worked in crypto. Some points are industry-specific and stay labeled that way.",
+          "read_min": 10,
+          "action_min": 10,
+          "takeaway": "Most of these mistakes are skipped fundamentals, not a lack of secret tactics.",
+          "optional": false,
+          "item_ids": [
+            "10-common-missteps-i01",
+            "10-common-missteps-i02",
+            "10-common-missteps-i03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "Make the thing make sense",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "11-homepage-that-makes-sense",
+          "slug": "homepage-that-makes-sense",
+          "title": "A homepage that makes sense",
+          "path": "content/lessons/11-homepage-that-makes-sense.md",
+          "order": 11,
+          "summary": "A homepage has one job: help a stranger tell what you do, who it is for, and why they would pick you. Messaging comes before copy, and copy comes before decoration.",
+          "read_min": 11,
+          "action_min": 15,
+          "takeaway": "If a stranger cannot say who you are for and why you are better after the first screen, more traffic will not help.",
+          "optional": false,
+          "item_ids": [
+            "11-homepage-that-makes-sense-i01",
+            "11-homepage-that-makes-sense-i02",
+            "11-homepage-that-makes-sense-i03"
+          ]
+        },
+        {
+          "id": "12-the-whole-journey",
+          "slug": "the-whole-journey",
+          "title": "Think in the whole journey",
+          "path": "content/lessons/12-the-whole-journey.md",
+          "order": 12,
+          "summary": "Product marketing is a stack of questions covering how people find you, how they start, why they stay, and how you get paid. Acquisition is only the first layer.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "If you only measure new visitors, you will not notice that people arrive, get confused, and leave.",
+          "optional": false,
+          "item_ids": [
+            "12-the-whole-journey-i01",
+            "12-the-whole-journey-i02",
+            "12-the-whole-journey-i03",
+            "12-the-whole-journey-i04"
+          ]
+        },
+        {
+          "id": "13-show-proof-when-you-launch",
+          "slug": "show-proof-when-you-launch",
+          "title": "Show proof when you launch",
+          "path": "content/lessons/13-show-proof-when-you-launch.md",
+          "order": 13,
+          "summary": "A launch is a small go-to-market moment. It needs a stand-alone story, an extreme true demo, and reasons other people could add something if they chose to talk about it.",
+          "read_min": 12,
+          "action_min": 15,
+          "takeaway": "“We are excited to announce” is not a launch. A launch gives a stranger a reason to care and a reason to believe you.",
+          "optional": false,
+          "item_ids": [
+            "13-show-proof-when-you-launch-i01",
+            "13-show-proof-when-you-launch-i02",
+            "13-show-proof-when-you-launch-i03",
+            "13-show-proof-when-you-launch-i04",
+            "13-show-proof-when-you-launch-i05",
+            "13-show-proof-when-you-launch-i06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "III",
+      "title": "Get found by people",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "14-pick-a-vehicle",
+          "slug": "pick-a-vehicle",
+          "title": "Pick a vehicle for the story",
+          "path": "content/lessons/14-pick-a-vehicle.md",
+          "order": 14,
+          "summary": "A vehicle is a channel you use to carry chapters of your story. Start with one or two places your audience already spends time, and notice what you do not control.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "Being everywhere is not distribution. Distribution is repeating your story in a place you can actually keep up.",
+          "optional": false,
+          "item_ids": [
+            "14-pick-a-vehicle-i01",
+            "14-pick-a-vehicle-i02",
+            "14-pick-a-vehicle-i03"
+          ]
+        },
+        {
+          "id": "15-write-one-idea",
+          "slug": "write-one-idea",
+          "title": "Write one idea people can finish",
+          "path": "content/lessons/15-write-one-idea.md",
+          "order": 15,
+          "summary": "A useful post has one idea, a takeaway, and a first line that earns the second. Clarity beats cleverness. Conversations you already had can become more than one piece of writing.",
+          "read_min": 12,
+          "action_min": 15,
+          "takeaway": "If a tired person cannot tell what they are supposed to walk away with, the post is not finished.",
+          "optional": false,
+          "item_ids": [
+            "15-write-one-idea-i01",
+            "15-write-one-idea-i02",
+            "15-write-one-idea-i03",
+            "15-write-one-idea-i04",
+            "15-write-one-idea-i05",
+            "15-write-one-idea-i06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "Be findable",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "16-be-findable",
+          "slug": "be-findable",
+          "title": "Make the site possible to find",
+          "path": "content/lessons/16-be-findable.md",
+          "order": 16,
+          "summary": "Search cannot help a page that machines cannot read, that disagrees with itself, or that has no unique title. Most early search work is hygiene, not magic.",
+          "read_min": 9,
+          "action_min": 12,
+          "takeaway": "Before you chase backlinks or new articles, make sure a search engine is allowed to see a clear page with a real title and a real author.",
+          "optional": false,
+          "item_ids": [
+            "16-be-findable-i01",
+            "16-be-findable-i02"
+          ]
+        },
+        {
+          "id": "17-improve-what-already-ranks",
+          "slug": "improve-what-already-ranks",
+          "title": "Improve what already almost ranks",
+          "path": "content/lessons/17-improve-what-already-ranks.md",
+          "order": 17,
+          "summary": "The fastest search win is often a page search already notices. Add the missing answers, put the main question first, and test titles that use the words people type.",
+          "read_min": 12,
+          "action_min": 15,
+          "takeaway": "A new article is not always the next move. A page on page two, missing the phrases people already search, is often the better patient.",
+          "optional": false,
+          "item_ids": [
+            "17-improve-what-already-ranks-i01",
+            "17-improve-what-already-ranks-i02",
+            "17-improve-what-already-ranks-i03",
+            "17-improve-what-already-ranks-i04",
+            "17-improve-what-already-ranks-i05",
+            "17-improve-what-already-ranks-i06"
+          ]
+        },
+        {
+          "id": "18-show-up-in-ai-answers",
+          "slug": "show-up-in-ai-answers",
+          "title": "Show up when people ask an assistant",
+          "path": "content/lessons/18-show-up-in-ai-answers.md",
+          "order": 18,
+          "summary": "Answer engine optimization means being a source assistants can cite when someone asks a buying question. Diagnose why you are missing before you write another page.",
+          "read_min": 12,
+          "action_min": 15,
+          "takeaway": "If an assistant recommends someone else, the next move is to learn which source it trusted and why, not to publish a random blog post.",
+          "optional": false,
+          "item_ids": [
+            "18-show-up-in-ai-answers-i01",
+            "18-show-up-in-ai-answers-i02",
+            "18-show-up-in-ai-answers-i03",
+            "18-show-up-in-ai-answers-i04",
+            "18-show-up-in-ai-answers-i05",
+            "18-show-up-in-ai-answers-i06",
+            "18-show-up-in-ai-answers-i07"
+          ]
+        },
+        {
+          "id": "19-be-listed-where-buyers-look",
+          "slug": "be-listed-where-buyers-look",
+          "title": "Be listed where buyers already look",
+          "path": "content/lessons/19-be-listed-where-buyers-look.md",
+          "order": 19,
+          "summary": "Directories, launch sites, review platforms, and integration marketplaces are places to investigate, not a pile of guaranteed links. Write one honest listing and pick rooms your buyers already use.",
+          "read_min": 11,
+          "action_min": 12,
+          "takeaway": "A listing only helps if a real person would look there while choosing, and if the page you submit is true.",
+          "optional": false,
+          "item_ids": [
+            "19-be-listed-where-buyers-look-i01",
+            "19-be-listed-where-buyers-look-i02",
+            "19-be-listed-where-buyers-look-i03",
+            "19-be-listed-where-buyers-look-i04",
+            "19-be-listed-where-buyers-look-i05",
+            "19-be-listed-where-buyers-look-i06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "V",
+      "title": "Learn what worked",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "20-trust-what-you-measure",
+          "slug": "trust-what-you-measure",
+          "title": "Trust what you measure",
+          "path": "content/lessons/20-trust-what-you-measure.md",
+          "order": 20,
+          "summary": "A test is a written guess with a success line, one change, and a fair comparison. Platforms often take credit for more than they added.",
+          "read_min": 10,
+          "action_min": 12,
+          "takeaway": "If you cannot say what would count as success before you start, you are not running a test. You are hoping.",
+          "optional": false,
+          "item_ids": [
+            "20-trust-what-you-measure-i01",
+            "20-trust-what-you-measure-i02",
+            "20-trust-what-you-measure-i03",
+            "20-trust-what-you-measure-i04",
+            "20-trust-what-you-measure-i05",
+            "20-trust-what-you-measure-i06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "VI",
+      "title": "Work with agents without giving up judgment",
+      "optional": false,
+      "lessons": [
+        {
+          "id": "21-give-a-bot-one-job",
+          "slug": "give-a-bot-one-job",
+          "title": "Give a bot one job",
+          "path": "content/lessons/21-give-a-bot-one-job.md",
+          "order": 21,
+          "summary": "An assistant that drafts is useful. An assistant that can send, spend, or invent facts without asking is a risk. Write a charter, give files before logins, and require several clean runs before any schedule.",
+          "read_min": 12,
+          "action_min": 15,
+          "takeaway": "A prompt is something you use once. A charter is the job you want repeated, including what the bot must never do alone.",
+          "optional": false,
+          "item_ids": [
+            "21-give-a-bot-one-job-i01",
+            "21-give-a-bot-one-job-i02",
+            "21-give-a-bot-one-job-i03",
+            "21-give-a-bot-one-job-i04",
+            "21-give-a-bot-one-job-i05",
+            "21-give-a-bot-one-job-i06",
+            "21-give-a-bot-one-job-i07"
+          ]
+        },
+        {
+          "id": "22-keep-ownership",
+          "slug": "keep-ownership",
+          "title": "Keep ownership of the answer",
+          "path": "content/lessons/22-keep-ownership.md",
+          "order": 22,
+          "summary": "Offloading work to an assistant is useful if you still own the result. Trouble starts when the output stops being a hypothesis, and you can no longer explain it.",
+          "read_min": 10,
+          "action_min": 10,
+          "takeaway": "If you cannot explain an answer, even with the assistant’s help, you have given up ownership. That is fine when being wrong is cheap, and reckless when other people will live with the result.",
+          "optional": false,
+          "item_ids": [
+            "22-keep-ownership-i01",
+            "22-keep-ownership-i02",
+            "22-keep-ownership-i03"
+          ]
+        },
+        {
+          "id": "23-write-down-what-you-learned",
+          "slug": "write-down-what-you-learned",
+          "title": "Write down what you learned, not everything that happened",
+          "path": "content/lessons/23-write-down-what-you-learned.md",
+          "order": 23,
+          "summary": "Useful memory is a small set of validated lessons and exact facts you will need again. A huge archive of live details goes stale and hides the point.",
+          "read_min": 11,
+          "action_min": 12,
+          "takeaway": "Save the rule and how you know it is true. Do not save a play-by-play of a week that will be outdated on Monday.",
+          "optional": false,
+          "item_ids": [
+            "23-write-down-what-you-learned-i01",
+            "23-write-down-what-you-learned-i02",
+            "23-write-down-what-you-learned-i03",
+            "23-write-down-what-you-learned-i04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optional",
+      "title": "Optional depth",
+      "optional": true,
+      "lessons": [
+        {
+          "id": "opt-how-x-ranks",
+          "slug": "how-x-ranks",
+          "title": "How X decides who sees a post",
+          "path": "content/optional/opt-how-x-ranks.md",
+          "order": 101,
+          "summary": "Ryan’s unofficial reading of X’s ranking code describes three scouts, a scoring judge, and heavy weights on shares and replies. The weights he lists are dated 30 October 2026 and can change without notice.",
+          "read_min": 10,
+          "action_min": 8,
+          "takeaway": "Likes are a weak positive signal in this reading. Posts people share, reply to, or quote are what the system is trying to find.",
+          "optional": true,
+          "item_ids": [
+            "opt-how-x-ranks-i01",
+            "opt-how-x-ranks-i02",
+            "opt-how-x-ranks-i03"
+          ]
+        },
+        {
+          "id": "opt-paid-listicles",
+          "slug": "paid-listicles",
+          "title": "Paid listicles and other sharp link tactics",
+          "path": "content/optional/opt-paid-listicles.md",
+          "order": 102,
+          "summary": "Many “organic” mentions are paid. Simon describes buying your way into ranking listicles. Some other link tactics, including exchanges, can collide with search-engine rules.",
+          "read_min": 10,
+          "action_min": 10,
+          "takeaway": "You can understand how paid placements work without pretending they are free, and without running them as homework.",
+          "optional": true,
+          "item_ids": [
+            "opt-paid-listicles-i01",
+            "opt-paid-listicles-i02",
+            "opt-paid-listicles-i03",
+            "opt-paid-listicles-i04"
+          ]
+        },
+        {
+          "id": "opt-exact-match-domains",
+          "slug": "exact-match-domains",
+          "title": "Exact-match domains",
+          "path": "content/optional/opt-exact-match-domains.md",
+          "order": 103,
+          "summary": "An exact-match domain uses the search phrase as the web address. Margatix describes buying those domains, publishing tightly matched content, and later receiving a seven-figure offer to buy the assets. That figure is an offer, not reported customer revenue.",
+          "read_min": 8,
+          "action_min": 8,
+          "takeaway": "A domain that matches a valuable search can help you show up. It does not make a thin comparison page honest, and an acquisition offer is not the same as money collected from customers.",
+          "optional": true,
+          "item_ids": [
+            "opt-exact-match-domains-i01",
+            "opt-exact-match-domains-i02",
+            "opt-exact-match-domains-i03"
+          ]
+        },
+        {
+          "id": "opt-cold-email-diagnostics",
+          "slug": "cold-email-diagnostics",
+          "title": "How to read a cold-email report without sending one",
+          "path": "content/optional/opt-cold-email-diagnostics.md",
+          "order": 104,
+          "summary": "Christian’s cheat sheet is a diagnostic for why a cold-email campaign fails. Some of the “fixes” collide with inbox and privacy rules. This lesson teaches the reading, not the sending.",
+          "read_min": 8,
+          "action_min": 8,
+          "takeaway": "Bounces, replies, and interest diagnose different problems. A missing unsubscribe may improve a spreadsheet and still break the law.",
+          "optional": true,
+          "item_ids": [
+            "opt-cold-email-diagnostics-i01",
+            "opt-cold-email-diagnostics-i02",
+            "opt-cold-email-diagnostics-i03"
+          ]
+        },
+        {
+          "id": "opt-competitor-ads",
+          "slug": "competitor-ads",
+          "title": "Read competitor ads as research",
+          "path": "content/optional/opt-competitor-ads.md",
+          "order": 105,
+          "summary": "A paid ad is a message someone already paid to show buyers. You can study the problem it opens with, the offer, and the proof without sending anyone a message.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "Other people’s ads are a public record of which problems they think are worth paying to name. That is research. Turning those lines into unsolicited DMs is a different, riskier business.",
+          "optional": true,
+          "item_ids": [
+            "opt-competitor-ads-i01",
+            "opt-competitor-ads-i02",
+            "opt-competitor-ads-i03"
+          ]
+        },
+        {
+          "id": "opt-video-restraint",
+          "slug": "video-restraint",
+          "title": "Make video look expensive by showing less",
+          "path": "content/optional/opt-video-restraint.md",
+          "order": 106,
+          "summary": "Leo’s Apple breakdown is about restraint one idea per shot, controlled color, brand type. Eian’s film workflow locks story and stills before anyone generates motion.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "An expensive-looking video is usually a sequence of clear stills, not a pile of effects.",
+          "optional": true,
+          "item_ids": [
+            "opt-video-restraint-i01",
+            "opt-video-restraint-i02",
+            "opt-video-restraint-i03"
+          ]
+        },
+        {
+          "id": "opt-founder-presence",
+          "slug": "founder-presence",
+          "title": "Founder presence without becoming an influencer",
+          "path": "content/optional/opt-founder-presence.md",
+          "order": 107,
+          "summary": "Early on, a visible person often carries the story. That is not the same as a daily personal-brand quota, and it is not required if someone else trusted can do it.",
+          "read_min": 7,
+          "action_min": 8,
+          "takeaway": "Hiding completely while hoping “the brand” will talk is usually a delay. Becoming a full-time creator is a different job.",
+          "optional": true,
+          "item_ids": [
+            "opt-founder-presence-i01",
+            "opt-founder-presence-i02",
+            "opt-founder-presence-i03"
+          ]
+        },
+        {
+          "id": "opt-five-ai-skills",
+          "slug": "five-ai-skills",
+          "title": "Five AI skills KV would learn first",
+          "path": "content/optional/opt-five-ai-skills.md",
+          "order": 108,
+          "summary": "KV recommends workflow design, context engineering, agents, assisted building, and distribution. You do not need all five. Two that work together are enough.",
+          "read_min": 9,
+          "action_min": 10,
+          "takeaway": "The rare part is not generating fifty drafts. It is knowing which three to test and why the others are weak.",
+          "optional": true,
+          "item_ids": [
+            "opt-five-ai-skills-i01",
+            "opt-five-ai-skills-i02",
+            "opt-five-ai-skills-i03",
+            "opt-five-ai-skills-i04"
+          ]
+        },
+        {
+          "id": "opt-one-person-creative-team",
+          "slug": "one-person-creative-team",
+          "title": "The one-person creative team path",
+          "path": "content/optional/opt-one-person-creative-team.md",
+          "order": 109,
+          "summary": "Dan Koe argues that capturing attention is the skill underneath most digital businesses, and that one person can be their own creative team or someone else’s. That path is optional and is not required to finish this course.",
+          "read_min": 8,
+          "action_min": 8,
+          "takeaway": "Brand strategy, content strategy, and drafting are different jobs. Most people only do the third and then wonder why nothing sticks.",
+          "optional": true,
+          "item_ids": [
+            "opt-one-person-creative-team-i01",
+            "opt-one-person-creative-team-i02",
+            "opt-one-person-creative-team-i03"
+          ]
+        },
+        {
+          "id": "opt-local-seo",
+          "slug": "local-seo",
+          "title": "A local-search plan, without the bankruptcy story",
+          "path": "content/optional/opt-local-seo.md",
+          "order": 110,
+          "summary": "Sarvesh describes a local-SEO plan he would use if he had to rebuild income: pages and profiles that match how nearby buyers search. The $100k-a-month line is his claim.",
+          "read_min": 7,
+          "action_min": 8,
+          "takeaway": "Local search is ordinary search pointed at a place. The page has to name the service and the place a buyer would type.",
+          "optional": true,
+          "item_ids": [
+            "opt-local-seo-i01",
+            "opt-local-seo-i02"
+          ]
+        },
+        {
+          "id": "opt-social-research-bots",
+          "slug": "social-research-bots",
+          "title": "Research bots for short video, not autoposters",
+          "path": "content/optional/opt-social-research-bots.md",
+          "order": 111,
+          "summary": "jaffa describes ten bots that watch a large video database and turn what they find into a weekly plan. The useful idea is research and a human who still chooses what to film.",
+          "read_min": 7,
+          "action_min": 8,
+          "takeaway": "A bot that finds outlier openings and competitor ads is a research assistant. A bot that posts without you is a different, riskier product.",
+          "optional": true,
+          "item_ids": [
+            "opt-social-research-bots-i01"
+          ]
+        },
+        {
+          "id": "opt-marketing-engineering",
+          "slug": "marketing-engineering",
+          "title": "Marketing engineering as a stack, not a personality",
+          "path": "content/optional/opt-marketing-engineering.md",
+          "order": 112,
+          "summary": "Korzhov lists eleven operator skills from ads agents to incrementality. Cody argues the “100x marketer” now outranks the “100x engineer” if they can wire tools. Both posts also sell software. Take the map, leave the pitch.",
+          "read_min": 10,
+          "action_min": 10,
+          "takeaway": "You do not need eleven systems. You need to know the map so you do not confuse a missing tracking event with a missing strategy.",
+          "optional": true,
+          "item_ids": [
+            "opt-marketing-engineering-i01",
+            "opt-marketing-engineering-i02"
+          ]
+        },
+        {
+          "id": "opt-super-agent-design",
+          "slug": "super-agent-design",
+          "title": "Super-agent design, in plain words",
+          "path": "content/optional/opt-super-agent-design.md",
+          "order": 113,
+          "summary": "DeepSeek’s writeup is about an always-on system that routes work to specialists instead of trapping every task in a separate chat. It is architecture, not a marketing channel.",
+          "read_min": 7,
+          "action_min": 6,
+          "takeaway": "Isolated chats do not scale past a handful of jobs. A router plus specialists is closer to how a small team already works.",
+          "optional": true,
+          "item_ids": [
+            "opt-super-agent-design-i01"
+          ]
+        },
+        {
+          "id": "opt-fomo-tech-appendix",
+          "slug": "fomo-tech-appendix",
+          "title": "A technical FOMO list, translated",
+          "path": "content/optional/opt-fomo-tech-appendix.md",
+          "order": 114,
+          "summary": "Suraj’s “cancel your weekend” list is a pile of agent-infrastructure techniques. It is not a marketing plan. This appendix names what the items are so they are not mistaken for launch tactics.",
+          "read_min": 6,
+          "action_min": 5,
+          "takeaway": "Most items on that list are engineering reliability problems. Marketing still starts with a customer and a sentence they understand.",
+          "optional": true,
+          "item_ids": [
+            "opt-fomo-tech-appendix-i01"
+          ]
+        },
+        {
+          "id": "opt-first-month-hire",
+          "slug": "first-month-hire",
+          "title": "Your first month if you join a growth role",
+          "path": "content/optional/opt-first-month-hire.md",
+          "order": 115,
+          "summary": "Honorato’s first-month roadmap is for someone joining a company that already has product-market fit. The saved archive is partial. What remains is research first, then foundations rather than a bag of tactics.",
+          "read_min": 6,
+          "action_min": 6,
+          "takeaway": "A new growth hire’s first job is understanding the company, not installing a stack of tricks.",
+          "optional": true,
+          "item_ids": [
+            "opt-first-month-hire-i01",
+            "opt-first-month-hire-i02"
+          ]
+        },
+        {
+          "id": "opt-77-brands",
+          "slug": "seventy-seven-brands",
+          "title": "Seventy-seven brands, used as inspiration",
+          "path": "content/optional/opt-77-brands.md",
+          "order": 116,
+          "summary": "Robbie Richards collected early growth stories from many well-known companies. There is no single model. Use the catalog as inspiration, not as seventy-seven assignments to copy.",
+          "read_min": 6,
+          "action_min": 6,
+          "takeaway": "Famous companies did not share one trick. They found a first channel that matched their situation, which is the same advice as the one-channel lesson.",
+          "optional": true,
+          "item_ids": [
+            "opt-77-brands-i01"
+          ]
+        },
+        {
+          "id": "opt-posting-without-a-streak",
+          "slug": "posting-without-a-streak",
+          "title": "Frequency notes, without a streak",
+          "path": "content/optional/opt-posting-without-a-streak.md",
+          "order": 117,
+          "summary": "Nicholas lists habits that accompanied his move to 5,000 followers, including daily long posts. Tuan’s video agenda argues observation of working formats beats trying to be original first. Neither is a quota this course will impose.",
+          "read_min": 6,
+          "action_min": 5,
+          "takeaway": "Frequency is one possible input. It is not a moral score, and it does not replace one clear idea.",
+          "optional": true,
+          "item_ids": [
+            "opt-posting-without-a-streak-i01",
+            "opt-posting-without-a-streak-i02",
+            "opt-posting-without-a-streak-i03"
+          ]
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "aeo-prompt-tracker",
+      "title": "AEO prompt tracker",
+      "path": "content/templates/aeo-prompt-tracker.md"
+    },
+    {
+      "id": "bot-charter",
+      "title": "Bot charter",
+      "path": "content/templates/bot-charter.md"
+    },
+    {
+      "id": "content-brief",
+      "title": "Content brief",
+      "path": "content/templates/content-brief.md"
+    },
+    {
+      "id": "directory-tracker",
+      "title": "Directory tracker",
+      "path": "content/templates/directory-tracker.md"
+    },
+    {
+      "id": "gacc-card",
+      "title": "GACC card",
+      "path": "content/templates/gacc-card.md"
+    },
+    {
+      "id": "launch-checklist",
+      "title": "Launch checklist",
+      "path": "content/templates/launch-checklist.md"
+    },
+    {
+      "id": "messaging-guide",
+      "title": "Messaging guide (one page)",
+      "path": "content/templates/messaging-guide.md"
+    },
+    {
+      "id": "one-page-strategy",
+      "title": "One-page strategy",
+      "path": "content/templates/one-page-strategy.md"
+    },
+    {
+      "id": "positioning-worksheet",
+      "title": "Positioning worksheet",
+      "path": "content/templates/positioning-worksheet.md"
+    },
+    {
+      "id": "research-sheet",
+      "title": "Research sheet",
+      "path": "content/templates/research-sheet.md"
+    },
+    {
+      "id": "test-card",
+      "title": "Test card",
+      "path": "content/templates/test-card.md"
+    },
+    {
+      "id": "weekly-report",
+      "title": "Weekly report",
+      "path": "content/templates/weekly-report.md"
+    }
+  ],
+  "counts": {
+    "modules": 8,
+    "core_lessons": 24,
+    "optional_lessons": 17,
+    "total_lessons": 41,
+    "templates": 12,
+    "sources": 137,
+    "items": 152
+  }
+}

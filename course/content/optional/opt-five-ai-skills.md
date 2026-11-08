@@ -1,0 +1,76 @@
+---
+id: opt-five-ai-skills
+slug: five-ai-skills
+part: optional
+part_title: Optional depth
+order: 108
+title: Five AI skills KV would learn first
+summary: KV recommends workflow design, context engineering, agents, assisted building, and distribution. You do not need all five. Two that work together are enough.
+read_min: 9
+action_min: 10
+takeaway: The rare part is not generating fifty drafts. It is knowing which three to test and why the others are weak.
+min_action: Write one weekly task you already do, and mark it “assistant alone,” “assistant drafts and I fix,” or “assistant cannot help yet.”
+min_action_output: One labeled task.
+exercise: Pick one of KV’s first two skills and write a seven-day practice that uses a real task you already have. No new paid account required.
+exercise_min: 10
+exercise_output: A seven-day practice note.
+stop_when: You can name the five skills and have chosen at most two to practice.
+optional: true
+items:
+  - id: opt-five-ai-skills-i01
+    kind: method
+    statement: KV’s five skills are AI workflow design, context engineering, automation and agents, AI-assisted development, and content plus distribution. Pick one or two, not all five at once.
+    attribution: source-method
+    source_ids: [x-2115810173830750575, x-2116886564802576703]
+    informed_by: []
+  - id: opt-five-ai-skills-i02
+    kind: method
+    statement: Workflow design means splitting your existing work into what an assistant can do alone, what it drafts for you to fix, and what it cannot help with yet, then timing the difference.
+    attribution: source-method
+    source_ids: [x-2115810173830750575]
+    informed_by: []
+  - id: opt-five-ai-skills-i03
+    kind: method
+    statement: Context engineering means setting up an assistant once so it already knows your work, and adding a rule every time you correct it.
+    attribution: source-method
+    source_ids: [x-2115810173830750575]
+    informed_by: []
+  - id: opt-five-ai-skills-i04
+    kind: claim
+    statement: KV cites studies about faster writing, quality gains, and a pay premium for jobs that ask for AI skills. Those cited figures are not independently re-checked in this corpus.
+    attribution: source-claim
+    source_ids: [x-2115810173830750575]
+    informed_by: []
+---
+
+# Five AI skills KV would learn first
+
+About 9 minutes to read. Optional exercise about 10 minutes. These are estimates.
+
+KV wrote a guide about making money with AI by learning skills people pay for, not by chasing random tools. A follow-up post dared readers who finished it and still could not see a path. The five skills are the teaching core.
+
+The cited job-market figures (including a reported pay premium for roles that mention AI skills) are KV’s citations of outside studies. We do not re-audit them here.
+
+## The five
+
+**1. Workflow design.** Take work you already do and do it with an assistant. Anyone can generate fifty ads. The rare part, KV writes, is knowing which three to test, why the others fail, and what the results mean. Split your week into three piles: the assistant can do it alone, it drafts and you fix, or it cannot help yet. Time the middle pile before and after.
+
+**2. Context engineering.** Stop starting every chat from zero. Set up a project or custom assistant with who you are, how you work, and what “good” looks like. The most important rule in KV’s setup: every time you correct it, add a rule. After a month it starts to work more like you.
+
+**3. Automation and agents.** A normal automation follows fixed steps. An agent is given a goal and figures out steps (search, read files, draft). Start with one weekly hand-done task, write the steps and the human decisions, and have the result come back to you for approval. Run it for a couple of weeks and count the hours it saves. This overlaps the charter lesson: approval first.
+
+**4. Assisted development.** Building a simple app is getting easier. People pay for the part that makes it usable every day: logins, payments, stored data, fixes, and watching someone use it. Plan on one page, build one feature at a time, save working versions, and ask the assistant to explain any code you do not understand.
+
+**5. Content and distribution.** When many people can build, the ones who are already known have an advantage. Skills 1 to 4 give you things to write about. KV says this skill is the slowest to pay, and that it makes the others worth more.
+
+Do not learn all five at once. KV’s pairing advice: if you are unsure, start with context engineering, then add one more.
+
+## What to do
+
+**Under 2 minutes.** Label one weekly task.
+
+**Optional, about 10 minutes.** Write a seven-day practice for skill 1 or 2, using work you already have.
+
+## You're done when
+
+You can name the five and have chosen at most two.
