@@ -9,6 +9,7 @@
 	},
 	"scripts": {
 		"course:build": "node scripts/build-course-data.mjs",
+		"narration:export": "node scripts/export-narration.mjs",
 		"dev": "pnpm run course:build && vite dev",
 		"build": "pnpm run course:build && wrangler types --check && vite build",
 		"preview": "wrangler dev .svelte-kit/cloudflare/_worker.js --ip 127.0.0.1 --port 4173",

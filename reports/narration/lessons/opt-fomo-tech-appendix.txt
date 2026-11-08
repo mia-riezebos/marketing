@@ -1,0 +1,29 @@
+A technical FOMO list, translated
+
+Suraj’s “cancel your weekend” list is a pile of agent-infrastructure techniques. It is not a marketing plan. This appendix names what the items are so they are not mistaken for launch tactics.
+
+Takeaway: Most items on that list are engineering reliability problems. Marketing still starts with a customer and a sentence they understand.
+
+Suraj posted a “cancel your weekend” list of things the “2027 meta” supposedly requires: agents that drive software with no API, interfaces generated as live components, a router that handles easy requests cheaply and sends hard ones to a heavier model, workflows that resume after a crash, a raw MCP server so other agents can call you, outputs forced into valid JSON, graders that block bad tool sequences, proxies that catch prompt injections and hide personal data, and cost kill-switches.
+
+Those are real engineering ideas. A few connect to marketing later (an MCP server is what Taras needed for an agent marketplace; a cost kill-switch is Hunt’s “ask first” for spend). Most of them are how you keep an agent from breaking or leaking, not how you find a customer.
+
+If the list makes you feel behind, that is the rhetorical trick. You can market something useful without a speculative-decoding gateway. Come back here if you become the person who builds the agent other marketers call.
+
+A concrete translation
+
+“Write a raw MCP server” means: make a small, documented door so another assistant can call your product with limited permissions. That is why Taras could list a product on an agent marketplace. It is a product interface, not a launch post.
+
+“Add a cost kill-switch” means: stop a loop before it spends more than you allowed. That is Hunt’s ask-first list, written as engineering.
+
+“Build a computer-use agent that clicks around software with no API” is a reliability research problem. It is not how you decide what your homepage should say.
+
+What to do
+
+Under 2 minutes. Label one item.
+
+Optional, about 5 minutes. Group five items.
+
+You're done when
+
+You can see the list as infrastructure.

@@ -1,0 +1,33 @@
+Work with agents without giving up judgment
+
+Use assistants as bounded collaborators, not autonomous truth machines.
+
+This module turns AI work into ownership, charters, and judgment rather than magical delegation.
+
+Core questions
+
+- What is the bot allowed to do without asking?
+
+- Where does ownership of the answer stay human?
+
+- What should be remembered as a lesson rather than a log?
+
+Practice focus
+
+Define authority boundaries before you automate.
+
+Learning map
+
+A boundary map of human judgment, assistant drafting, and reusable memory.
+
+Charter the assistant
+
+Give one job with explicit boundaries.
+
+Keep human ownership
+
+Drafting can be delegated; judgment cannot.
+
+Save reusable lessons
+
+Memory should store what stays true.

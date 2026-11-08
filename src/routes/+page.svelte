@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { moduleDesignById, moduleStyle } from '../lib/course/learning-design';
 	import { getProgressCounts, getResumeHref, progressState } from '../lib/course/progress';
 	import type { PageProps } from './$types';
 
@@ -18,6 +19,8 @@
 	const bookmarkedLessons = $derived(
 		allLessons.filter((lesson) => snapshot.lessons[lesson.id]?.bookmarked)
 	);
+	const coreModules = $derived(data.modules.filter((module) => !module.optional));
+	const optionalModules = $derived(data.modules.filter((module) => module.optional));
 </script>
 
 <svelte:head>
@@ -102,46 +105,56 @@
 		<div class="section-heading">
 			<div>
 				<p class="eyebrow">Ordered path</p>
-				<h2>Core course map</h2>
+				<h2>Course journey</h2>
 			</div>
 			<p class="muted">
-				Start at the top. Optional lessons are separated below so the main route stays readable.
+				Follow the modules in order. Each one has its own orientation page so the learner sees
+				what they are trying to understand before they drop into lesson detail.
 			</p>
 		</div>
 
 		<div class="module-stack">
-			{#each data.modules.filter((module) => !module.optional) as module}
-				<section class="module-card">
+			{#each coreModules as module}
+				<section class="module-card module-card--journey" style={moduleStyle(moduleDesignById.get(module.id)!)}>
 					<header class="module-card__header">
 						<div>
 							<p class="eyebrow">{module.id === 'start' ? 'Orientation' : `Part ${module.id}`}</p>
 							<h3>{module.title}</h3>
+							<p class="muted">{moduleDesignById.get(module.id)?.intro}</p>
 						</div>
 						<span class="chip">{module.lessons.length} lesson{module.lessons.length === 1 ? '' : 's'}</span>
 					</header>
 
-					<ol class="lesson-list">
-						{#each module.lessons as lesson}
-							<li>
-								<a class="lesson-list__item" href={`/lessons/${lesson.slug}`}>
+					<div class="module-card__journey">
+						<ul class="module-question-list">
+							{#each moduleDesignById.get(module.id)?.questions ?? [] as question}
+								<li>{question}</li>
+							{/each}
+						</ul>
+
+						<div class="module-card__lessons">
+							{#each module.lessons.slice(0, 3) as lesson}
+								<a class="inline-card" href={`/lessons/${lesson.slug}`}>
 									<div class="lesson-list__title-row">
 										<strong>{lesson.title}</strong>
 										<span class={`lesson-status lesson-status--${snapshot.lessons[lesson.id]?.status ?? 'unstarted'}`}>
 											{snapshot.lessons[lesson.id]?.status ?? 'unstarted'}
 										</span>
 									</div>
-									<p>{lesson.summary}</p>
-									<div class="lesson-list__meta">
-										<span>{lesson.readMin} min read</span>
-										<span>{lesson.actionMin} min action</span>
-										{#if snapshot.lessons[lesson.id]?.bookmarked}
-											<span>Saved</span>
-										{/if}
-									</div>
+									<span>{lesson.summary}</span>
 								</a>
-							</li>
-						{/each}
-					</ol>
+							{/each}
+						</div>
+					</div>
+
+					<div class="cta-row">
+						<a class="button" href={`/modules/${moduleDesignById.get(module.id)?.slug}`}>
+							Open module overview
+						</a>
+						<a class="button button--ghost" href={`/lessons/${module.lessons[0].slug}`}>
+							Jump to first lesson
+						</a>
+					</div>
 				</section>
 			{/each}
 		</div>
@@ -158,23 +171,38 @@
 			</p>
 		</div>
 
-		{#each data.modules.filter((module) => module.optional) as module}
-			<section class="module-card">
+		{#each optionalModules as module}
+			<section class="module-card module-card--journey" style={moduleStyle(moduleDesignById.get(module.id)!)}>
 				<header class="module-card__header">
 					<div>
 						<p class="eyebrow">Optional module</p>
 						<h3>{module.title}</h3>
+						<p class="muted">{moduleDesignById.get(module.id)?.intro}</p>
 					</div>
 					<span class="chip">{module.lessons.length} lessons</span>
 				</header>
 
-				<div class="bookmark-grid">
-					{#each module.lessons as lesson}
-						<a class="inline-card" href={`/lessons/${lesson.slug}`}>
-							<strong>{lesson.title}</strong>
-							<span>{lesson.summary}</span>
-						</a>
-					{/each}
+				<div class="module-card__journey">
+					<ul class="module-question-list">
+						{#each moduleDesignById.get(module.id)?.questions ?? [] as question}
+							<li>{question}</li>
+						{/each}
+					</ul>
+
+					<div class="bookmark-grid">
+						{#each module.lessons.slice(0, 6) as lesson}
+							<a class="inline-card" href={`/lessons/${lesson.slug}`}>
+								<strong>{lesson.title}</strong>
+								<span>{lesson.summary}</span>
+							</a>
+						{/each}
+					</div>
+				</div>
+
+				<div class="cta-row">
+					<a class="button" href={`/modules/${moduleDesignById.get(module.id)?.slug}`}>
+						Open optional overview
+					</a>
 				</div>
 			</section>
 		{/each}

@@ -1,6 +1,7 @@
 import { expect, test } from '@playwright/test';
 
 import { courseData } from '../src/lib/generated/course-data';
+import { moduleDesigns } from '../src/lib/course/learning-design';
 
 test('all lesson and template routes are reachable', async ({ request }) => {
 	for (const lesson of courseData.lessons) {
@@ -11,6 +12,11 @@ test('all lesson and template routes are reachable', async ({ request }) => {
 	for (const template of courseData.templates) {
 		const response = await request.get(`/templates/${template.id}`);
 		expect(response.ok(), `Template route failed: ${template.id}`).toBeTruthy();
+	}
+
+	for (const moduleDesign of moduleDesigns) {
+		const response = await request.get(`/modules/${moduleDesign.slug}`);
+		expect(response.ok(), `Module route failed: ${moduleDesign.slug}`).toBeTruthy();
 	}
 
 	expect((await request.get('/sources')).ok()).toBeTruthy();

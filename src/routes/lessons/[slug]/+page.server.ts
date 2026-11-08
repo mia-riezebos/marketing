@@ -7,6 +7,7 @@ import {
 	getOptionalNeighbors,
 	getPreviousLesson
 } from '../../../lib/course/data';
+import { moduleDesignById } from '../../../lib/course/learning-design';
 
 export const load = ({ params }) => {
 	const lesson = getLesson(params.slug);
@@ -15,6 +16,7 @@ export const load = ({ params }) => {
 	}
 
 	return {
+		design: moduleDesignById.get(lesson.moduleId) ?? null,
 		lesson,
 		previousLesson: getPreviousLesson(lesson),
 		nextLesson: getNextLesson(lesson),

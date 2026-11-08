@@ -1,0 +1,47 @@
+{
+  "rawSource": {
+    "coreLessons": {
+      "words": 31232,
+      "characters": 189788
+    },
+    "optionalLessons": {
+      "words": 12341,
+      "characters": 77055
+    },
+    "templates": {
+      "words": 1071,
+      "characters": 6421
+    },
+    "lessonAndTemplateTotal": {
+      "words": 44644,
+      "characters": 273264
+    },
+    "fullCourseFiles": {
+      "words": 74723,
+      "characters": 584379,
+      "files": 61
+    }
+  },
+  "narrationReady": {
+    "moduleOverviews": {
+      "words": 870,
+      "characters": 5683
+    },
+    "coreLessons": {
+      "words": 23869,
+      "characters": 137274
+    },
+    "optionalLessons": {
+      "words": 7820,
+      "characters": 45340
+    },
+    "templates": {
+      "words": 1032,
+      "characters": 6144
+    },
+    "total": {
+      "words": 33591,
+      "characters": 194441
+    }
+  }
+}

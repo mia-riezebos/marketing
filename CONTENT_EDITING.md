@@ -27,6 +27,7 @@ pnpm run course:build
 pnpm run check
 pnpm run test:unit -- --run
 pnpm run test:e2e
+pnpm run narration:export
 ```
 
 ## Lesson authoring expectations
@@ -98,3 +99,20 @@ pnpm exec wrangler deploy
 ```
 
 This project targets **Cloudflare Workers with Static Assets**, not Pages and not Vercel.
+
+## Narration prep exports
+
+To regenerate the narration-ready text exports and count reports:
+
+```bash
+pnpm run narration:export
+```
+
+This writes:
+
+- `reports/narration/lessons/*.txt`
+- `reports/narration/templates/*.txt`
+- `reports/narration/modules/*.txt`
+- `reports/narration/manifest.json`
+- `reports/narration/counts.md`
+- `reports/narration/counts.json`

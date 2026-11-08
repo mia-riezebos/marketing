@@ -19,6 +19,7 @@ export const searchDocuments = courseData.searchDocuments;
 
 export const lessonBySlug = new Map<string, Lesson>(lessons.map((lesson) => [lesson.slug, lesson]));
 export const lessonById = new Map<string, Lesson>(lessons.map((lesson) => [lesson.id, lesson]));
+export const moduleById = new Map<string, Module>(modules.map((module) => [module.id, module]));
 export const templateById = new Map<string, Template>(templates.map((template) => [template.id, template]));
 export const sourceById = new Map<string, Source>(sources.map((source) => [source.id, source]));
 

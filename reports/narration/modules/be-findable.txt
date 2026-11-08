@@ -1,0 +1,33 @@
+Be findable
+
+Treat search, assistants, and directories as overlapping visibility systems.
+
+This module helps the learner diagnose discoverability before adding more content.
+
+Core questions
+
+- Can machines clearly read the page you already have?
+
+- What source or listing is shaping recommendations?
+
+- Which buyer rooms are worth an honest presence?
+
+Practice focus
+
+Start with technical clarity and source trust before chasing volume.
+
+Learning map
+
+A visibility ecosystem spanning your site, search, AI answers, and buyer directories.
+
+Your site
+
+Readable, crawlable, consistent.
+
+Search + AI
+
+Earn trust where buying questions are answered.
+
+Buyer rooms
+
+Show up in directories and marketplaces people already consult.

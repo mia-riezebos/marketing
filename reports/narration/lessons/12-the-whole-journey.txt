@@ -1,0 +1,104 @@
+Think in the whole journey
+
+Product marketing is a stack of questions covering how people find you, how they start, why they stay, and how you get paid. Acquisition is only the first layer.
+
+Takeaway: If you only measure new visitors, you will not notice that people arrive, get confused, and leave.
+
+A launch post can bring people to the door. Product marketing asks what happens after they walk in.
+
+Kunal Gandhi says crypto teams should take a product-marketing approach from the start. The portable version does not require a crypto product. It is a stack of questions whose answers become product work, not only ads.
+
+He writes the stack as acquisition, onboarding, engagement and retention, and monetization. The same sequence appeared in his earlier list of missteps: teams skip this approach, and many should have started with smoother onboarding.
+
+In a first-week plan he adds that you should understand the full journey with the people who build the product. Marketing is not a separate department that receives a finished object.
+
+Acquisition
+
+This layer is how the right people find you. Kunal’s notes:
+
+- Define the intended user. Writing a full profile is even better.
+- Pick channels.
+- Map content loops and campaigns.
+- Line up partnerships or integrations that already sit near those users.
+- Consider a referral program only if a happy user would naturally tell someone.
+
+Notice what is missing: “be everywhere.” Channel choice still follows the one-channel lesson.
+
+Onboarding
+
+Onboarding is the path from “I arrived” to “I get it.”
+
+Decide what “onboarded” means in observable terms. In Kunal’s crypto examples that might be a connected wallet or a first transaction. In a more ordinary product it might be “invited one housemate” or “imported an existing list” or “got a decided dinner on the first night.”
+
+Then design the first moment the product proves itself. If that moment is buried behind a tour, a survey, and a settings page, people will leave before they understand you.
+
+This is why homepage copy and onboarding are related. The promise you made on the first screen has to come true quickly inside the product.
+
+Engagement and retention
+
+Kunal writes that acquisition is easy and retention is hard. In another post he says product shelf life is now short, and that most of a marketer’s time should go into how people stay.
+
+Questions that belong here:
+
+- Which part of the product would make someone come back without a reminder?
+- How does a casual user become someone who relies on it?
+- Why do people leave, and what would a honest win-back look like?
+- What can you measure without building a warehouse of dashboards on day one?
+
+His examples include points, drops, and on-chain metrics because he is writing to crypto teams. Translate the questions, not the props. A household list app might care about “second shop completed this week,” not about points.
+
+Monetization
+
+Write down why you would charge, how, and for what. Kunal notes that crypto culture often loves free products, and that sustainable revenue still has to be thought about early.
+
+You do not need a clever pricing page this week. You do need to stop pretending the question can wait forever. Free can be a real strategy. Accidental free, with no idea how the work continues, is just a delay.
+
+A concrete example
+
+For the shared shopping list:
+
+Acquisition might be search for “shared grocery list” plus a card that movers or housemates already hand each other.
+
+Onboarding might mean “two people checked the same list.” The first proof is seeing someone else grab milk before you leave the house.
+
+Retention might mean the list is still used on the third shop, not that you sent a streak notification. Monetization might be a family plan, or it might honestly stay free until you know what people would pay for.
+
+Hypothetical Maal example
+
+This example is invented for teaching.
+
+Acquisition: people who already describe dinner-time shutdown as the problem. Onboarding: a decided dinner on night one, without building a pantry profile first. Retention: they came back the next hard evening without being nagged by a streak. Monetization: whatever model does not turn dinner into another chore to maintain.
+
+What to do
+
+Under 2 minutes. Write what “started successfully” means, as something a person did.
+
+Optional, about 10 minutes. Fill four boxes (acquisition, onboarding, retention, monetization) with questions, plus one note on what you will not measure yet.
+
+You're done when
+
+You can name the layers, and you have defined a successful first use in plain words.
+
+Visual explainer
+
+The journey is a stack, not a single metric
+
+Acquisition is only one layer. Confusion, activation, trust, and retention can fail even when traffic looks fine.
+
+People can find you
+
+Visibility gets someone to the door, but it does not explain what happens next.
+
+Traffic is the entry point, not the whole journey.
+
+They understand and start
+
+The path from first screen to first value has to make sense quickly.
+
+Many leaks are understanding leaks, not demand leaks.
+
+They stay, trust, and pay
+
+Retention, trust, and revenue reveal whether the promise actually held through the experience.
+
+A journey metric matters most when it changes what you fix next.

@@ -17,10 +17,11 @@ That led to a few hard constraints:
 The experience is intentionally split into five simple destinations:
 
 1. **Course**: start/resume, progress summary, prerequisite-ordered map
-2. **Lesson pages**: one lesson at a time, with chunk navigation and visible done criteria
-3. **Search**: find lessons, tactics, templates, and source context by topic
-4. **Templates**: copy/download usable worksheets
-5. **Sources**: attribution library with creator, limitations, and lesson backlinks
+2. **Module overviews**: orientation, core questions, learning map, and module-specific framing before the learner drops into detail
+3. **Lesson pages**: one lesson at a time, with chunk navigation, visible done criteria, and concept explainers where a spatial model genuinely helps
+4. **Search**: find lessons, tactics, templates, and source context by topic
+5. **Templates**: copy/download usable worksheets
+6. **Sources**: attribution library with creator, limitations, and lesson backlinks
 
 This keeps the navigation small enough for mobile while still exposing the source library and backup tools.
 
@@ -33,6 +34,7 @@ Lesson pages bias toward fast scanning:
 - "Under 2 minutes", optional exercise, and "You're done when" pinned near the reading
 - section navigation with heading-level chunk jumps
 - private notes beside the lesson rather than hidden in a separate tool
+- visual explainers only in lessons where a diagram clarifies the mechanism better than another paragraph would
 
 The prose column is intentionally narrow, with generous spacing and obvious heading breaks so a 10-12 minute lesson still feels interruptible.
 
@@ -69,6 +71,8 @@ Key choices:
 - reduced-motion support
 - semantic headings and labels throughout
 
+Module pages and diagram-bearing lessons share a common structure, but each module gets its own accent and learning-map language so the course journey feels intentionally staged rather than uniformly skinned.
+
 ## Cloudflare Workers choices
 
 The app uses `@sveltejs/adapter-cloudflare` with a real `wrangler.jsonc` for **Cloudflare Workers + Static Assets**.
@@ -95,3 +99,13 @@ The committed `course/` directory is the editable source of truth.
 - generates typed app data for the Svelte routes
 
 This keeps authored content editable in markdown/JSON while avoiding runtime parsing on Workers.
+
+## Narration/export preparation
+
+`scripts/export-narration.mjs` creates reproducible narration-prep outputs by separating:
+
+- raw committed source counts
+- narration-ready visible teaching counts
+- per-lesson, per-template, and per-module text exports
+
+It intentionally excludes navigation chrome, duplicated source-library text, and other non-teaching UI while including new visual-explainer/module-overview teaching copy.

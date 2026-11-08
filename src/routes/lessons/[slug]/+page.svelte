@@ -2,7 +2,9 @@
 	import { onMount, tick } from 'svelte';
 
 	import CreditsPanel from '../../../lib/components/CreditsPanel.svelte';
+	import LessonVisualExplainer from '../../../lib/components/LessonVisualExplainer.svelte';
 	import SectionNav from '../../../lib/components/SectionNav.svelte';
+	import { moduleStyle } from '../../../lib/course/learning-design';
 	import { progressState } from '../../../lib/course/progress';
 	import type { PageProps } from './$types';
 
@@ -86,13 +88,16 @@
 </svelte:head>
 
 <div class="page page--lesson">
-	<div class="lesson-hero surface">
+	<div class="lesson-hero surface" style={data.design ? moduleStyle(data.design) : undefined}>
 		<div class="lesson-hero__copy">
 			<p class="eyebrow">
 				{data.lesson.moduleId === 'start' ? 'Start here' : `Part ${data.lesson.part}`} · {data.lesson.moduleTitle}
 			</p>
 			<h1>{data.lesson.title}</h1>
 			<p class="lede">{data.lesson.summary}</p>
+			{#if data.design}
+				<p class="muted">{data.design.intent}</p>
+			{/if}
 
 			<div class="lesson-hero__meta">
 				<span class="chip">{data.lesson.readMin} min read</span>
@@ -102,6 +107,12 @@
 					<span class="chip">Optional</span>
 				{/if}
 			</div>
+
+			{#if data.design}
+				<p class="fine-print">
+					<a href={`/modules/${data.design.slug}`}>Open the {data.design.title} module overview</a>
+				</p>
+			{/if}
 		</div>
 
 		<div class="lesson-hero__actions">
@@ -156,6 +167,8 @@
 		</aside>
 
 		<div class="lesson-main">
+			<LessonVisualExplainer lessonId={data.lesson.id} />
+
 			<section class="surface">
 				<label class="notes-field">
 					<span class="eyebrow">Private notes</span>
